@@ -1,0 +1,115 @@
+total machine # is 16
+my rank is 0
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+total machine # is 16
+my rank is 4
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+total machine # is 16
+my rank is 1
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+total machine # is 16
+my rank is 2
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+total machine # is 16
+my rank is 8
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+total machine # is 16
+my rank is 9
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+total machine # is 16
+my rank is 5
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+total machine # is 16
+my rank is 3
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+vert:41652230  edge: 2405026092
+vert:41652230  edge: 2405026092
+vert:41652230  edge: 2405026092
+vert:41652230  edge: 2405026092
+vert:41652230  edge: 2405026092
+vert:41652230  edge: 2405026092
+vert:41652230  edge: 2405026092
+total machine # is 16
+my rank is 12
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 16
+my rank is 10
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 16
+my rank is 6
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 16
+my rank is 11
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 16
+my rank is 13
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 16
+my rank is 7
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 16
+my rank is 14
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 16
+my rank is 15
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+rank 13 count 709864750
+rank 15 count 980513908
+rank 12 count 1129151866
+rank 9 count 1368178872
+rank 11 count 1316602184
+rank 14 count 1694720584
+rank 7 count 1839100078
+rank 1 count 1702461040
+rank 8 count 2117159665
+rank 10 count 1983302510
+rank 5 count 2991106283
+rank 4 count 2558854936
+rank 3 count 2762211644
+rank 6 count 2770706806
+rank 0 count 2998131838
+total count from all machine = 34824916864
+total time of all machine = 14.0198
+average time of 5 round = 14.0198
+rank 2 count 5902849900

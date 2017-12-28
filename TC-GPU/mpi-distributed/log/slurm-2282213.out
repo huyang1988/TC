@@ -1,0 +1,79 @@
+total machine # is 8
+my rank is 0
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 8
+my rank is 4
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 8
+my rank is 1
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 8
+my rank is 3
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 8
+my rank is 2
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 8
+my rank is 5
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 8
+my rank is 7
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 8
+my rank is 6
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+rank 7 time 14.808
+rank 5 time 14.9054
+rank 1 time 15.5847
+rank 4 time 16.9982
+rank 3 time 17.5981
+rank 6 time 18.9114
+rank 0 time 20.1483
+total count from all machine = 34824916864
+total time of all machine = 20.7731
+rank 2 time 20.7729
+rank 7 time 14.5556
+rank 5 time 14.666
+rank 1 time 15.4052
+rank 4 time 16.7469
+rank 3 time 17.3359
+rank 6 time 18.7238
+rank 0 time 19.9523
+total count from all machine = 34824916864
+total time of all machine = 20.5724
+rank 2 time 20.5723
+rank 7 time 14.5581
+rank 5 time 14.6593
+rank 1 time 15.4007
+rank 4 time 16.7711
+rank 3 time 17.357
+rank 6 time 18.6844
+rank 0 time 19.9638
+total count from all machine = 34824916864
+total time of all machine = 20.5024
+average time of 5 round = 20.6159
+rank 2 time 20.5023

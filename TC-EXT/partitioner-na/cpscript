@@ -1,0 +1,10 @@
+cp partition-na ~/data/friendster/2d/
+cp partition-na ~/data/orkut/2d/
+cp partition-na ~/data/twitter/2d/
+cp partition-na ~/data/twitter_mpi/2d/
+cp partition-na ~/data/wikipedia_link_en/2d/
+cp partition-na ~/data/kron1/2d/
+cp partition-na ~/data/kron2/2d/
+cp partition-na ~/data/RMAT/2d/
+cp partition-na ~/data/facebook/2d/
+cp partition-na ~/data/random/2d/

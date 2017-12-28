@@ -1,0 +1,242 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+K=155125720
+K=310251440
+K=465377160
+part 0 edge  155125900
+part 0 edge~ 155125900
+part 1 edge  155125784
+part 1 edge~ 155125784
+part 2 edge  155125523
+part 2 edge~ 155125523
+part 3 edge  155125674
+part 3 edge~ 155125674
+part 0 cut at 0
+part 1 cut at 557166
+part 2 cut at 1110939
+part 3 cut at 1664719
+upper Edge Count= 620502881
+pre-processing time = 49.5713 secondes
+merge version tc = 3145181295
+total time = 8.68779 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+K=81759121
+K=163518243
+K=245277364
+part 0 edge  81773663
+part 0 edge~ 81773663
+part 1 edge  81745043
+part 1 edge~ 81745043
+part 2 edge  81758685
+part 2 edge~ 81758685
+part 3 edge  81759095
+part 3 edge~ 81759095
+part 0 cut at 0
+part 1 cut at 60455
+part 2 cut at 175832
+part 3 cut at 1098921
+upper Edge Count= 327036486
+pre-processing time = 13.9655 secondes
+merge version tc = 223127577
+total time = 6.21532 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+K=452962335
+K=905924671
+K=1358887006
+part 0 edge  452962382
+part 0 edge~ 452962382
+part 1 edge  452962292
+part 1 edge~ 452962292
+part 2 edge  452962339
+part 2 edge~ 452962339
+part 3 edge  452962329
+part 3 edge~ 452962329
+part 0 cut at 0
+part 1 cut at 6272019
+part 2 cut at 11790869
+part 3 cut at 20228127
+upper Edge Count= 1811849342
+pre-processing time = 184.344 secondes
+merge version tc = 4176922719
+total time = 66.5301 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+K=300628261
+K=601256523
+K=901884784
+part 0 edge  300629363
+part 0 edge~ 300629363
+part 1 edge  301590568
+part 1 edge~ 301590568
+part 2 edge  299664893
+part 2 edge~ 299664893
+part 3 edge  300628222
+part 3 edge~ 300628222
+part 0 cut at 0
+part 1 cut at 3627853
+part 2 cut at 5380592
+part 3 cut at 14076948
+upper Edge Count= 1202513046
+pre-processing time = 87.5371 secondes
+merge version tc = 34824916864
+total time = 77.3462 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+K=403526546
+K=807053093
+K=1210579640
+part 0 edge  403526655
+part 0 edge~ 403526655
+part 1 edge  403526955
+part 1 edge~ 403526955
+part 2 edge  403526041
+part 2 edge~ 403526041
+part 3 edge  403526536
+part 3 edge~ 403526536
+part 0 cut at 0
+part 1 cut at 39004
+part 2 cut at 408080
+part 3 cut at 4788001
+upper Edge Count= 1614106187
+pre-processing time = 130.164 secondes
+merge version tc = 55428217664
+total time = 113.367 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+K=300628261
+K=601256523
+K=901884784
+part 0 edge  300628737
+part 0 edge~ 300628737
+part 1 edge  300899481
+part 1 edge~ 300899481
+part 2 edge  300357282
+part 2 edge~ 300357282
+part 3 edge  300627546
+part 3 edge~ 300627546
+part 0 cut at 0
+part 1 cut at 16633216
+part 2 cut at 23375677
+part 3 cut at 45413204
+upper Edge Count= 1202513046
+pre-processing time = 125.81 secondes
+merge version tc = 34824916864
+total time = 79.7409 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+K=64594473
+K=129188946
+K=193783419
+part 0 edge  64594692
+part 0 edge~ 64594692
+part 1 edge  64594272
+part 1 edge~ 64594272
+part 2 edge  64594484
+part 2 edge~ 64594484
+part 3 edge  64594444
+part 3 edge~ 64594444
+part 0 cut at 0
+part 1 cut at 267865
+part 2 cut at 1830569
+part 3 cut at 5431145
+upper Edge Count= 258377892
+pre-processing time = 17.4499 secondes
+merge version tc = 10494607772
+total time = 6.38619 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+K=63274033
+K=126548067
+K=189822101
+part 0 edge  63274329
+part 0 edge~ 63274329
+part 1 edge  63274214
+part 1 edge~ 63274214
+part 2 edge  63273731
+part 2 edge~ 63273731
+part 3 edge  63273861
+part 3 edge~ 63273861
+part 0 cut at 0
+part 1 cut at 126084
+part 2 cut at 563660
+part 3 cut at 1660219
+upper Edge Count= 253096135
+pre-processing time = 15.8016 secondes
+merge version tc = 2102949738
+total time = 23.4256 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+K=63998980
+K=127997960
+K=191996940
+part 0 edge  63998999
+part 0 edge~ 63998999
+part 1 edge  63998985
+part 1 edge~ 63998985
+part 2 edge  63998995
+part 2 edge~ 63998995
+part 3 edge  63998941
+part 3 edge~ 63998941
+part 0 cut at 0
+part 1 cut at 1017776
+part 2 cut at 2021178
+part 3 cut at 3012699
+upper Edge Count= 255995920
+pre-processing time = 17.5379 secondes
+merge version tc = 349162
+total time = 7.32605 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+K=60509405
+K=121018811
+K=181528217
+part 0 edge  60514085
+part 0 edge~ 60514085
+part 1 edge  60507753
+part 1 edge~ 60507753
+part 2 edge  60513425
+part 2 edge~ 60513425
+part 3 edge  60502360
+part 3 edge~ 60502360
+part 0 cut at 0
+part 1 cut at 1030458
+part 2 cut at 2099476
+part 3 cut at 3153993
+upper Edge Count= 242037623
+pre-processing time = 14.241 secondes
+merge version tc = 37179588107
+total time = 54.1924 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+K=130902750
+K=261805501
+K=392708252
+part 0 edge  130902820
+part 0 edge~ 130902820
+part 1 edge  130908995
+part 1 edge~ 130908995
+part 2 edge  130898605
+part 2 edge~ 130898605
+part 3 edge  130900583
+part 3 edge~ 130900583
+part 0 cut at 0
+part 1 cut at 8325426
+part 2 cut at 16510955
+part 3 cut at 25325823
+upper Edge Count= 523611003
+pre-processing time = 55.6276 secondes
+merge version tc = 22535831016
+total time = 74.8121 secondes

@@ -1,0 +1,243 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 6.17342 secondes
+total count = 3145181295
+GPU time = 22.395 seconds
+total time = 23.598 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.855051 secondes
+total count = 223127577
+GPU time = 17.3557 seconds
+total time = 18.0604 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 1.39388 secondes
+total count = 10494607772
+GPU time = 13.3461 seconds
+total time = 13.9696 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.621596 secondes
+total count = 2102949738
+GPU time = 121.682 seconds
+total time = 122.276 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 0.873232 secondes
+total count = 349162
+GPU time = 12.6179 seconds
+total time = 13.229 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+upper Edge Count= 242037623
+pre-processing time = 0.703789 secondes
+total count = 37179588107
+GPU time = 451.14 seconds
+total time = 451.734 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+upper Edge Count= 523611003
+pre-processing time = 3.55792 secondes
+total count = 22535831016
+GPU time = 598.161 seconds
+total time = 599.151 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.62154 secondes
+==5862== NVPROF is profiling process 5862, command: ./tc /home/huyang/data/orkut/
+==5862== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 223127577
+GPU time = 34.7046 seconds
+total time = 35.6419 secondes
+==5862== Profiling application: ./tc /home/huyang/data/orkut/
+==5862== Profiling result:
+==5862== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (1)"
+	Kernel: reduce_kernel2(long*)
+          1                    dram_read_transactions           Device Memory Read Transactions         235         235         235
+	Kernel: warp_merge_kernel(int*, int*, int*, long*, long, long, long*)
+          1                    dram_read_transactions           Device Memory Read Transactions  1.5655e+10  1.5655e+10  1.5655e+10
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 4.34558 secondes
+==6034== NVPROF is profiling process 6034, command: ./tc /home/huyang/data/facebook/
+==6034== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 3145181295
+GPU time = 43.6517 seconds
+total time = 45.2388 secondes
+==6034== Profiling application: ./tc /home/huyang/data/facebook/
+==6034== Profiling result:
+==6034== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (1)"
+	Kernel: reduce_kernel2(long*)
+          1                    dram_read_transactions           Device Memory Read Transactions         215         215         215
+	Kernel: warp_merge_kernel(int*, int*, int*, long*, long, long, long*)
+          1                    dram_read_transactions           Device Memory Read Transactions  8708505238  8708505238  8708505238
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 0.92798 secondes
+==6265== NVPROF is profiling process 6265, command: ./tc /home/huyang/data/wikipedia_link_en/
+==6265== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 10494607772
+GPU time = 27.4636 seconds
+total time = 28.3086 secondes
+==6265== Profiling application: ./tc /home/huyang/data/wikipedia_link_en/
+==6265== Profiling result:
+==6265== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (1)"
+	Kernel: reduce_kernel2(long*)
+          1                    dram_read_transactions           Device Memory Read Transactions         243         243         243
+	Kernel: warp_merge_kernel(int*, int*, int*, long*, long, long, long*)
+          1                    dram_read_transactions           Device Memory Read Transactions  7722862974  7722862974  7722862974
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 0.922351 secondes
+==6883== NVPROF is profiling process 6883, command: ./tc /home/huyang/data/wikipedia_link_en/
+total count = 10494607772
+GPU time = 13.7193 seconds
+total time = 14.537 secondes
+==6883== Profiling application: ./tc /home/huyang/data/wikipedia_link_en/
+==6883== Profiling result:
+         Device          Context           Stream                Kernel  Global Load Transactions
+                                                                                                 
+ Tesla K40c (1)                1                7  warp_merge_kernel(in  3.953826321900000000e+10
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                       256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 4.34737 secondes
+==7097== NVPROF is profiling process 7097, command: ./tc /home/huyang/data/facebook/
+total count = 3145181295
+GPU time = 22.2006 seconds
+total time = 23.5811 secondes
+==7097== Profiling application: ./tc /home/huyang/data/facebook/
+==7097== Profiling result:
+         Device          Context           Stream                Kernel  Global Load Transactions
+                                                                                                 
+ Tesla K40c (1)                1                7  warp_merge_kernel(in  4.129979323500000000e+10
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                       256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.622022 secondes
+==7252== NVPROF is profiling process 7252, command: ./tc /home/huyang/data/orkut/
+total count = 223127577
+GPU time = 17.2391 seconds
+total time = 18.2148 secondes
+==7252== Profiling application: ./tc /home/huyang/data/orkut/
+==7252== Profiling result:
+         Device          Context           Stream                Kernel  Global Load Transactions
+                                                                                                 
+ Tesla K40c (1)                1                7  warp_merge_kernel(in                <OVERFLOW>
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                       256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 0.693336 secondes
+==7395== NVPROF is profiling process 7395, command: ./tc /home/huyang/data/random
+total count = 349162
+GPU time = 12.8983 seconds
+total time = 13.7169 secondes
+==7395== Profiling application: ./tc /home/huyang/data/random
+==7395== Profiling result:
+         Device          Context           Stream                Kernel  Global Load Transactions
+                                                                                                 
+ Tesla K40c (1)                1                7  warp_merge_kernel(in  2.271684053800000000e+10
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                       256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.427721 secondes
+==7553== NVPROF is profiling process 7553, command: ./tc /home/huyang/data/RMAT/
+total count = 2102949738
+GPU time = 129.005 seconds
+total time = 129.796 secondes
+==7553== Profiling application: ./tc /home/huyang/data/RMAT/
+==7553== Profiling result:
+         Device          Context           Stream                Kernel  Global Load Transactions
+                                                                                                 
+ Tesla K40c (1)                1                7  warp_merge_kernel(in                <OVERFLOW>
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                       256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 0.697226 secondes
+==7656== NVPROF is profiling process 7656, command: ./tc /home/huyang/data/random/
+==7656== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 349162
+GPU time = 25.8089 seconds
+total time = 26.6302 secondes
+==7656== Profiling application: ./tc /home/huyang/data/random/
+==7656== Profiling result:
+==7656== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (1)"
+	Kernel: reduce_kernel2(long*)
+          1                      dram_read_throughput             Device Memory Read Throughput  374.85MB/s  374.85MB/s  374.85MB/s
+	Kernel: warp_merge_kernel(int*, int*, int*, long*, long, long, long*)
+          1                      dram_read_throughput             Device Memory Read Throughput  11.034GB/s  11.034GB/s  11.034GB/s
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.428902 secondes
+==7791== NVPROF is profiling process 7791, command: ./tc /home/huyang/data/RMAT
+==7791== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 2102949738
+GPU time = 254.954 seconds
+total time = 255.723 secondes
+==7791== Profiling application: ./tc /home/huyang/data/RMAT
+==7791== Profiling result:
+==7791== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (1)"
+	Kernel: reduce_kernel2(long*)
+          1                      dram_read_throughput             Device Memory Read Throughput  363.87MB/s  363.87MB/s  363.87MB/s
+==7791== Warning: One or more events or metrics overflowed. Rerun with "--print-gpu-trace" for detail.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.431702 secondes
+==8003== NVPROF is profiling process 8003, command: ./tc /home/huyang/data/RMAT
+==8003== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 2102949738
+GPU time = 260.562 seconds
+total time = 261.462 secondes
+==8003== Profiling application: ./tc /home/huyang/data/RMAT
+==8003== Profiling result:
+==8003== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (1)"
+	Kernel: reduce_kernel2(long*)
+          1                    dram_read_transactions           Device Memory Read Transactions         223         223         223
+==8003== Warning: One or more events or metrics overflowed. Rerun with "--print-gpu-trace" for detail.

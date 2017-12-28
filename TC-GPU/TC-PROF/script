@@ -1,0 +1,36 @@
+#./tc-warp-cache/tc ~/data/facebook/
+#./tc-warp-cache/tc ~/data/orkut/
+#./tc-warp-cache/tc ~/data/friendster/
+#./tc-warp-cache/tc ~/data/twitter/
+#./tc-warp-cache/tc ~/data/twitter_mpi/
+#./tc-warp-cache/tc ~/data/wikipedia_link_en/
+#./tc-warp-cache/tc ~/data/RMAT/
+#./tc-warp-cache/tc ~/data/random/
+#./tc-warp-cache/tc ~/data/kron1/
+#./tc-warp-cache/tc ~/data/kron2/
+
+#nvprof --metrics ipc ./tc-warp-ipc/tc ~/data/facebook/
+#nvprof --metrics ipc ./tc-warp-ipc/tc ~/data/orkut/
+#nvprof --metrics ipc ./tc-warp-ipc/tc ~/data/friendster/
+#nvprof --metrics ipc ./tc-warp-ipc/tc ~/data/twitter/
+#nvprof --metrics ipc ./tc-warp-ipc/tc ~/data/twitter_mpi/
+#nvprof --metrics ipc ./tc-warp-ipc/tc ~/data/wikipedia_link_en/
+#nvprof --metrics ipc ./tc-warp-ipc/tc ~/data/RMAT/
+#nvprof --metrics ipc ./tc-warp-ipc/tc ~/data/random/
+#nvprof --metrics ipc ./tc-warp-ipc/tc ~/data/kron1/
+#nvprof --metrics ipc ./tc-warp-ipc/tc ~/data/kron2/
+
+nvprof --metrics ipc ./tc-warp-nipc/tc ~/data/facebook/
+nvprof --metrics ipc ./tc-warp-nipc/tc ~/data/orkut/
+nvprof --metrics ipc ./tc-warp-nipc/tc ~/data/friendster/
+nvprof --metrics ipc ./tc-warp-nipc/tc ~/data/twitter/
+nvprof --metrics ipc ./tc-warp-nipc/tc ~/data/twitter_mpi/
+nvprof --metrics ipc ./tc-warp-nipc/tc ~/data/wikipedia_link_en/
+nvprof --metrics ipc ./tc-warp-nipc/tc ~/data/RMAT/
+nvprof --metrics ipc ./tc-warp-nipc/tc ~/data/random/
+nvprof --metrics ipc ./tc-warp-nipc/tc ~/data/kron1/
+nvprof --metrics ipc ./tc-warp-nipc/tc ~/data/kron2/
+
+#./tc-warp-cache/script
+#./tc-warp-ipc/script
+#./tc-warp-nipc/script

@@ -1,0 +1,4 @@
+nvprof --print-gpu-trace --metrics gld_efficiency ./tc ~/data/twitter/
+nvprof --print-gpu-trace --metrics gld_transactions ./tc ~/data/twitter/
+nvprof --print-gpu-trace --metrics inst_executed ./tc ~/data/twitter/
+nvprof --print-gpu-trace --metrics ipc ./tc ~/data/twitter/

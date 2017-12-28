@@ -1,0 +1,64 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 6.14772 secondes
+total count = 3145181295
+GPU time = 37.1659 seconds
+total time = 38.4992 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.872745 secondes
+total count = 223127577
+GPU time = 88.371 seconds
+total time = 89.0935 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 1.33437 secondes
+total count = 10494607772
+GPU time = 39.6549 seconds
+total time = 40.281 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.626036 secondes
+total count = 2102949738
+GPU time = 190.505 seconds
+total time = 191.099 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 0.877741 secondes
+total count = 349162
+GPU time = 42.4242 seconds
+total time = 43.0528 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+upper Edge Count= 242037623
+pre-processing time = 0.695193 secondes
+total count = 37179588107
+GPU time = 490.299 seconds
+total time = 490.884 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+upper Edge Count= 523611003
+pre-processing time = 3.65146 secondes
+total count = 22535831016
+GPU time = 938.12 seconds
+total time = 939.115 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+upper Edge Count= 1202513046
+pre-processing time = 35.1771 secondes
+total count = 34824916864
+GPU time = 1581.5 seconds
+total time = 1584.9 secondes

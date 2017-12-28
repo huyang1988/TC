@@ -1,0 +1,80 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+k=81759121
+part 1 cut at 1145080
+k=163518243
+part 2 cut at 1520318
+k=245277364
+part 3 cut at 2083438
+part 0 edge 81759248
+part 1 edge 81759649
+part 2 edge 81758846
+part 3 edge 81758743
+GPU 3 part 0
+GPU 2 part 0
+GPU 0 part 0
+GPU 1 part 0
+GPU 0 part 1
+GPU 0 part 2
+GPU 1 part 1
+GPU 2 part 1
+GPU 3 part 1
+GPU 0 part 3
+gpu 0 binary count=36645448
+time = 8.24784 seconds
+GPU 1 part 2
+GPU 2 part 2
+GPU 1 part 3
+gpu 1 binary count=76327745
+time = 10.0731 seconds
+GPU 2 part 3
+gpu 2 binary count=72923765
+time = 11.0027 seconds
+GPU 3 part 2
+GPU 3 part 3
+gpu 3 binary count=37230619
+time = 13.3681 seconds
+total count 223127577
+total time  14.9525 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+k=81759121
+part 1 cut at 1145080
+k=163518243
+part 2 cut at 1520318
+k=245277364
+part 3 cut at 2083438
+part 0 edge 81759248
+part 1 edge 81759649
+part 2 edge 81758846
+part 3 edge 81758743
+GPU 2 part 0
+GPU 3 part 0
+GPU 0 part 0
+GPU 1 part 0
+GPU 0 part 1
+GPU 0 part 2
+GPU 2 part 1
+GPU 1 part 1
+GPU 3 part 1
+GPU 0 part 3
+gpu 0 binary count=36645448
+time = 8.21766 seconds
+GPU 1 part 2
+GPU 2 part 2
+GPU 1 part 3
+gpu 1 binary count=76327745
+time = 10.0575 seconds
+GPU 3 part 2
+GPU 2 part 3
+gpu 2 binary count=72923765
+time = 11.081 seconds
+GPU 3 part 3
+gpu 3 binary count=37230619
+time = 13.2168 seconds
+total count 223127577
+total time  14.8731 seconds

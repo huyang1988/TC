@@ -1,0 +1,225 @@
+sort.cpp:78:6: error: ‘graph’ has not been declared
+ void graph::reheap(){
+      ^
+sort.cpp: In function ‘void reheap()’:
+sort.cpp:80:22: error: ‘vert_count’ was not declared in this scope
+  for(vertex_t i=0; i<vert_count; i++){
+                      ^
+sort.cpp:81:13: error: ‘upperBegin’ was not declared in this scope
+   index_t a=upperBegin[i];
+             ^
+sort.cpp:83:8: error: ‘upperAdj’ was not declared in this scope
+   heap(upperAdj,heapAdj,a,b);
+        ^
+sort.cpp:83:17: error: ‘heapAdj’ was not declared in this scope
+   heap(upperAdj,heapAdj,a,b);
+                 ^
+sort.cpp: At global scope:
+sort.cpp:89:6: error: ‘graph’ has not been declared
+ void graph::sort(){
+      ^
+sort.cpp: In function ‘void sort()’:
+sort.cpp:90:22: error: ‘vert_count’ was not declared in this scope
+  for(vertex_t i=0; i<vert_count; i++){
+                      ^
+sort.cpp:91:13: error: ‘beg_pos’ was not declared in this scope
+   index_t a=beg_pos[i];
+             ^
+sort.cpp:93:13: error: ‘adj_list’ was not declared in this scope
+   quickSort(adj_list,a,b);
+             ^
+sort.cpp:96:2: error: ‘upperBegin’ was not declared in this scope
+  upperBegin = new index_t[vert_count+1];
+  ^
+sort.cpp:96:27: error: ‘vert_count’ was not declared in this scope
+  upperBegin = new index_t[vert_count+1];
+                           ^
+sort.cpp:101:13: error: ‘beg_pos’ was not declared in this scope
+   index_t j=beg_pos[i];
+             ^
+sort.cpp:103:7: error: ‘adj_list’ was not declared in this scope
+    if(adj_list[j]==adj_list[j+1]&&head_list[j]==head_list[j+1])
+       ^
+sort.cpp:103:35: error: ‘head_list’ was not declared in this scope
+    if(adj_list[j]==adj_list[j+1]&&head_list[j]==head_list[j+1])
+                                   ^
+sort.cpp:108:7: error: ‘head_list’ was not declared in this scope
+    if(head_list[j]<adj_list[j]){
+       ^
+sort.cpp:108:20: error: ‘adj_list’ was not declared in this scope
+    if(head_list[j]<adj_list[j]){
+                    ^
+sort.cpp:118:2: error: ‘upperEdgeCount’ was not declared in this scope
+  upperEdgeCount = k;
+  ^
+sort.cpp:119:2: error: ‘upperAdj’ was not declared in this scope
+  upperAdj = new vertex_t[upperEdgeCount];
+  ^
+sort.cpp:120:2: error: ‘upperHead’ was not declared in this scope
+  upperHead = new vertex_t[upperEdgeCount];
+  ^
+sort.cpp:126:13: error: ‘beg_pos’ was not declared in this scope
+   index_t j=beg_pos[i];
+             ^
+sort.cpp:128:7: error: ‘adj_list’ was not declared in this scope
+    if(adj_list[j]==adj_list[j+1]&&head_list[j]==head_list[j+1])
+       ^
+sort.cpp:128:35: error: ‘head_list’ was not declared in this scope
+    if(adj_list[j]==adj_list[j+1]&&head_list[j]==head_list[j+1])
+                                   ^
+sort.cpp:133:7: error: ‘head_list’ was not declared in this scope
+    if(head_list[j]<adj_list[j]){
+       ^
+sort.cpp:133:20: error: ‘adj_list’ was not declared in this scope
+    if(head_list[j]<adj_list[j]){
+                    ^
+sort.cpp: At global scope:
+sort.cpp:152:6: error: ‘graph’ has not been declared
+ void graph::reduce(){
+      ^
+sort.cpp: In function ‘void reduce()’:
+sort.cpp:153:2: error: ‘upperBegin’ was not declared in this scope
+  upperBegin = new index_t[vert_count+1];
+  ^
+sort.cpp:153:27: error: ‘vert_count’ was not declared in this scope
+  upperBegin = new index_t[vert_count+1];
+                           ^
+sort.cpp:158:13: error: ‘beg_pos’ was not declared in this scope
+   index_t j=beg_pos[i];
+             ^
+sort.cpp:160:7: error: ‘head_list’ was not declared in this scope
+    if(head_list[j]<adj_list[j]){
+       ^
+sort.cpp:160:20: error: ‘adj_list’ was not declared in this scope
+    if(head_list[j]<adj_list[j]){
+                    ^
+sort.cpp:168:2: error: ‘upperEdgeCount’ was not declared in this scope
+  upperEdgeCount = k;
+  ^
+sort.cpp:169:2: error: ‘upperAdj’ was not declared in this scope
+  upperAdj = new vertex_t[upperEdgeCount];
+  ^
+sort.cpp:170:2: error: ‘upperHead’ was not declared in this scope
+  upperHead = new vertex_t[upperEdgeCount];
+  ^
+sort.cpp:173:13: error: ‘beg_pos’ was not declared in this scope
+   index_t j=beg_pos[i];
+             ^
+sort.cpp:175:7: error: ‘head_list’ was not declared in this scope
+    if(head_list[j]<adj_list[j]){
+       ^
+sort.cpp:175:20: error: ‘adj_list’ was not declared in this scope
+    if(head_list[j]<adj_list[j]){
+                    ^
+sort.cpp: At global scope:
+sort.cpp:188:6: error: ‘graph’ has not been declared
+ void graph::reverse_rank_by_degree(){
+      ^
+sort.cpp: In function ‘void reverse_rank_by_degree()’:
+sort.cpp:189:2: error: ‘upperBegin’ was not declared in this scope
+  upperBegin = new index_t[vert_count+1];
+  ^
+sort.cpp:189:27: error: ‘vert_count’ was not declared in this scope
+  upperBegin = new index_t[vert_count+1];
+                           ^
+sort.cpp:194:13: error: ‘beg_pos’ was not declared in this scope
+   index_t j=beg_pos[i];
+             ^
+sort.cpp:195:15: error: ‘head_list’ was not declared in this scope
+    vertex_t h=head_list[j];
+               ^
+sort.cpp:198:15: error: ‘adj_list’ was not declared in this scope
+    vertex_t a=adj_list[j];
+               ^
+sort.cpp:208:2: error: ‘upperEdgeCount’ was not declared in this scope
+  upperEdgeCount = k;
+  ^
+sort.cpp:209:2: error: ‘upperAdj’ was not declared in this scope
+  upperAdj = new vertex_t[upperEdgeCount];
+  ^
+sort.cpp:210:2: error: ‘upperHead’ was not declared in this scope
+  upperHead = new vertex_t[upperEdgeCount];
+  ^
+sort.cpp:213:13: error: ‘beg_pos’ was not declared in this scope
+   index_t j=beg_pos[i];
+             ^
+sort.cpp:214:15: error: ‘head_list’ was not declared in this scope
+    vertex_t h=head_list[j];
+               ^
+sort.cpp:217:15: error: ‘adj_list’ was not declared in this scope
+    vertex_t a=adj_list[j];
+               ^
+sort.cpp: At global scope:
+sort.cpp:230:6: error: ‘graph’ has not been declared
+ void graph::rank_by_degree(){
+      ^
+sort.cpp: In function ‘void rank_by_degree()’:
+sort.cpp:231:2: error: ‘upperBegin’ was not declared in this scope
+  upperBegin = new index_t[vert_count+1];
+  ^
+sort.cpp:231:27: error: ‘vert_count’ was not declared in this scope
+  upperBegin = new index_t[vert_count+1];
+                           ^
+sort.cpp:236:13: error: ‘beg_pos’ was not declared in this scope
+   index_t j=beg_pos[i];
+             ^
+sort.cpp:237:15: error: ‘head_list’ was not declared in this scope
+    vertex_t h=head_list[j];
+               ^
+sort.cpp:240:15: error: ‘adj_list’ was not declared in this scope
+    vertex_t a=adj_list[j];
+               ^
+sort.cpp:250:2: error: ‘upperEdgeCount’ was not declared in this scope
+  upperEdgeCount = k;
+  ^
+sort.cpp:251:2: error: ‘upperAdj’ was not declared in this scope
+  upperAdj = new vertex_t[upperEdgeCount];
+  ^
+sort.cpp:252:2: error: ‘upperHead’ was not declared in this scope
+  upperHead = new vertex_t[upperEdgeCount];
+  ^
+sort.cpp:255:13: error: ‘beg_pos’ was not declared in this scope
+   index_t j=beg_pos[i];
+             ^
+sort.cpp:256:15: error: ‘head_list’ was not declared in this scope
+    vertex_t h=head_list[j];
+               ^
+sort.cpp:259:15: error: ‘adj_list’ was not declared in this scope
+    vertex_t a=adj_list[j];
+               ^
+sort.cpp: At global scope:
+sort.cpp:300:6: error: ‘graph’ has not been declared
+ void graph::partition(){
+      ^
+sort.cpp: In function ‘void partition()’:
+sort.cpp:302:2: error: ‘partAdj’ was not declared in this scope
+  partAdj  = new vertex_t*[PART_NUM];
+  ^
+sort.cpp:303:2: error: ‘partHead’ was not declared in this scope
+  partHead = new vertex_t*[PART_NUM];
+  ^
+sort.cpp:305:2: error: ‘partBegin’ was not declared in this scope
+  partBegin  = new index_t*[PART_NUM];
+  ^
+sort.cpp:306:2: error: ‘partEdgeCount’ was not declared in this scope
+  partEdgeCount = new index_t[PART_NUM];
+  ^
+sort.cpp:309:21: error: ‘upperEdgeCount’ was not declared in this scope
+  offset[PART_NUM] = upperEdgeCount;
+                     ^
+sort.cpp:313:36: error: ‘upperBegin’ was not declared in this scope
+   vertex_t index = BinarySearch(k, upperBegin, 0, vert_count-1);
+                                    ^
+sort.cpp:313:51: error: ‘vert_count’ was not declared in this scope
+   vertex_t index = BinarySearch(k, upperBegin, 0, vert_count-1);
+                                                   ^
+sort.cpp:328:25: error: ‘upperHead’ was not declared in this scope
+   vertex_t* tempHead = &upperHead[offset[i]];
+                         ^
+sort.cpp:329:25: error: ‘upperAdj’ was not declared in this scope
+   vertex_t* tempAdj  = &upperAdj[offset[i]];
+                         ^
+sort.cpp:336:31: error: ‘vert_count’ was not declared in this scope
+   partBegin[i] =  new index_t[vert_count+1];
+                               ^
+make: *** [sort.o] Error 1

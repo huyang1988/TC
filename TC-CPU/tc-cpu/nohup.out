@@ -1,0 +1,77 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+upper Edge Count= 242037623
+pre-processing time = 7.59454 secondes
+merge version tc = 37179588107
+total time = 1717.84 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+upper Edge Count= 523611003
+pre-processing time = 34.4303 secondes
+merge version tc = 22535831016
+total time = 2229.41 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 23.5481 secondes
+merge version tc = 3145181295
+total time = 227.145 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 8.13295 secondes
+merge version tc = 223127577
+total time = 191.191 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+upper Edge Count= 1811849342
+pre-processing time = 641.187 secondes
+merge version tc = 4176922719
+total time = 2238 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+upper Edge Count= 1202513046
+pre-processing time = 80.0854 secondes
+merge version tc = 34824916864
+total time = 2568.73 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+upper Edge Count= 1614106187
+pre-processing time = 84.7201 secondes
+merge version tc = 55428217664
+total time = 3511.49 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+upper Edge Count= 1202513046
+pre-processing time = 68.5461 secondes
+merge version tc = 34824916864
+total time = 2486.77 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 9.3235 secondes
+merge version tc = 10494607772
+total time = 184.8 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 8.449 secondes
+merge version tc = 2102949738
+total time = 741.762 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 11.5146 secondes
+merge version tc = 349162
+total time = 187.125 secondes

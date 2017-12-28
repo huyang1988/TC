@@ -1,0 +1,43 @@
+total machine # is 4
+my rank is 0
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 4
+my rank is 2
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 4
+my rank is 1
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+total machine # is 4
+my rank is 3
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+upper Edge Count= 1202513046
+rank 1 time 26.9449
+rank 3 time 28.6118
+rank 0 time 33.3943
+total count from all machine = 34824916864
+total time of all machine = 35.7108
+rank 2 time 35.7106
+rank 1 time 26.666
+rank 3 time 28.4615
+rank 0 time 33.2438
+total count from all machine = 34824916864
+total time of all machine = 35.425
+rank 2 time 35.4249
+rank 1 time 26.6277
+rank 3 time 28.44
+rank 0 time 33.2089
+total count from all machine = 34824916864
+total time of all machine = 35.4226
+average time of 5 round = 35.5194
+rank 2 time 35.4225

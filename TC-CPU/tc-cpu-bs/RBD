@@ -1,0 +1,507 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+rank by degree
+upper Edge Count= 327036486
+calculate
+validation version tc = 223127577
+total time = 1309.98 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+rank by degree
+upper Edge Count= 327036486
+calculate
+validation version tc = 223127577
+total time = 1306.89 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+rank by degree
+upper Edge Count= 620502881
+calculate
+branch free bs version tc = 3145181295
+total time = 1180.18 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+1-256 hybrid bs version tc = 34366790522
+total time = 12705.3 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+1-256 hybrid bs version tc = 34824871120
+total time = 4652.08 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+validation version tc = 34824916864
+total time = 4600.91 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+rank by degree
+upper Edge Count= 620502881
+calculate
+1-256 hybrid bs version tc = 3145181295
+total time = 13.1735 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+rank by degree
+upper Edge Count= 327036486
+calculate
+1-256 hybrid bs version tc = 223127578
+total time = 9.88788 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+rank by degree
+upper Edge Count= 1811849342
+calculate
+1-256 hybrid bs version tc = 4176922719
+total time = 65.8268 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+1-256 hybrid bs version tc = 34824918417
+total time = 210.519 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+rank by degree
+upper Edge Count= 1614106187
+calculate
+1-256 hybrid bs version tc = 55428217666
+total time = 419.877 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+1-256 hybrid bs version tc = 34824916869
+total time = 128.23 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+rank by degree
+upper Edge Count= 258377892
+calculate
+1-256 hybrid bs version tc = 10494607772
+total time = 8.01292 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+rank by degree
+upper Edge Count= 253096135
+calculate
+1-256 hybrid bs version tc = 2102949738
+total time = 30.1501 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+rank by degree
+upper Edge Count= 255995920
+calculate
+1-256 hybrid bs version tc = 349162
+total time = 5.45183 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+rank by degree
+upper Edge Count= 242037623
+calculate
+1-256 hybrid bs version tc = 37179588107
+total time = 60.0622 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+rank by degree
+upper Edge Count= 523611003
+calculate
+1-256 hybrid bs version tc = 22535831016
+total time = 80.9978 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+rank by degree
+upper Edge Count= 620502881
+calculate
+validation version tc = 3145181295
+total time = 12.9659 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+rank by degree
+upper Edge Count= 327036486
+calculate
+validation version tc = 223127577
+total time = 10.8063 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+rank by degree
+upper Edge Count= 1811849342
+calculate
+validation version tc = 4176922719
+total time = 64.684 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+validation version tc = 34824916864
+total time = 215.62 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+rank by degree
+upper Edge Count= 1614106187
+calculate
+validation version tc = 55428217664
+total time = 420.36 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+validation version tc = 34824916864
+total time = 128.334 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+rank by degree
+upper Edge Count= 258377892
+calculate
+validation version tc = 10494607772
+total time = 7.49706 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+rank by degree
+upper Edge Count= 253096135
+calculate
+validation version tc = 2102949738
+total time = 29.9828 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+rank by degree
+upper Edge Count= 255995920
+calculate
+validation version tc = 349162
+total time = 5.61981 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+rank by degree
+upper Edge Count= 242037623
+calculate
+validation version tc = 37179588107
+total time = 62.2422 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+rank by degree
+upper Edge Count= 523611003
+calculate
+validation version tc = 22535831016
+total time = 81.6287 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+rank by degree
+upper Edge Count= 620502881
+calculate
+merge version tc = 3145181295
+total time = 13.6237 secondes
+merge version tc = 3145181295
+total time = 12.9188 secondes
+merge version tc = 3145181295
+total time = 12.7523 secondes
+merge version tc = 3145181295
+total time = 12.851 secondes
+merge version tc = 3145181295
+total time = 12.6693 secondes
+average time of 5 round = 12.963 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+rank by degree
+upper Edge Count= 327036486
+calculate
+merge version tc = 223127577
+total time = 10.2229 secondes
+merge version tc = 223127577
+total time = 9.88505 secondes
+merge version tc = 223127577
+total time = 10.0383 secondes
+merge version tc = 223127577
+total time = 9.6281 secondes
+merge version tc = 223127577
+total time = 9.47064 secondes
+average time of 5 round = 9.849 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+rank by degree
+upper Edge Count= 1811849342
+calculate
+merge version tc = 4176922719
+total time = 65.1187 secondes
+merge version tc = 4176922719
+total time = 64.5644 secondes
+merge version tc = 4176922719
+total time = 63.9013 secondes
+merge version tc = 4176922719
+total time = 64.1313 secondes
+merge version tc = 4176922719
+total time = 62.5608 secondes
+average time of 5 round = 64.0553 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+merge version tc = 34824916864
+total time = 215.638 secondes
+merge version tc = 34824916864
+total time = 214.51 secondes
+merge version tc = 34824916864
+total time = 219.605 secondes
+merge version tc = 34824916864
+total time = 213.119 secondes
+merge version tc = 34824916864
+total time = 213.291 secondes
+average time of 5 round = 215.233 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+rank by degree
+upper Edge Count= 1614106187
+calculate
+merge version tc = 55428217664
+total time = 417.918 secondes
+merge version tc = 55428217664
+total time = 420.616 secondes
+merge version tc = 55428217664
+total time = 415.185 secondes
+merge version tc = 55428217664
+total time = 418.62 secondes
+merge version tc = 55428217664
+total time = 422.807 secondes
+average time of 5 round = 419.029 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+./merge-script: line 6: 22222 Terminated              ./tc-merge ~/data/twitter_rv/
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+rank by degree
+upper Edge Count= 258377892
+calculate
+merge version tc = 10494607772
+total time = 7.3374 secondes
+merge version tc = 10494607772
+total time = 8.10179 secondes
+merge version tc = 10494607772
+total time = 7.21755 secondes
+merge version tc = 10494607772
+total time = 8.06667 secondes
+merge version tc = 10494607772
+total time = 8.50865 secondes
+average time of 5 round = 7.84641 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+rank by degree
+upper Edge Count= 253096135
+calculate
+merge version tc = 2102949738
+total time = 30.5562 secondes
+merge version tc = 2102949738
+total time = 29.4042 secondes
+merge version tc = 2102949738
+total time = 28.8759 secondes
+merge version tc = 2102949738
+total time = 30.1802 secondes
+merge version tc = 2102949738
+total time = 29.5779 secondes
+average time of 5 round = 29.7189 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+rank by degree
+upper Edge Count= 255995920
+calculate
+merge version tc = 349162
+total time = 5.50908 secondes
+merge version tc = 349162
+total time = 5.51319 secondes
+merge version tc = 349162
+total time = 5.2535 secondes
+merge version tc = 349162
+total time = 5.45817 secondes
+merge version tc = 349162
+total time = 5.31755 secondes
+average time of 5 round = 5.4103 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+rank by degree
+upper Edge Count= 242037623
+calculate
+merge version tc = 37179588107
+total time = 59.9469 secondes
+merge version tc = 37179588107
+total time = 60.0874 secondes
+merge version tc = 37179588107
+total time = 60.5343 secondes
+merge version tc = 37179588107
+total time = 59.6565 secondes
+merge version tc = 37179588107
+total time = 59.8404 secondes
+average time of 5 round = 60.0131 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+rank by degree
+upper Edge Count= 523611003
+calculate
+merge version tc = 22535831016
+total time = 79.6622 secondes
+merge version tc = 22535831016
+total time = 79.2841 secondes
+merge version tc = 22535831016
+total time = 79.2065 secondes
+merge version tc = 22535831016
+total time = 80.6451 secondes
+merge version tc = 22535831016
+total time = 80.5065 secondes
+average time of 5 round = 79.8609 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+rank by degree
+upper Edge Count= 620502881
+calculate
+bs version tc = 3145181295
+total time = 30.9748 secondes
+bs version tc = 3145181295
+total time = 30.8302 secondes
+bs version tc = 3145181295
+total time = 31.072 secondes
+bs version tc = 3145181295
+total time = 30.4261 secondes
+bs version tc = 3145181295
+total time = 30.9816 secondes
+average time of 5 round = 30.8569 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+rank by degree
+upper Edge Count= 327036486
+calculate
+bs version tc = 223127577
+total time = 33.2555 secondes
+bs version tc = 223127577
+total time = 34.5394 secondes
+bs version tc = 223127577
+total time = 34.7417 secondes
+bs version tc = 223127577
+total time = 33.5598 secondes
+bs version tc = 223127577
+total time = 32.6513 secondes
+average time of 5 round = 33.7495 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+rank by degree
+upper Edge Count= 1811849342
+calculate
+bs version tc = 4176922719
+total time = 179.444 secondes
+bs version tc = 4176922719
+total time = 177.004 secondes
+bs version tc = 4176922719
+total time = 174.967 secondes
+bs version tc = 4176922719
+total time = 178.572 secondes
+bs version tc = 4176922719
+total time = 176.368 secondes
+average time of 5 round = 177.271 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+bs version tc = 34824916864
+total time = 902.938 secondes
+bs version tc = 34824916864
+total time = 903.794 secondes
+bs version tc = 34824916864
+total time = 900.283 secondes
+bs version tc = 34824916864
+total time = 900.106 secondes
+bs version tc = 34824916864
+total time = 900.91 secondes
+average time of 5 round = 901.606 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+rank by degree
+upper Edge Count= 1614106187
+calculate
+bs version tc = 55428217664
+total time = 1807.24 secondes
+bs version tc = 55428217664
+total time = 1816.24 secondes
+bs version tc = 55428217664
+total time = 1800.62 secondes
+bs version tc = 55428217664
+total time = 1815.15 secondes
+bs version tc = 55428217664
+total time = 1810.26 secondes
+average time of 5 round = 1809.9 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+./bs-script: line 6: 27869 Terminated              ./tc-bs ~/data/twitter_rv/
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+./bs-script: line 7: 27871 Terminated              ./tc-bs ~/data/wikipedia_link_en/
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+./bs-script: line 8: 27872 Terminated              ./tc-bs ~/data/RMAT/
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+./bs-script: line 9: 27932 Terminated              ./tc-bs ~/data/random/
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+./bs-script: line 10: 27933 Terminated              ./tc-bs ~/data/kron1/
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+./bs-script: line 11: 27934 Terminated              ./tc-bs ~/data/kron2/

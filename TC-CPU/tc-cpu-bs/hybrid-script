@@ -1,0 +1,11 @@
+./tc-hybrid ~/data/facebook/
+./tc-hybrid ~/data/orkut/
+./tc-hybrid ~/data/friendster/
+./tc-hybrid ~/data/twitter/
+./tc-hybrid ~/data/twitter_mpi/
+./tc-hybrid ~/data/twitter_rv/
+./tc-hybrid ~/data/wikipedia_link_en/
+./tc-hybrid ~/data/RMAT/
+./tc-hybrid ~/data/random/
+./tc-hybrid ~/data/kron1/
+./tc-hybrid ~/data/kron2/

@@ -1,0 +1,32 @@
+rank-by-degree orientation + 1-d vertical partitioning
+
+Metadata:
+N1, N2, offset array...
+N1 = PART_NUM; 	column-wise partition number
+N2 = _2DPART;	row-wise partition number
+offset array: vertex_t [N1*N2]
+
+
+
+
+CSR partition:
+
+partition number: PART_NUM, column, defined in comm.h
+file name: begin0-0, adjacent0-0
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edge partition:
+
+partition number: _2DPART, 2d number, defined in comm.h
+file name: edge0-0

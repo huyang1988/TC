@@ -1,0 +1,10 @@
+./tc-merge ~/data/facebook/
+./tc-merge ~/data/orkut/
+./tc-merge ~/data/friendster/
+./tc-merge ~/data/twitter/
+./tc-merge ~/data/twitter_mpi/
+./tc-merge ~/data/wikipedia_link_en/
+./tc-merge ~/data/RMAT/
+./tc-merge ~/data/random/
+./tc-merge ~/data/kron1/
+./tc-merge ~/data/kron2/

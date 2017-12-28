@@ -1,0 +1,5 @@
+text tuple list to csr with int as vertex type and long int as index type.
+
+ignore the first lines start with '%'.
+
+print first 64 line as verification.

@@ -1,0 +1,726 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/2d
+partition number = 2
+vert count = 96079681
+part 0 edge count = 310251684
+vert count = 96079681
+part 1 edge count = 310251197
+upperEdgeCount = 620502881
+merge version tc = 3145181295
+total time = 13.0638 secondes
+time of io = 4.25489
+time of tc = 8.80039
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/2d
+partition number = 1
+vert count = 8730857
+part 0 edge count = 327036486
+upperEdgeCount = 327036486
+merge version tc = 223127577
+total time = 8.2405 secondes
+time of io = 1.29099
+time of tc = 6.94514
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/2d
+partition number = 5
+vert count = 68349466
+part 0 edge count = 362369905
+vert count = 68349466
+part 1 edge count = 362370666
+vert count = 68349466
+part 2 edge count = 362369057
+vert count = 68349466
+part 3 edge count = 362369864
+vert count = 68349466
+part 4 edge count = 362369850
+upperEdgeCount = 1811849342
+merge version tc = 4176922719
+total time = 99.3675 secondes
+time of io = 24.301
+time of tc = 75.0427
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/2d
+partition number = 3
+vert count = 41652230
+part 0 edge count = 400838031
+vert count = 41652230
+part 1 edge count = 400892235
+vert count = 41652230
+part 2 edge count = 400782780
+upperEdgeCount = 1202513046
+merge version tc = 34824916864
+total time = 93.8259 secondes
+time of io = 9.88531
+time of tc = 83.9257
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/2d
+partition number = 4
+vert count = 52579682
+part 0 edge count = 403526655
+vert count = 52579682
+part 1 edge count = 403526955
+vert count = 52579682
+part 2 edge count = 403526041
+vert count = 52579682
+part 3 edge count = 403526536
+upperEdgeCount = 1614106187
+merge version tc = 55428217664
+total time = 136.833 secondes
+time of io = 17.5571
+time of tc = 119.256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/2d
+partition number = 1
+vert count = 11196007
+part 0 edge count = 258377892
+upperEdgeCount = 258377892
+merge version tc = 10494607772
+total time = 6.9482 secondes
+time of io = 1.02732
+time of tc = 5.91768
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/2d
+partition number = 1
+vert count = 3999983
+part 0 edge count = 253096135
+upperEdgeCount = 253096135
+merge version tc = 2102949738
+total time = 23.9483 secondes
+time of io = 1.03184
+time of tc = 22.9132
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/2d
+partition number = 1
+vert count = 4000000
+part 0 edge count = 255995920
+upperEdgeCount = 255995920
+merge version tc = 349162
+total time = 5.76581 secondes
+time of io = 1.06191
+time of tc = 4.70053
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/2d
+partition number = 1
+vert count = 4194303
+part 0 edge count = 242037623
+upperEdgeCount = 242037623
+merge version tc = 37179588107
+total time = 56.1678 secondes
+time of io = 0.973836
+time of tc = 55.1909
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/2d
+partition number = 2
+vert count = 33554432
+part 0 edge count = 261811815
+vert count = 33554432
+part 1 edge count = 261799188
+upperEdgeCount = 523611003
+merge version tc = 22535831016
+total time = 78.6829 secondes
+time of io = 3.37861
+time of tc = 75.2969
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/2d
+partition number = 2
+vert count = 96079681
+part 0 edge count = 310251684
+vert count = 96079681
+part 1 edge count = 310251197
+upperEdgeCount = 620502881
+merge version tc = 3145181295
+total time = 12.4916 secondes
+time of io = 4.28775
+time of tc = 8.19641
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/2d
+partition number = 1
+vert count = 8730857
+part 0 edge count = 327036486
+upperEdgeCount = 327036486
+merge version tc = 223127577
+total time = 8.04772 secondes
+time of io = 1.2807
+time of tc = 6.76263
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/2d
+partition number = 5
+vert count = 68349466
+part 0 edge count = 362369905
+vert count = 68349466
+part 1 edge count = 362370666
+vert count = 68349466
+part 2 edge count = 362369057
+vert count = 68349466
+part 3 edge count = 362369864
+vert count = 68349466
+part 4 edge count = 362369850
+upperEdgeCount = 1811849342
+merge version tc = 4176922719
+total time = 96.4634 secondes
+time of io = 22.4367
+time of tc = 74.0024
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/2d
+partition number = 3
+vert count = 41652230
+part 0 edge count = 400838031
+vert count = 41652230
+part 1 edge count = 400892235
+vert count = 41652230
+part 2 edge count = 400782780
+upperEdgeCount = 1202513046
+merge version tc = 34824916864
+total time = 93.6698 secondes
+time of io = 9.76628
+time of tc = 83.888
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/2d
+partition number = 4
+vert count = 52579682
+part 0 edge count = 403526655
+vert count = 52579682
+part 1 edge count = 403526955
+vert count = 52579682
+part 2 edge count = 403526041
+vert count = 52579682
+part 3 edge count = 403526536
+upperEdgeCount = 1614106187
+merge version tc = 55428217664
+total time = 135.43 secondes
+time of io = 16.33
+time of tc = 119.079
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/2d
+partition number = 1
+vert count = 11196007
+part 0 edge count = 258377892
+upperEdgeCount = 258377892
+merge version tc = 10494607772
+total time = 6.89821 secondes
+time of io = 1.00295
+time of tc = 5.892
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/2d
+partition number = 1
+vert count = 3999983
+part 0 edge count = 253096135
+upperEdgeCount = 253096135
+merge version tc = 2102949738
+total time = 23.8808 secondes
+time of io = 0.981187
+time of tc = 22.8964
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/2d
+partition number = 1
+vert count = 4000000
+part 0 edge count = 255995920
+upperEdgeCount = 255995920
+merge version tc = 349162
+total time = 5.63227 secondes
+time of io = 0.94558
+time of tc = 4.68345
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/2d
+partition number = 1
+vert count = 4194303
+part 0 edge count = 242037623
+upperEdgeCount = 242037623
+merge version tc = 37179588107
+total time = 56.1589 secondes
+time of io = 0.956397
+time of tc = 55.1989
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/2d
+partition number = 2
+vert count = 33554432
+part 0 edge count = 261811815
+vert count = 33554432
+part 1 edge count = 261799188
+upperEdgeCount = 523611003
+merge version tc = 22535831016
+total time = 78.8011 secondes
+time of io = 3.33855
+time of tc = 75.4561
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/2d
+partition number = 2
+vert count = 96079681
+part 0 edge count = 310251684
+vert count = 96079681
+part 1 edge count = 310251197
+upperEdgeCount = 620502881
+merge version tc = 3145181295
+total time = 12.1731 secondes
+time of io = 4.00423
+time of tc = 8.16154
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/2d
+partition number = 1
+vert count = 8730857
+part 0 edge count = 327036486
+upperEdgeCount = 327036486
+merge version tc = 223127577
+total time = 8.03687 secondes
+time of io = 1.18301
+time of tc = 6.84975
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/2d
+partition number = 5
+vert count = 68349466
+part 0 edge count = 362369905
+vert count = 68349466
+part 1 edge count = 362370666
+vert count = 68349466
+part 2 edge count = 362369057
+vert count = 68349466
+part 3 edge count = 362369864
+vert count = 68349466
+part 4 edge count = 362369850
+upperEdgeCount = 1811849342
+merge version tc = 4176922719
+total time = 97.2299 secondes
+time of io = 23.2825
+time of tc = 73.925
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/2d
+partition number = 3
+vert count = 41652230
+part 0 edge count = 400838031
+vert count = 41652230
+part 1 edge count = 400892235
+vert count = 41652230
+part 2 edge count = 400782780
+upperEdgeCount = 1202513046
+merge version tc = 34824916864
+total time = 93.7237 secondes
+time of io = 9.9665
+time of tc = 83.7427
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/2d
+partition number = 4
+vert count = 52579682
+part 0 edge count = 403526655
+vert count = 52579682
+part 1 edge count = 403526955
+vert count = 52579682
+part 2 edge count = 403526041
+vert count = 52579682
+part 3 edge count = 403526536
+upperEdgeCount = 1614106187
+merge version tc = 55428217664
+total time = 135.72 secondes
+time of io = 16.4779
+time of tc = 119.221
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/2d
+partition number = 1
+vert count = 11196007
+part 0 edge count = 258377892
+upperEdgeCount = 258377892
+merge version tc = 10494607772
+total time = 6.84886 secondes
+time of io = 0.958457
+time of tc = 5.88726
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/2d
+partition number = 1
+vert count = 3999983
+part 0 edge count = 253096135
+upperEdgeCount = 253096135
+merge version tc = 2102949738
+total time = 23.8173 secondes
+time of io = 0.919909
+time of tc = 22.894
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/2d
+partition number = 1
+vert count = 4000000
+part 0 edge count = 255995920
+upperEdgeCount = 255995920
+merge version tc = 349162
+total time = 5.68224 secondes
+time of io = 0.980097
+time of tc = 4.69859
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/2d
+partition number = 1
+vert count = 4194303
+part 0 edge count = 242037623
+upperEdgeCount = 242037623
+merge version tc = 37179588107
+total time = 56.1865 secondes
+time of io = 0.914732
+time of tc = 55.2685
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/2d
+partition number = 2
+vert count = 33554432
+part 0 edge count = 261811815
+vert count = 33554432
+part 1 edge count = 261799188
+upperEdgeCount = 523611003
+merge version tc = 22535831016
+total time = 78.5969 secondes
+time of io = 3.18884
+time of tc = 75.4007
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/2d
+partition number = 9
+vert count = 96079681
+part 0 edge count = 68944777
+vert count = 96079681
+part 1 edge count = 68946141
+vert count = 96079681
+part 2 edge count = 68943682
+vert count = 96079681
+part 3 edge count = 68945950
+vert count = 96079681
+part 4 edge count = 68943690
+vert count = 96079681
+part 5 edge count = 68945721
+vert count = 96079681
+part 6 edge count = 68943802
+vert count = 96079681
+part 7 edge count = 68944789
+vert count = 96079681
+part 8 edge count = 68944329
+upperEdgeCount = 620502881
+merge version tc = 3145181295
+total time = 23.9595 secondes
+time of io = 14.0483
+time of tc = 9.89928
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/2d
+partition number = 2
+vert count = 8730857
+part 0 edge count = 163518706
+vert count = 8730857
+part 1 edge count = 163517780
+upperEdgeCount = 327036486
+merge version tc = 223127577
+total time = 8.46641 secondes
+time of io = 2.14061
+time of tc = 6.32112
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/2d
+partition number = 14
+vert count = 68349466
+part 0 edge count = 129418118
+vert count = 68349466
+part 1 edge count = 129417607
+vert count = 68349466
+part 2 edge count = 129417726
+vert count = 68349466
+part 3 edge count = 129418973
+vert count = 68349466
+part 4 edge count = 129416738
+vert count = 68349466
+part 5 edge count = 129418559
+vert count = 68349466
+part 6 edge count = 129416953
+vert count = 68349466
+part 7 edge count = 129417977
+vert count = 68349466
+part 8 edge count = 129417680
+vert count = 68349466
+part 9 edge count = 129417929
+vert count = 68349466
+part 10 edge count = 129417676
+vert count = 68349466
+part 11 edge count = 129417787
+vert count = 68349466
+part 12 edge count = 129417881
+vert count = 68349466
+part 13 edge count = 129417738
+upperEdgeCount = 1811849342
+merge version tc = 4176922719
+total time = 171.175 secondes
+time of io = 59.1613
+time of tc = 111.981
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/2d
+partition number = 7
+vert count = 41652230
+part 0 edge count = 171788387
+vert count = 41652230
+part 1 edge count = 171786914
+vert count = 41652230
+part 2 edge count = 171787443
+vert count = 41652230
+part 3 edge count = 171913315
+vert count = 41652230
+part 4 edge count = 171968422
+vert count = 41652230
+part 5 edge count = 171484355
+vert count = 41652230
+part 6 edge count = 171784210
+upperEdgeCount = 1202513046
+merge version tc = 34824916864
+total time = 110.574 secondes
+time of io = 20.9264
+time of tc = 89.6277
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/2d
+partition number = 10
+vert count = 52579682
+part 0 edge count = 162519707
+vert count = 52579682
+part 1 edge count = 160301567
+vert count = 52579682
+part 2 edge count = 161419379
+vert count = 52579682
+part 3 edge count = 161403394
+vert count = 52579682
+part 4 edge count = 161409563
+vert count = 52579682
+part 5 edge count = 161410263
+vert count = 52579682
+part 6 edge count = 161411995
+vert count = 52579682
+part 7 edge count = 161410796
+vert count = 52579682
+part 8 edge count = 161409258
+vert count = 52579682
+part 9 edge count = 161410265
+upperEdgeCount = 1614106187
+merge version tc = 55428217664
+total time = 164.414 secondes
+time of io = 35.702
+time of tc = 128.687
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/2d
+partition number = 2
+vert count = 11196007
+part 0 edge count = 129188964
+vert count = 11196007
+part 1 edge count = 129188928
+upperEdgeCount = 258377892
+merge version tc = 10494607772
+total time = 7.86969 secondes
+time of io = 1.64975
+time of tc = 6.2164
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/2d
+partition number = 1
+vert count = 3999983
+part 0 edge count = 253096135
+upperEdgeCount = 253096135
+merge version tc = 2102949738
+total time = 23.9368 secondes
+time of io = 0.994499
+time of tc = 22.9389
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/2d
+partition number = 1
+vert count = 4000000
+part 0 edge count = 255995920
+upperEdgeCount = 255995920
+merge version tc = 349162
+total time = 5.72491 secondes
+time of io = 1.00665
+time of tc = 4.71475
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/2d
+partition number = 1
+vert count = 4194303
+part 0 edge count = 242037623
+upperEdgeCount = 242037623
+merge version tc = 37179588107
+total time = 56.3344 secondes
+time of io = 1.1072
+time of tc = 55.224
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/2d
+partition number = 3
+vert count = 33554432
+part 0 edge count = 174537075
+vert count = 33554432
+part 1 edge count = 174544173
+vert count = 33554432
+part 2 edge count = 174529755
+upperEdgeCount = 523611003
+merge version tc = 22535831016
+total time = 82.215 secondes
+time of io = 4.68766
+time of tc = 77.5192
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/2d
+partition number = 9
+vert count = 96079681
+part 0 edge count = 68944777
+vert count = 96079681
+part 1 edge count = 68946141
+vert count = 96079681
+part 2 edge count = 68943682
+vert count = 96079681
+part 3 edge count = 68945950
+vert count = 96079681
+part 4 edge count = 68943690
+vert count = 96079681
+part 5 edge count = 68945721
+vert count = 96079681
+part 6 edge count = 68943802
+vert count = 96079681
+part 7 edge count = 68944789
+vert count = 96079681
+part 8 edge count = 68944329
+upperEdgeCount = 620502881
+merge version tc = 3145181295
+total time = 24.9088 secondes
+time of io = 14.6365
+time of tc = 10.2595
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/2d
+partition number = 2
+vert count = 8730857
+part 0 edge count = 163518706
+vert count = 8730857
+part 1 edge count = 163517780
+upperEdgeCount = 327036486
+merge version tc = 223127577
+total time = 8.21288 secondes
+time of io = 1.90923
+time of tc = 6.29892
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/2d
+partition number = 14
+vert count = 68349466
+part 0 edge count = 129418118
+vert count = 68349466
+part 1 edge count = 129417607
+vert count = 68349466
+part 2 edge count = 129417726
+vert count = 68349466
+part 3 edge count = 129418973
+vert count = 68349466
+part 4 edge count = 129416738
+vert count = 68349466
+part 5 edge count = 129418559
+vert count = 68349466
+part 6 edge count = 129416953
+vert count = 68349466
+part 7 edge count = 129417977
+vert count = 68349466
+part 8 edge count = 129417680
+vert count = 68349466
+part 9 edge count = 129417929
+vert count = 68349466
+part 10 edge count = 129417676
+vert count = 68349466
+part 11 edge count = 129417787
+vert count = 68349466
+part 12 edge count = 129417881
+vert count = 68349466
+part 13 edge count = 129417738
+upperEdgeCount = 1811849342
+merge version tc = 4176922719
+total time = 169.21 secondes
+time of io = 57.0748
+time of tc = 112.103
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/2d
+partition number = 7
+vert count = 41652230
+part 0 edge count = 171788387
+vert count = 41652230
+part 1 edge count = 171786914
+vert count = 41652230
+part 2 edge count = 171787443
+vert count = 41652230
+part 3 edge count = 171913315
+vert count = 41652230
+part 4 edge count = 171968422
+vert count = 41652230
+part 5 edge count = 171484355
+vert count = 41652230
+part 6 edge count = 171784210
+upperEdgeCount = 1202513046
+merge version tc = 34824916864
+total time = 110.086 secondes
+time of io = 20.7151
+time of tc = 89.3531
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/2d
+partition number = 10
+vert count = 52579682
+part 0 edge count = 162519707
+vert count = 52579682
+part 1 edge count = 160301567
+vert count = 52579682
+part 2 edge count = 161419379
+vert count = 52579682
+part 3 edge count = 161403394
+vert count = 52579682
+part 4 edge count = 161409563
+vert count = 52579682
+part 5 edge count = 161410263
+vert count = 52579682
+part 6 edge count = 161411995
+vert count = 52579682
+part 7 edge count = 161410796
+vert count = 52579682
+part 8 edge count = 161409258
+vert count = 52579682
+part 9 edge count = 161410265
+upperEdgeCount = 1614106187
+merge version tc = 55428217664
+total time = 165.619 secondes
+time of io = 36.9328
+time of tc = 128.657
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/2d
+partition number = 2
+vert count = 11196007
+part 0 edge count = 129188964
+vert count = 11196007
+part 1 edge count = 129188928
+upperEdgeCount = 258377892
+merge version tc = 10494607772
+total time = 7.72897 secondes
+time of io = 1.52246
+time of tc = 6.20212
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/2d
+partition number = 1
+vert count = 3999983
+part 0 edge count = 253096135
+upperEdgeCount = 253096135
+merge version tc = 2102949738
+total time = 23.9025 secondes
+time of io = 0.98407
+time of tc = 22.9151
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/2d
+partition number = 1
+vert count = 4000000
+part 0 edge count = 255995920
+upperEdgeCount = 255995920
+merge version tc = 349162
+total time = 5.62235 secondes
+time of io = 0.925975
+time of tc = 4.6928
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/2d
+partition number = 1
+vert count = 4194303
+part 0 edge count = 242037623
+upperEdgeCount = 242037623
+merge version tc = 37179588107
+total time = 56.1646 secondes
+time of io = 0.954541
+time of tc = 55.2069
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/2d
+partition number = 3
+vert count = 33554432
+part 0 edge count = 174537075
+vert count = 33554432
+part 1 edge count = 174544173
+vert count = 33554432
+part 2 edge count = 174529755
+upperEdgeCount = 523611003
+merge version tc = 22535831016
+total time = 81.7163 secondes
+time of io = 4.60327
+time of tc = 77.1054

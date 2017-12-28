@@ -1,0 +1,528 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+k=155125720
+part 1 cut at 556981
+k=310251440
+part 2 cut at 1110635
+k=465377160
+part 3 cut at 1664492
+part 0 edge 155125927
+part 1 edge 155126980
+part 2 edge 155124438
+part 3 edge 155125536
+GPU 2 part 0
+GPU 3 part 0
+GPU 1 part 0
+GPU 0 part 0
+GPU 2 part 1
+GPU 3 part 1
+GPU 0 part 1
+GPU 1 part 1
+GPU 3 part 2
+GPU 2 part 2
+GPU 0 part 2
+GPU 1 part 2
+GPU 0 part 3
+gpu 0 binary count=762849510
+time = 12.5487 seconds
+counter for mem_read   = 1.50563e+11
+counter for divergence = 1.98554e+10
+GPU 2 part 3
+gpu 2 binary count=809623608
+time = 12.4448 seconds
+counter for mem_read   = 1.5054e+11
+counter for divergence = 2.10329e+10
+GPU 3 part 3
+gpu 3 binary count=780336707
+time = 12.5645 seconds
+counter for mem_read   = 1.51889e+11
+counter for divergence = 2.31556e+10
+GPU 1 part 3
+gpu 1 binary count=792371470
+time = 12.3882 seconds
+counter for mem_read   = 1.50918e+11
+counter for divergence = 2.07569e+10
+total count 3145181295
+total time  14.3766 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+k=81759121
+part 1 cut at 60454
+k=163518243
+part 2 cut at 175822
+k=245277364
+part 3 cut at 1097973
+part 0 edge 81767718
+part 1 edge 81750744
+part 2 edge 81759151
+part 3 edge 81758873
+GPU 3 part 0
+GPU 2 part 0
+GPU 1 part 0
+GPU 0 part 0
+GPU 3 part 1
+GPU 2 part 1
+GPU 1 part 1
+GPU 0 part 1
+GPU 3 part 2
+GPU 1 part 2
+GPU 2 part 2
+GPU 0 part 2
+GPU 3 part 3
+gpu 3 binary count=877231
+time = 5.38431 seconds
+counter for mem_read   = 4.66263e+10
+counter for divergence = 1.09207e+10
+GPU 1 part 3
+gpu 1 binary count=56110930
+time = 5.62011 seconds
+counter for mem_read   = 4.74053e+10
+counter for divergence = 1.3291e+10
+GPU 2 part 3
+gpu 2 binary count=6478150
+time = 6.36863 seconds
+counter for mem_read   = 6.64458e+10
+counter for divergence = 3.1832e+10
+GPU 0 part 3
+gpu 0 binary count=159661266
+time = 6.90513 seconds
+counter for mem_read   = 7.76865e+10
+counter for divergence = 2.17727e+10
+total count 223127577
+total time  8.31601 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+upper Edge Count= 1811849342
+k=452962335
+part 1 cut at 6266549
+k=905924671
+part 2 cut at 11779181
+k=1358887006
+part 3 cut at 20208428
+part 0 edge 452962373
+part 1 edge 452962311
+part 2 edge 452962326
+part 3 edge 452962332
+GPU 3 part 0
+GPU 1 part 0
+GPU 2 part 0
+GPU 0 part 0
+GPU 3 part 1
+GPU 2 part 1
+GPU 1 part 1
+GPU 0 part 1
+GPU 3 part 2
+GPU 2 part 2
+GPU 1 part 2
+GPU 0 part 2
+GPU 3 part 3
+gpu 3 binary count=977380423
+time = 43.5652 seconds
+counter for mem_read   = 4.58449e+11
+counter for divergence = 1.69646e+11
+GPU 0 part 3
+gpu 0 binary count=1090663571
+time = 46.3329 seconds
+counter for mem_read   = 5.64795e+11
+counter for divergence = 2.11368e+11
+GPU 1 part 3
+gpu 1 binary count=1045953978
+time = 47.426 seconds
+counter for mem_read   = 5.70944e+11
+counter for divergence = 2.22228e+11
+GPU 2 part 3
+gpu 2 binary count=1062924747
+time = 46.3338 seconds
+counter for mem_read   = 5.45737e+11
+counter for divergence = 2.03491e+11
+total count 4176922719
+total time  49.7984 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+upper Edge Count= 1202513046
+k=300628261
+part 1 cut at 3627536
+k=601256523
+part 2 cut at 5379935
+k=901884784
+part 3 cut at 14062051
+part 0 edge 300628273
+part 1 edge 300629000
+part 2 edge 300636385
+part 3 edge 300619388
+GPU 3 part 0
+GPU 2 part 0
+GPU 3 part 1
+GPU 0 part 0
+GPU 2 part 1
+GPU 3 part 2
+GPU 1 part 0
+GPU 3 part 3
+gpu 3 binary count=558074664
+time = 22.004 seconds
+counter for mem_read   = 2.38482e+11
+counter for divergence = 2.8185e+10
+GPU 2 part 2
+GPU 2 part 3
+gpu 2 binary count=1402097816
+time = 28.3823 seconds
+counter for mem_read   = 3.48032e+11
+counter for divergence = 1.19294e+11
+GPU 0 part 1
+GPU 0 part 2
+GPU 0 part 3
+gpu 0 binary count=11863367335
+time = 47.2842 seconds
+counter for mem_read   = 6.5491e+11
+counter for divergence = 5.50076e+11
+GPU 1 part 1
+GPU 1 part 2
+GPU 1 part 3
+gpu 1 binary count=21001377049
+time = 63.5394 seconds
+counter for mem_read   = 8.80644e+11
+counter for divergence = 1.01754e+12
+total count 34824916864
+total time  65.7338 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+upper Edge Count= 1614106187
+k=403526546
+part 1 cut at 39004
+k=807053093
+part 2 cut at 407962
+k=1210579640
+part 3 cut at 4780399
+part 0 edge 403533369
+part 1 edge 403520241
+part 2 edge 403526087
+part 3 edge 403526490
+GPU 3 part 0
+GPU 2 part 0
+GPU 3 part 1
+GPU 2 part 1
+GPU 1 part 0
+GPU 3 part 2
+GPU 0 part 0
+GPU 3 part 3
+gpu 3 binary count=121467761
+time = 25.839 seconds
+counter for mem_read   = 1.98521e+11
+counter for divergence = 3.03743e+10
+GPU 2 part 2
+GPU 2 part 3
+gpu 2 binary count=2309353075
+time = 43.0533 seconds
+counter for mem_read   = 4.57731e+11
+counter for divergence = 3.14788e+11
+GPU 0 part 1
+GPU 1 part 1
+GPU 0 part 2
+GPU 1 part 2
+GPU 0 part 3
+gpu 0 binary count=31938808290
+time = 72.3394 seconds
+counter for mem_read   = 9.96133e+11
+counter for divergence = 1.01272e+12
+GPU 1 part 3
+gpu 1 binary count=21058588538
+time = 80.2533 seconds
+counter for mem_read   = 1.11942e+12
+counter for divergence = 1.22184e+12
+total count 55428217664
+total time  82.9946 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+upper Edge Count= 1202513046
+k=300628261
+part 1 cut at 16631546
+k=601256523
+part 2 cut at 23375677
+k=901884784
+part 3 cut at 45372687
+part 0 edge 300632881
+part 1 edge 301237380
+part 2 edge 300016708
+part 3 edge 300626077
+GPU 3 part 0
+GPU 2 part 0
+GPU 3 part 1
+GPU 1 part 0
+GPU 0 part 0
+GPU 3 part 2
+GPU 2 part 1
+GPU 3 part 3
+gpu 3 binary count=362857103
+time = 22.7527 seconds
+counter for mem_read   = 2.26538e+11
+counter for divergence = 5.83177e+10
+GPU 1 part 1
+GPU 0 part 1
+GPU 2 part 2
+GPU 1 part 2
+GPU 0 part 2
+GPU 2 part 3
+gpu 2 binary count=7317753993
+time = 44.0246 seconds
+counter for mem_read   = 5.69536e+11
+counter for divergence = 4.50595e+11
+GPU 1 part 3
+gpu 1 binary count=12628110313
+time = 48.1979 seconds
+counter for mem_read   = 6.54593e+11
+counter for divergence = 5.57928e+11
+GPU 0 part 3
+gpu 0 binary count=14516195455
+time = 49.5971 seconds
+counter for mem_read   = 6.70446e+11
+counter for divergence = 5.84967e+11
+total count 34824916864
+total time  51.4601 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+k=64594473
+part 1 cut at 267485
+k=129188946
+part 2 cut at 1822776
+k=193783419
+part 3 cut at 5417500
+part 0 edge 64594483
+part 1 edge 64594532
+part 2 edge 64616346
+part 3 edge 64572531
+GPU 2 part 0
+GPU 3 part 0
+GPU 1 part 0
+GPU 0 part 0
+GPU 3 part 1
+GPU 2 part 1
+GPU 1 part 1
+GPU 0 part 1
+GPU 3 part 2
+GPU 1 part 2
+GPU 0 part 2
+GPU 2 part 2
+GPU 1 part 3
+gpu 1 binary count=2277261878
+time = 6.01403 seconds
+counter for mem_read   = 7.81887e+10
+counter for divergence = 2.58644e+10
+GPU 3 part 3
+gpu 3 binary count=2997218752
+time = 6.22662 seconds
+counter for mem_read   = 7.79178e+10
+counter for divergence = 3.07716e+10
+GPU 0 part 3
+gpu 0 binary count=1920936116
+time = 6.23082 seconds
+counter for mem_read   = 8.06313e+10
+counter for divergence = 3.023e+10
+GPU 2 part 3
+gpu 2 binary count=3299191026
+time = 6.43772 seconds
+counter for mem_read   = 8.34774e+10
+counter for divergence = 3.36653e+10
+total count 10494607772
+total time  7.77041 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+k=63274033
+part 1 cut at 126071
+k=126548067
+part 2 cut at 563576
+k=189822101
+part 3 cut at 1657321
+part 0 edge 63276144
+part 1 edge 63272101
+part 2 edge 63273875
+part 3 edge 63274015
+GPU 3 part 0
+GPU 2 part 0
+GPU 1 part 0
+GPU 0 part 0
+GPU 3 part 1
+GPU 2 part 1
+GPU 1 part 1
+GPU 0 part 1
+GPU 3 part 2
+GPU 2 part 2
+GPU 1 part 2
+GPU 0 part 2
+GPU 3 part 3
+gpu 3 binary count=306094621
+time = 8.78094 seconds
+counter for mem_read   = 1.19529e+11
+counter for divergence = 1.02183e+11
+GPU 2 part 3
+gpu 2 binary count=320841222
+time = 9.05325 seconds
+counter for mem_read   = 1.22842e+11
+counter for divergence = 1.09412e+11
+GPU 1 part 3
+gpu 1 binary count=454036393
+time = 9.52965 seconds
+counter for mem_read   = 1.32451e+11
+counter for divergence = 1.26632e+11
+GPU 0 part 3
+gpu 0 binary count=1021977502
+time = 10.6021 seconds
+counter for mem_read   = 1.46501e+11
+counter for divergence = 1.49126e+11
+total count 2102949738
+total time  12.0497 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+k=63998980
+part 1 cut at 980405
+k=127997960
+part 2 cut at 1971558
+k=191996940
+part 3 cut at 2975240
+part 0 edge 63999073
+part 1 edge 63998897
+part 2 edge 63999068
+part 3 edge 63998882
+GPU 2 part 0
+GPU 1 part 0
+GPU 3 part 0
+GPU 0 part 0
+GPU 2 part 1
+GPU 1 part 1
+GPU 3 part 1
+GPU 0 part 1
+GPU 2 part 2
+GPU 1 part 2
+GPU 3 part 2
+GPU 0 part 2
+GPU 2 part 3
+gpu 2 binary count=86968
+time = 5.3692 seconds
+counter for mem_read   = 7.48963e+10
+counter for divergence = 1.55856e+10
+GPU 1 part 3
+gpu 1 binary count=87666
+time = 5.47323 seconds
+counter for mem_read   = 7.50471e+10
+counter for divergence = 1.56806e+10
+GPU 3 part 3
+gpu 3 binary count=86098
+time = 5.45514 seconds
+counter for mem_read   = 7.46503e+10
+counter for divergence = 1.54448e+10
+GPU 0 part 3
+gpu 0 binary count=88430
+time = 5.49454 seconds
+counter for mem_read   = 7.52283e+10
+counter for divergence = 1.5767e+10
+total count 349162
+total time  6.87311 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+upper Edge Count= 242037623
+k=60509405
+part 1 cut at 1028763
+k=121018811
+part 2 cut at 2097072
+k=181528217
+part 3 cut at 3151519
+part 0 edge 60510335
+part 1 edge 60508628
+part 2 edge 60511364
+part 3 edge 60507296
+GPU 1 part 0
+GPU 3 part 0
+GPU 0 part 0
+GPU 2 part 0
+GPU 1 part 1
+GPU 3 part 1
+GPU 0 part 1
+GPU 2 part 1
+GPU 1 part 2
+GPU 3 part 2
+GPU 0 part 2
+GPU 2 part 2
+GPU 1 part 3
+gpu 1 binary count=8850254023
+time = 17.9224 seconds
+counter for mem_read   = 2.73092e+11
+counter for divergence = 3.10668e+11
+GPU 3 part 3
+gpu 3 binary count=9416057100
+time = 18.145 seconds
+counter for mem_read   = 2.76297e+11
+counter for divergence = 3.16611e+11
+GPU 0 part 3
+gpu 0 binary count=9523968067
+time = 18.2041 seconds
+counter for mem_read   = 2.76651e+11
+counter for divergence = 3.17849e+11
+GPU 2 part 3
+gpu 2 binary count=9389308917
+time = 18.3405 seconds
+counter for mem_read   = 2.77424e+11
+counter for divergence = 3.1718e+11
+total count 37179588107
+total time  19.7428 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+upper Edge Count= 523611003
+k=130902750
+part 1 cut at 8297276
+k=261805501
+part 2 cut at 16479910
+k=392708252
+part 3 cut at 25304476
+part 0 edge 130903144
+part 1 edge 130907290
+part 2 edge 130898080
+part 3 edge 130902489
+GPU 2 part 0
+GPU 1 part 0
+GPU 3 part 0
+GPU 0 part 0
+GPU 2 part 1
+GPU 3 part 1
+GPU 1 part 1
+GPU 0 part 1
+GPU 2 part 2
+GPU 3 part 2
+GPU 1 part 2
+GPU 0 part 2
+GPU 2 part 3
+gpu 2 binary count=5105958726
+time = 25.7315 seconds
+counter for mem_read   = 3.66378e+11
+counter for divergence = 3.54024e+11
+GPU 1 part 3
+gpu 1 binary count=5926825091
+time = 26.531 seconds
+counter for mem_read   = 3.82531e+11
+counter for divergence = 3.70074e+11
+GPU 3 part 3
+gpu 3 binary count=5777484446
+time = 26.4591 seconds
+counter for mem_read   = 3.7918e+11
+counter for divergence = 3.66039e+11
+GPU 0 part 3
+gpu 0 binary count=5725562753
+time = 26.7701 seconds
+counter for mem_read   = 3.83705e+11
+counter for divergence = 3.69792e+11
+total count 22535831016
+total time  28.5482 seconds

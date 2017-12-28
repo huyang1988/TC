@@ -1,0 +1,7 @@
+nvprof --print-gpu-trace --metrics achieved_occupancy ./tc ~/data/facebook/
+nvprof --print-gpu-trace --metrics achieved_occupancy ./tc ~/data/orkut/
+nvprof --print-gpu-trace --metrics achieved_occupancy ./tc ~/data/wikipedia_link_en/
+nvprof --print-gpu-trace --metrics achieved_occupancy ./tc ~/data/RMAT/
+nvprof --print-gpu-trace --metrics achieved_occupancy ./tc ~/data/random/
+nvprof --print-gpu-trace --metrics achieved_occupancy ./tc ~/data/kron1/
+nvprof --print-gpu-trace --metrics achieved_occupancy ./tc ~/data/kron2/

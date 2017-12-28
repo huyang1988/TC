@@ -1,0 +1,15 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 302394126
+merge version tc = 223044806
+total time = 6.2148 secondes
+merge version tc = 223044806
+total time = 6.13462 secondes
+merge version tc = 223044806
+total time = 6.13399 secondes
+merge version tc = 223044806
+total time = 6.13437 secondes
+merge version tc = 223044806
+total time = 6.13356 secondes
+average total time = 6.15027 secondes

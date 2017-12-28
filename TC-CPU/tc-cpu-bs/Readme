@@ -1,0 +1,8 @@
+Update:
+
+class graph: bs()
+	     it is a binary search cpu sequential version
+	in file: graph.c
+
+	heap()
+	in file: sort.cu

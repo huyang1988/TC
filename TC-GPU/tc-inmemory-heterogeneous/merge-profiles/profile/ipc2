@@ -1,0 +1,558 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+GPU  NUMBER = 1
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 253096135
+pre-processing time = 0.695136
+==1293== NVPROF is profiling process 1293, command: ./tc /home/huyang/data/RMAT/
+GPU 0 time = 67.7661
+total count 2102949738
+total time  67.7662 seconds
+GPU 0 time = 67.7431
+total count 2102949738
+total time  67.7431 seconds
+merge average time of 5 round = 67.7546
+==1293== Profiling application: ./tc /home/huyang/data/RMAT/
+==1293== Profiling result:
+         Device          Context           Stream                Kernel  Executed IPC
+                                                                                     
+ Tesla K40c (2)                1                7     init_count(long*)      0.035287
+ Tesla K40c (2)                1                7     init_count(long*)      0.112903
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.546783
+ Tesla K40c (2)                1                7     init_count(long*)      0.053898
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.560027
+ Tesla K40c (2)                1                7     init_count(long*)      0.056968
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.575039
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.584736
+ Tesla K40c (2)                1                7     init_count(long*)      0.057085
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.594132
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.597324
+ Tesla K40c (2)                1                7     init_count(long*)      0.053691
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.636033
+ Tesla K40c (2)                1                7     init_count(long*)      0.056566
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.606708
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.601691
+ Tesla K40c (2)                1                7     init_count(long*)      0.053435
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.635544
+ Tesla K40c (2)                1                7     init_count(long*)      0.057026
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.654942
+ Tesla K40c (2)                1                7     init_count(long*)      0.056911
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.715691
+ Tesla K40c (2)                1                7     init_count(long*)      0.057026
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.585773
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.624642
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.661903
+ Tesla K40c (2)                1                7     init_count(long*)      0.057026
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.665834
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.671240
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.685249
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.751409
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.606741
+ Tesla K40c (2)                1                7     init_count(long*)      0.056452
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.630609
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.652157
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.647015
+ Tesla K40c (2)                1                7     init_count(long*)      0.057085
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.687701
+ Tesla K40c (2)                1                7     init_count(long*)      0.056968
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.670117
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.747817
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.666737
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.705236
+ Tesla K40c (2)                1                7     init_count(long*)      0.056911
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.731233
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.774262
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.900489
+ Tesla K40c (2)                1                7     init_count(long*)      0.035242
+ Tesla K40c (2)                1                7     init_count(long*)      0.112903
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.547040
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.558817
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.576930
+ Tesla K40c (2)                1                7     init_count(long*)      0.057085
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.587370
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.595421
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.597228
+ Tesla K40c (2)                1                7     init_count(long*)      0.054634
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.635403
+ Tesla K40c (2)                1                7     init_count(long*)      0.053537
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.606177
+ Tesla K40c (2)                1                7     init_count(long*)      0.057613
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.606435
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.635934
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.654231
+ Tesla K40c (2)                1                7     init_count(long*)      0.056853
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.715862
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.587780
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.623062
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.662069
+ Tesla K40c (2)                1                7     init_count(long*)      0.057673
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.666824
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.668409
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.685329
+ Tesla K40c (2)                1                7     init_count(long*)      0.056795
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.751585
+ Tesla K40c (2)                1                7     init_count(long*)      0.052980
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.606849
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.630598
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.651029
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.649524
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.687872
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.670188
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.746146
+ Tesla K40c (2)                1                7     init_count(long*)      0.056968
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.666717
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.705294
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.731160
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.774164
+ Tesla K40c (2)                1                7     init_count(long*)      0.056509
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.900594
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+GPU  NUMBER = 1
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 242037623
+pre-processing time = 0.742967
+==1458== NVPROF is profiling process 1458, command: ./tc /home/huyang/data/kron1/
+GPU 0 time = 363.563
+total count 37179588107
+total time  363.563 seconds
+GPU 0 time = 365.408
+total count 37179588107
+total time  365.408 seconds
+merge average time of 5 round = 364.485
+==1458== Profiling application: ./tc /home/huyang/data/kron1/
+==1458== Profiling result:
+         Device          Context           Stream                Kernel  Executed IPC
+                                                                                     
+ Tesla K40c (2)                1                7     init_count(long*)      0.034632
+ Tesla K40c (2)                1                7     init_count(long*)      0.113590
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054002
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056968
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054369
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057732
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057085
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056338
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.053384
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055500
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057613
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056968
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.035578
+ Tesla K40c (2)                1                7     init_count(long*)      0.112903
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054316
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055118
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057673
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057613
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.053743
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055010
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056680
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055888
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057613
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.053640
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057673
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056911
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057085
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+GPU  NUMBER = 1
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 523611003
+pre-processing time = 4.79089
+==1729== NVPROF is profiling process 1729, command: ./tc /home/huyang/data/kron2/
+GPU 0 time = 406.064
+total count 22535831016
+total time  406.064 seconds
+GPU 0 time = 406.162
+total count 22535831016
+total time  406.162 seconds
+merge average time of 5 round = 406.113
+==1729== Profiling application: ./tc /home/huyang/data/kron2/
+==1729== Profiling result:
+         Device          Context           Stream                Kernel  Executed IPC
+                                                                                     
+ Tesla K40c (2)                1                7     init_count(long*)      0.035601
+ Tesla K40c (2)                1                7     init_count(long*)      0.113821
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.053640
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054002
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056968
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054795
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057732
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054741
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057732
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055833
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055227
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055118
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057732
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056509
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055556
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057085
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057673
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057613
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054369
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056968
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057792
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.239800
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056566
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056911
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056968
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055172
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054795
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.360095
+ Tesla K40c (2)                1                7     init_count(long*)      0.034356
+ Tesla K40c (2)                1                7     init_count(long*)      0.113590
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055888
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054848
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057085
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056795
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057673
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.052980
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054848
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054795
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054475
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057613
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056911
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056968
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057085
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057026
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057318
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.052880
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057613
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056911
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057377
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.055446
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054902
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057792
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057201
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.242058
+ Tesla K40c (2)                1                7     init_count(long*)      0.057085
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.053950
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.054316
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.053081
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.056509
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057436
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057554
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.052830
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057495
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057673
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057260
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED    <OVERFLOW>
+ Tesla K40c (2)                1                7     init_count(long*)      0.057143
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED      0.366094

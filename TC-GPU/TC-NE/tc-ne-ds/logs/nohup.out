@@ -1,0 +1,462 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+reduce
+k=155125720
+part 1 cut at 5407046
+k=310251440
+part 2 cut at 15157024
+k=465377160
+part 3 cut at 35019279
+part 0 edge 155125722
+part 1 edge 155125722
+part 2 edge 155125718
+part 3 edge 155125719
+GPU 3 part 0
+GPU 2 part 0
+GPU 0 part 0
+GPU 1 part 0
+GPU 3 part 1
+GPU 2 part 1
+GPU 3 part 2
+GPU 1 part 1
+GPU 0 part 1
+GPU 2 part 2
+GPU 1 part 2
+GPU 0 part 2
+GPU 3 part 3
+gpu 3 binary count=76902188
+time = 10.4141 seconds
+GPU 2 part 3
+gpu 2 binary count=305728957
+time = 10.6686 seconds
+GPU 1 part 3
+gpu 1 binary count=785621403
+time = 11.4122 seconds
+GPU 0 part 3
+gpu 0 binary count=1976928747
+time = 12.7603 seconds
+total count 3145181295
+total count 3145181295
+total time  15.4276 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+reduce
+k=81759121
+part 1 cut at 1145080
+k=163518243
+part 2 cut at 1520318
+k=245277364
+part 3 cut at 2083438
+part 0 edge 81759248
+part 1 edge 81759649
+part 2 edge 81758846
+part 3 edge 81758743
+GPU 3 part 0
+GPU 2 part 0
+GPU 0 part 0
+GPU 1 part 0
+GPU 0 part 1
+GPU 0 part 2
+GPU 0 part 3
+GPU 1 part 1
+GPU 2 part 1
+GPU 3 part 1
+GPU 1 part 2
+steal GPU 0 GPU 3 part 3
+gpu 0 binary count=38196773
+time = 8.58483 seconds
+GPU 1 part 3
+GPU 2 part 2
+gpu 2 binary count=72923765
+time = 9.45572 seconds
+steal GPU 1 GPU 2 part 3
+gpu 1 binary count=76327745
+time = 9.52656 seconds
+GPU 3 part 2
+gpu 3 binary count=35679294
+time = 10.8666 seconds
+total count 150203812
+total count 223127577
+total time  12.234 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+upper Edge Count= 1811849342
+reduce
+k=452962335
+part 1 cut at 11677164
+k=905924671
+part 2 cut at 20214733
+k=1358887006
+part 3 cut at 30262099
+part 0 edge 452962369
+part 1 edge 452962310
+part 2 edge 452962398
+part 3 edge 452962265
+GPU 3 part 0
+GPU 2 part 0
+GPU 1 part 0
+GPU 0 part 0
+GPU 3 part 1
+GPU 0 part 1
+GPU 2 part 1
+GPU 1 part 1
+GPU 0 part 2
+GPU 3 part 2
+GPU 1 part 2
+GPU 0 part 3
+GPU 2 part 2
+gpu 2 binary count=1210091896
+time = 45.8801 seconds
+GPU 1 part 3
+gpu 1 binary count=977051209
+time = 49.6766 seconds
+steal GPU 0 GPU 2 part 3
+gpu 0 binary count=900528320
+time = 49.9518 seconds
+GPU 3 part 3
+gpu 3 binary count=1089251294
+time = 52.6995 seconds
+total count 2966830823
+total count 4176922719
+total time  56.9302 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+upper Edge Count= 1202513046
+reduce
+k=300628261
+part 1 cut at 5249245
+k=601256523
+part 2 cut at 11182220
+k=901884784
+part 3 cut at 19291967
+part 0 edge 300628309
+part 1 edge 300628230
+part 2 edge 300628252
+part 3 edge 300628255
+GPU 3 part 0
+GPU 3 part 1
+GPU 2 part 0
+GPU 3 part 2
+GPU 2 part 1
+GPU 3 part 3
+steal GPU 3 GPU 0 part 3
+steal GPU 3 GPU 0 part 2
+GPU 1 part 0
+GPU 2 part 2
+steal GPU 3 GPU 0 part 1
+gpu 3 binary count=578265429
+time = 54.2009 seconds
+GPU 2 part 3
+steal GPU 2 GPU 1 part 3
+steal GPU 2 GPU 1 part 2
+gpu 2 binary count=1538491578
+time = 63.2721 seconds
+GPU 1 part 1
+gpu 1 binary count=6349191354
+time = 70.358 seconds
+GPU 0 part 0
+gpu 0 binary count=26358968503
+time = 78.1752 seconds
+total count 34824916864
+total count 34824916864
+total time  80.4556 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+upper Edge Count= 1614106187
+reduce
+k=403526546
+part 1 cut at 1641736
+k=807053093
+part 2 cut at 8555653
+k=1210579640
+part 3 cut at 24397344
+part 0 edge 403526546
+part 1 edge 403526957
+part 2 edge 403526162
+part 3 edge 403526522
+GPU 3 part 0
+GPU 2 part 0
+GPU 3 part 1
+GPU 3 part 2
+GPU 2 part 1
+GPU 3 part 3
+steal GPU 3 GPU 0 part 3
+GPU 2 part 2
+steal GPU 3 GPU 0 part 2
+GPU 2 part 3
+steal GPU 3 GPU 0 part 1
+gpu 3 binary count=368001916
+time = 67.4075 seconds
+GPU 1 part 0
+steal GPU 2 GPU 1 part 3
+steal GPU 2 GPU 1 part 2
+gpu 2 binary count=1192704411
+time = 77.3198 seconds
+GPU 1 part 1
+gpu 1 binary count=3832525869
+time = 93.0428 seconds
+GPU 0 part 0
+gpu 0 binary count=50034985468
+time = 167.323 seconds
+total count 55428217664
+total count 55428217664
+total time  171.185 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+upper Edge Count= 1202513046
+reduce
+k=300628261
+part 1 cut at 25910260
+k=601256523
+part 2 cut at 40645861
+k=901884784
+part 3 cut at 50544137
+part 0 edge 300628268
+part 1 edge 300628272
+part 2 edge 300628545
+part 3 edge 300627961
+GPU 3 part 0
+GPU 2 part 0
+GPU 3 part 1
+GPU 1 part 0
+GPU 3 part 2
+GPU 2 part 1
+GPU 3 part 3
+GPU 0 part 0
+GPU 0 part 1
+steal GPU 3 GPU 0 part 3
+gpu 3 binary count=1931785834
+time = 59.1303 seconds
+GPU 2 part 2
+GPU 0 part 2
+GPU 2 part 3
+GPU 1 part 1
+gpu 1 binary count=11476991213
+time = 64.9292 seconds
+steal GPU 0 GPU 1 part 3
+gpu 0 binary count=14835214417
+time = 65.3203 seconds
+steal GPU 2 GPU 1 part 2
+gpu 2 binary count=6580925400
+time = 66.8377 seconds
+total count 23347925651
+total count 34824916864
+total time  70.6002 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+reduce
+k=64594473
+part 1 cut at 2682108
+k=129188946
+part 2 cut at 5422509
+k=193783419
+part 3 cut at 8489169
+part 0 edge 64594491
+part 1 edge 64594457
+part 2 edge 64594556
+part 3 edge 64594388
+GPU 3 part 0
+GPU 2 part 0
+GPU 1 part 0
+GPU 0 part 0
+GPU 3 part 1
+GPU 2 part 1
+GPU 0 part 1
+GPU 0 part 2
+GPU 1 part 1
+GPU 3 part 2
+GPU 0 part 3
+GPU 1 part 2
+GPU 2 part 2
+gpu 2 binary count=2616181045
+time = 6.29546 seconds
+steal GPU 0 GPU 2 part 3
+gpu 0 binary count=1417225681
+time = 6.48063 seconds
+GPU 1 part 3
+gpu 1 binary count=3289709884
+time = 6.47916 seconds
+GPU 3 part 3
+gpu 3 binary count=3171491162
+time = 7.46336 seconds
+total count 7878426727
+total count 10494607772
+total time  8.92021 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+reduce
+k=63274033
+part 1 cut at 1050783
+k=126548067
+part 2 cut at 2023506
+k=189822101
+part 3 cut at 2578327
+part 0 edge 63275736
+part 1 edge 63272908
+part 2 edge 63273574
+part 3 edge 63273917
+GPU 2 part 0
+GPU 3 part 0
+GPU 0 part 0
+GPU 1 part 0
+GPU 0 part 1
+GPU 0 part 2
+GPU 0 part 3
+GPU 2 part 1
+GPU 3 part 1
+GPU 1 part 1
+steal GPU 0 GPU 3 part 3
+gpu 0 binary count=657564376
+time = 12.489 seconds
+GPU 1 part 2
+GPU 1 part 3
+steal GPU 1 GPU 2 part 3
+gpu 1 binary count=592096548
+time = 14.1303 seconds
+GPU 2 part 2
+gpu 2 binary count=545797789
+time = 14.7196 seconds
+GPU 3 part 2
+gpu 3 binary count=307491025
+time = 15.7352 seconds
+total count 2102949738
+total count 2102949738
+total time  17.1494 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+reduce
+k=63998980
+part 1 cut at 1999473
+k=127997960
+part 2 cut at 2827674
+k=191996940
+part 3 cut at 3463260
+part 0 edge 63998993
+part 1 edge 63999013
+part 2 edge 63998974
+part 3 edge 63998940
+GPU 0 part 0
+GPU 3 part 0
+GPU 2 part 0
+GPU 1 part 0
+GPU 0 part 1
+GPU 3 part 1
+GPU 2 part 1
+GPU 1 part 1
+GPU 0 part 2
+GPU 1 part 2
+GPU 0 part 3
+GPU 2 part 2
+GPU 3 part 2
+gpu 3 binary count=105165
+time = 4.22601 seconds
+GPU 1 part 3
+gpu 1 binary count=79994
+time = 4.37784 seconds
+GPU 2 part 3
+gpu 2 binary count=103201
+time = 4.94605 seconds
+steal GPU 0 GPU 3 part 3
+gpu 0 binary count=60802
+time = 5.34514 seconds
+total count 261021
+total count 349162
+total time  6.63306 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+upper Edge Count= 242037623
+reduce
+k=60509405
+part 1 cut at 2095779
+k=121018811
+part 2 cut at 2970762
+k=181528217
+part 3 cut at 3636937
+part 0 edge 60509418
+part 1 edge 60524681
+part 2 edge 60494161
+part 3 edge 60509363
+GPU 3 part 0
+GPU 2 part 0
+GPU 0 part 0
+GPU 0 part 1
+GPU 1 part 0
+GPU 0 part 2
+GPU 0 part 3
+GPU 3 part 1
+GPU 2 part 1
+steal GPU 0 GPU 3 part 3
+gpu 0 binary count=6492425490
+time = 20.7022 seconds
+GPU 1 part 1
+GPU 1 part 2
+GPU 1 part 3
+steal GPU 1 GPU 2 part 3
+gpu 1 binary count=8389975285
+time = 24.2114 seconds
+GPU 2 part 2
+gpu 2 binary count=10989406175
+time = 27.2562 seconds
+GPU 3 part 2
+gpu 3 binary count=11307781157
+time = 27.1694 seconds
+total count 37179588107
+total count 37179588107
+total time  28.6053 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+upper Edge Count= 523611003
+reduce
+k=130902750
+part 1 cut at 16610237
+k=261805501
+part 2 cut at 23674512
+k=392708252
+part 3 cut at 29075383
+part 0 edge 130903845
+part 1 edge 130903388
+part 2 edge 130903008
+part 3 edge 130900762
+GPU 3 part 0
+GPU 2 part 0
+GPU 0 part 0
+GPU 0 part 1
+GPU 1 part 0
+GPU 0 part 2
+GPU 0 part 3
+GPU 3 part 1
+GPU 2 part 1
+steal GPU 0 GPU 3 part 3
+gpu 0 binary count=4112540884
+time = 34.875 seconds
+GPU 1 part 1
+GPU 1 part 2
+GPU 1 part 3
+steal GPU 1 GPU 2 part 3
+gpu 1 binary count=5067128550
+time = 39.8194 seconds
+GPU 3 part 2
+gpu 3 binary count=6859871074
+time = 41.6437 seconds
+GPU 2 part 2
+gpu 2 binary count=6496290508
+time = 42.8205 seconds
+total count 22535831016
+total count 22535831016
+total time  44.5121 seconds

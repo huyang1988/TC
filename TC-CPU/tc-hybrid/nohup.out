@@ -1,0 +1,18 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+rank by degree
+upper Edge Count= 620502881
+calculate
+hybrid version tc = 3145181295
+0.00323208 of intersections switched
+total time = 449.819 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+hybrid version tc = 34824916864
+0.190476 of intersections switched
+total time = 19437.7 secondes

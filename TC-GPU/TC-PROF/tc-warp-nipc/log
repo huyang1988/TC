@@ -1,0 +1,36 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut
+vert:8730857  edge: 654073064
+upper Edge Count= 327036536
+k=81759134
+part 1 cut at 59405
+k=163518268
+part 2 cut at 167346
+k=245277402
+part 3 cut at 601937
+part 0 edge 81760823
+part 1 edge 81757757
+part 2 edge 81759016
+part 3 edge 81758940
+GPU 3 part 0
+GPU 2 part 0
+GPU 1 part 0
+GPU 0 part 0
+GPU 3 part 1
+GPU 2 part 1
+GPU 1 part 1
+GPU 3 part 2
+GPU 2 part 2
+GPU 0 part 1
+GPU 1 part 2
+GPU 3 part 3
+gpu binary count=540076
+GPU 2 part 3
+gpu binary count=7835989
+GPU 0 part 2
+GPU 1 part 3
+gpu binary count=57014559
+GPU 0 part 3
+gpu binary count=157737178
+total count 223127802
+total time  10.2812 seconds

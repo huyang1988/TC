@@ -1,0 +1,105 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 4.34489 secondes
+==16623== NVPROF is profiling process 16623, command: ./tc /home/huyang/data/facebook/
+total count = 3145181295
+GPU time = 21.7447 seconds
+total time = 23.2029 secondes
+==16623== Profiling application: ./tc /home/huyang/data/facebook/
+==16623== Profiling result:
+         Device          Context           Stream                Kernel  Instructions Executed
+                                                                                              
+ Tesla K40c (1)                1                7  warp_merge_kernel(in             <OVERFLOW>
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                    771
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.606539 secondes
+==16772== NVPROF is profiling process 16772, command: ./tc /home/huyang/data/orkut/
+total count = 223127577
+GPU time = 17.2714 seconds
+total time = 18.1718 secondes
+==16772== Profiling application: ./tc /home/huyang/data/orkut/
+==16772== Profiling result:
+         Device          Context           Stream                Kernel  Instructions Executed
+                                                                                              
+ Tesla K40c (1)                1                7  warp_merge_kernel(in             <OVERFLOW>
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                    771
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 0.867228 secondes
+==16962== NVPROF is profiling process 16962, command: ./tc /home/huyang/data/wikipedia_link_en/
+total count = 10494607772
+GPU time = 13.7055 seconds
+total time = 14.6634 secondes
+==16962== Profiling application: ./tc /home/huyang/data/wikipedia_link_en/
+==16962== Profiling result:
+         Device          Context           Stream                Kernel  Instructions Executed
+                                                                                              
+ Tesla K40c (1)                1                7  warp_merge_kernel(in             <OVERFLOW>
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                    771
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.427746 secondes
+==17089== NVPROF is profiling process 17089, command: ./tc /home/huyang/data/RMAT/
+total count = 2102949738
+GPU time = 131.93 seconds
+total time = 132.705 secondes
+==17089== Profiling application: ./tc /home/huyang/data/RMAT/
+==17089== Profiling result:
+         Device          Context           Stream                Kernel  Instructions Executed
+                                                                                              
+ Tesla K40c (1)                1                7  warp_merge_kernel(in             <OVERFLOW>
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                    771
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 0.685461 secondes
+==17368== NVPROF is profiling process 17368, command: ./tc /home/huyang/data/random/
+total count = 349162
+GPU time = 12.904 seconds
+total time = 13.7677 secondes
+==17368== Profiling application: ./tc /home/huyang/data/random/
+==17368== Profiling result:
+         Device          Context           Stream                Kernel  Instructions Executed
+                                                                                              
+ Tesla K40c (1)                1                7  warp_merge_kernel(in             <OVERFLOW>
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                    771
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+upper Edge Count= 242037623
+pre-processing time = 0.478775 secondes
+==17437== NVPROF is profiling process 17437, command: ./tc /home/huyang/data/kron1/
+total count = 37179588107
+GPU time = 478.175 seconds
+total time = 478.979 secondes
+==17437== Profiling application: ./tc /home/huyang/data/kron1/
+==17437== Profiling result:
+         Device          Context           Stream                Kernel  Instructions Executed
+                                                                                              
+ Tesla K40c (1)                1                7  warp_merge_kernel(in             <OVERFLOW>
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                    771
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+upper Edge Count= 523611003
+pre-processing time = 2.84031 secondes
+==17567== NVPROF is profiling process 17567, command: ./tc /home/huyang/data/kron2/
+total count = 22535831016
+GPU time = 589.717 seconds
+total time = 590.856 secondes
+==17567== Profiling application: ./tc /home/huyang/data/kron2/
+==17567== Profiling result:
+         Device          Context           Stream                Kernel  Instructions Executed
+                                                                                              
+ Tesla K40c (1)                1                7  warp_merge_kernel(in             <OVERFLOW>
+ Tesla K40c (1)                1                7  reduce_kernel2(long*                    771

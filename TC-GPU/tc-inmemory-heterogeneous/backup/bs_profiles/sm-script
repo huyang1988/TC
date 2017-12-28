@@ -1,0 +1,7 @@
+nvprof --print-gpu-trace --metrics sm_efficiency ./tc ~/data/facebook/
+nvprof --print-gpu-trace --metrics sm_efficiency ./tc ~/data/orkut/
+nvprof --print-gpu-trace --metrics sm_efficiency ./tc ~/data/wikipedia_link_en/
+nvprof --print-gpu-trace --metrics sm_efficiency ./tc ~/data/RMAT/
+nvprof --print-gpu-trace --metrics sm_efficiency ./tc ~/data/random/
+nvprof --print-gpu-trace --metrics sm_efficiency ./tc ~/data/kron1/
+nvprof --print-gpu-trace --metrics sm_efficiency ./tc ~/data/kron2/

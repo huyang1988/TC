@@ -1,0 +1,21 @@
+./tc-naive-bs ~/data/facebook/
+./tc-naive-bs ~/data/orkut/
+./tc-naive-bs ~/data/friendster/
+./tc-naive-bs ~/data/twitter/
+./tc-naive-bs ~/data/twitter_mpi/
+./tc-naive-bs ~/data/wikipedia_link_en/
+./tc-naive-bs ~/data/RMAT/
+./tc-naive-bs ~/data/random/
+./tc-naive-bs ~/data/kron1/
+./tc-naive-bs ~/data/kron2/
+
+./tc-naive-merge ~/data/facebook/
+./tc-naive-merge ~/data/orkut/
+./tc-naive-merge ~/data/friendster/
+./tc-naive-merge ~/data/twitter/
+./tc-naive-merge ~/data/twitter_mpi/
+./tc-naive-merge ~/data/wikipedia_link_en/
+./tc-naive-merge ~/data/RMAT/
+./tc-naive-merge ~/data/random/
+./tc-naive-merge ~/data/kron1/
+./tc-naive-merge ~/data/kron2/

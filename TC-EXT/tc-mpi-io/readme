@@ -1,0 +1,5 @@
+2d partitioning
+gpu triangle counting
+mpi
+dynamic scheduling
+combine subproblem (i,j) and (j,i) to minimize csr io

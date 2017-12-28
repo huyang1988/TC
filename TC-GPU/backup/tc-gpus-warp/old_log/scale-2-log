@@ -1,0 +1,82 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 327037487
+upper Edge Count= 53565818
+k=26782909
+part 1 cut at 1280825
+part 0 edge 26782912
+part 1 edge 26782906
+GPU 1 part 0
+GPU 0 part 0
+GPU 1 part 1
+gpu binary count=5279
+GPU 0 part 1
+gpu binary count=47688
+total count 52967
+total time  1.76555 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 2586147869
+upper Edge Count= 1181837050
+k=590918525
+part 1 cut at 10930186
+part 0 edge 590918847
+part 1 edge 590918203
+out of memory in scan.cu at line 481
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 1468365182
+upper Edge Count= 750980662
+k=375490331
+part 1 cut at 4058925
+part 0 edge 375494457
+part 1 edge 375486205
+GPU 1 part 0
+GPU 1 part 1
+gpu binary count=2751976656
+GPU 0 part 0
+GPU 0 part 1
+gpu binary count=21059436892
+total count 23811413548
+total time  68.0551 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 1963263821
+upper Edge Count= 737774237
+k=368887118
+part 1 cut at 633374
+part 0 edge 368887149
+part 1 edge 368887088
+GPU 1 part 0
+GPU 1 part 1
+gpu binary count=378074024
+GPU 0 part 0
+GPU 0 part 1
+gpu binary count=38634805745
+total count 39012879769
+total time  83.9674 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 1468365182
+upper Edge Count= 1034358881
+k=517179440
+part 1 cut at 19789283
+part 0 edge 517304783
+part 1 edge 517054098
+out of memory in scan.cu at line 482
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 340309824
+upper Edge Count= 138188911
+k=69094455
+part 1 cut at 2217685
+part 0 edge 69094761
+part 1 edge 69094150
+GPU 1 part 0
+GPU 0 part 0
+GPU 1 part 1
+gpu binary count=3896660325
+GPU 0 part 1
+gpu binary count=2516545795
+total count 6413206120
+total time  4.72189 seconds

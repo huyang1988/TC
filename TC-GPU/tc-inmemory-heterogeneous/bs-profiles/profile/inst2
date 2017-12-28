@@ -1,0 +1,232 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+GPU  NUMBER = 1
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 242037623
+pre-processing time = 0.742507
+==51735== NVPROF is profiling process 51735, command: ./tc /home/huyang/data/kron1/
+GPU 0 time = 62.2438
+total count 37179588107
+total time  62.2438 seconds
+GPU 0 time = 61.8797
+total count 37179588107
+total time  61.8797 seconds
+merge average time of 5 round = 62.0618
+==51735== Profiling application: ./tc /home/huyang/data/kron1/
+==51735== Profiling result:
+         Device          Context           Stream                Kernel  Instructions Executed
+                                                                                              
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.308125951900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.241749457200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.200660893000000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.386206731500000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.453587213100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.249437898300000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.074656912900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.338374968900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.149241960400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.243649666100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.102679125700000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.252358144100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.242648048600000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.299368270900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  3.523263945200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.308125951900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.241749457200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.200660893000000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.386206731500000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.453587213100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.249437898300000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.074656912900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.338374968900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.149241960400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.243649666100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.102679125700000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.252358144100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.242648048600000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  8.299368270900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  3.523263945200000e+10
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+GPU  NUMBER = 1
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 523611003
+pre-processing time = 4.70073
+==51886== NVPROF is profiling process 51886, command: ./tc /home/huyang/data/kron2/
+GPU 0 time = 74.8884
+total count 22535831016
+total time  74.8884 seconds
+GPU 0 time = 74.1112
+total count 22535831016
+total time  74.1112 seconds
+merge average time of 5 round = 74.4998
+==51886== Profiling application: ./tc /home/huyang/data/kron2/
+==51886== Profiling result:
+         Device          Context           Stream                Kernel  Instructions Executed
+                                                                                              
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.635863492800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.989643922200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.553483358800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.510436108400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.706749358400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.706606002900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.520008287400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.906422862300000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  5.035710408100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.624797845000000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.497088247300000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.784711091900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.991466285300000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.593678979500000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.635918867300000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.442839179100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.776741227100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.593047238200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.655442304900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.834836785400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.704467515800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.521935751800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.573443832200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.422919737000000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.613336232700000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.942336561800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.690544745400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.920679381200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.819436329800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.461068435500000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.562353983400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E             9238322978
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.635863492800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.989643922200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.553483358800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.510436108400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.706749358400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.706606002900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.520008287400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.906422862300000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  5.035710408100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.624797845000000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.497088247300000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.784711091900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.991466285300000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.593678979500000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.635918867300000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.442839179100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.776741227100000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.593047238200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.655442304900000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.834836785400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.704467515800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.521935751800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.573443832200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.422919737000000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.613336232700000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.942336561800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.690544745400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.920679381200000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.819436329800000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.461068435500000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E  4.562353983400000e+10
+ Tesla K40c (4)                1                7     init_count(long*)                     56
+ Tesla K40c (4)                1                7  warp_binary_kernel(E             9238322978

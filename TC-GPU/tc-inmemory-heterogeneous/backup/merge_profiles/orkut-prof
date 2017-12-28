@@ -1,0 +1,8 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.616405 secondes
+total count = 223127577
+GPU time = 617.425 seconds
+total time = 618.374 secondes

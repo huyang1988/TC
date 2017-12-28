@@ -1,0 +1,31 @@
+./script: line 1: 24354 Segmentation fault      ./tc ~/bigdata/orkut/256M/
+Input format: ./exe graph-file-name (json formated file)
+0 3360025 5693181 12994814 28750998 
+total number = 34824916864
+time = 131.504
+time of io = 48.9753
+time of tc = 82.317
+Input format: ./exe graph-file-name (json formated file)
+0 430025 1796535 6326088 14971888 28685648 42846641 
+total number = 55428217664
+time = 200.868
+time of io = 79.7373
+time of tc = 120.701
+Input format: ./exe graph-file-name (json formated file)
+0 3284796 7892957 14532353 23019434 31784219 44245374 
+total number = 4176922719
+time = 175.865
+time of io = 88.0517
+time of tc = 87.2466
+Input format: ./exe graph-file-name (json formated file)
+0 8134961 22745584 40578114 56248076 76194585 92660373 113002288 132146589 
+total number = 611290
+time = 154.884
+time of io = 99.7642
+time of tc = 54.2279
+Input format: ./exe graph-file-name (json formated file)
+0 8870534 25640138 43475436 63150134 79851970 101527233 129147466 149200544 172790786 199088135 224058806 248912601 
+total number = 718158
+time = 478.534
+time of io = 337.563
+time of tc = 137.852

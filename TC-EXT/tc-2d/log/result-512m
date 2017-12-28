@@ -1,0 +1,30 @@
+Input format: ./exe graph-file-name (json formated file)
+0 5268077 20053261 
+total number = 34824916864
+time = 108.33
+time of io = 26.3389
+time of tc = 81.633
+Input format: ./exe graph-file-name (json formated file)
+0 1241317 8316270 27186105 
+total number = 55428217664
+time = 158.856
+time of io = 38.9449
+time of tc = 118.609
+Input format: ./exe graph-file-name (json formated file)
+0 6268986 16411030 29517929 51013490 
+total number = 4176922719
+time = 135.387
+time of io = 55.4434
+time of tc = 79.5254
+Input format: ./exe graph-file-name (json formated file)
+0 17688906 47219565 86389009 119029328 
+total number = 611290
+time = 121.537
+time of io = 68.5923
+time of tc = 52.3534
+Input format: ./exe graph-file-name (json formated file)
+0 16086848 44957144 81054779 112583895 152479100 185570946 226418797 264923284 
+total number = 506176
+time = 228.304
+time of io = 168.551
+time of tc = 57.6412

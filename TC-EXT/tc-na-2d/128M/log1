@@ -1,0 +1,6300 @@
+Input format: ./exe graph-file-name (json formated file)
+N1 10 N2 5
+0 3931225 8422091 14141334 21008781 28966825 38012019 48640678 64453679 80266680 0 4118875 9471975 16420588 24974687 34876494 46019341 55156831 65039158 80266670 0 4173258 9551093 16533232 25089026 34990583 46085489 58227189 69788065 80266700 0 4085574 9390474 16347324 24914005 34873981 46049362 58223522 71273160 83257429 0 3198747 8450081 15491327 24134911 34214620 45492783 57788261 70942083 84780383 
+subproblem 0-0-0
+subproblem edge error = 0
+subproblem 0-1-0
+subproblem edge error = 0
+subproblem 0-2-0
+subproblem edge error = 0
+subproblem 0-3-0
+subproblem edge error = 0
+subproblem 0-4-0
+subproblem edge error = 0
+subproblem 0-5-0
+subproblem edge error = 0
+subproblem 0-6-0
+subproblem edge error = 0
+subproblem 0-7-0
+subproblem edge error = 0
+subproblem 0-8-0
+subproblem edge error = 0
+subproblem 0-9-0
+subproblem edge error = 0
+subproblem 1-0-0
+subproblem edge error = 0
+subproblem 1-1-0
+subproblem edge error = 0
+subproblem 1-2-0
+subproblem edge error = 0
+subproblem 1-3-0
+subproblem edge error = 0
+subproblem 1-4-0
+subproblem edge error = 0
+subproblem 1-5-0
+subproblem edge error = 0
+subproblem 1-6-0
+subproblem edge error = 0
+subproblem 1-7-0
+subproblem edge error = 0
+subproblem 1-8-0
+subproblem edge error = 0
+subproblem 1-9-0
+subproblem edge error = 0
+subproblem 2-0-0
+subproblem edge error = 0
+subproblem 2-1-0
+subproblem edge error = 0
+subproblem 2-2-0
+subproblem edge error = 0
+subproblem 2-3-0
+subproblem edge error = 0
+subproblem 2-4-0
+subproblem edge error = 0
+subproblem 2-5-0
+subproblem edge error = 0
+subproblem 2-6-0
+subproblem edge error = 0
+subproblem 2-7-0
+subproblem edge error = 0
+subproblem 2-8-0
+subproblem edge error = 0
+subproblem 2-9-0
+subproblem edge error = 0
+subproblem 3-0-0
+subproblem edge error = 0
+subproblem 3-1-0
+subproblem edge error = 0
+subproblem 3-2-0
+subproblem edge error = 0
+subproblem 3-3-0
+subproblem edge error = 0
+subproblem 3-4-0
+subproblem edge error = 0
+subproblem 3-5-0
+subproblem edge error = 0
+subproblem 3-6-0
+subproblem edge error = 0
+subproblem 3-7-0
+subproblem edge error = 0
+subproblem 3-8-0
+subproblem edge error = 0
+subproblem 3-9-0
+subproblem edge error = 0
+subproblem 4-0-0
+subproblem edge error = 0
+subproblem 4-1-0
+subproblem edge error = 0
+subproblem 4-2-0
+subproblem edge error = 0
+subproblem 4-3-0
+subproblem edge error = 0
+subproblem 4-4-0
+subproblem edge error = 0
+subproblem 4-5-0
+subproblem edge error = 0
+subproblem 4-6-0
+subproblem edge error = 0
+subproblem 4-7-0
+subproblem edge error = 0
+subproblem 4-8-0
+subproblem edge error = 0
+subproblem 4-9-0
+subproblem edge error = 0
+subproblem 5-0-0
+subproblem edge error = 0
+subproblem 5-1-0
+subproblem edge error = 0
+subproblem 5-2-0
+subproblem edge error = 0
+subproblem 5-3-0
+subproblem edge error = 0
+subproblem 5-4-0
+subproblem edge error = 0
+subproblem 5-5-0
+subproblem edge error = 0
+subproblem 5-6-0
+subproblem edge error = 0
+subproblem 5-7-0
+subproblem edge error = 0
+subproblem 5-8-0
+subproblem edge error = 0
+subproblem 5-9-0
+subproblem edge error = 0
+subproblem 6-0-0
+subproblem edge error = 0
+subproblem 6-1-0
+subproblem edge error = 0
+subproblem 6-2-0
+subproblem edge error = 0
+subproblem 6-3-0
+subproblem edge error = 0
+subproblem 6-4-0
+subproblem edge error = 0
+subproblem 6-5-0
+subproblem edge error = 0
+subproblem 6-6-0
+subproblem edge error = 0
+subproblem 6-7-0
+subproblem edge error = 0
+subproblem 6-8-0
+subproblem edge error = 0
+subproblem 6-9-0
+subproblem edge error = 0
+subproblem 7-0-0
+subproblem edge error = 0
+subproblem 7-1-0
+subproblem edge error = 0
+subproblem 7-2-0
+subproblem edge error = 0
+subproblem 7-3-0
+subproblem edge error = 0
+subproblem 7-4-0
+subproblem edge error = 0
+subproblem 7-5-0
+subproblem edge error = 0
+subproblem 7-6-0
+subproblem edge error = 0
+subproblem 7-7-0
+subproblem edge error = 0
+subproblem 7-8-0
+subproblem edge error = 0
+subproblem 7-9-0
+subproblem edge error = 0
+subproblem 8-0-0
+subproblem edge error = 0
+subproblem 8-1-0
+subproblem edge error = 0
+subproblem 8-2-0
+subproblem edge error = 0
+subproblem 8-3-0
+subproblem edge error = 0
+subproblem 8-4-0
+subproblem edge error = 0
+subproblem 8-5-0
+subproblem edge error = 0
+subproblem 8-6-0
+subproblem edge error = 0
+subproblem 8-7-0
+subproblem edge error = 0
+subproblem 8-8-0
+subproblem edge error = 0
+subproblem 8-9-0
+subproblem edge error = 0
+subproblem 9-0-0
+subproblem edge error = 0
+subproblem 9-1-0
+subproblem edge error = 0
+subproblem 9-2-0
+subproblem edge error = 0
+subproblem 9-3-0
+subproblem edge error = 0
+subproblem 9-4-0
+subproblem edge error = 0
+subproblem 9-5-0
+subproblem edge error = 0
+subproblem 9-6-0
+subproblem edge error = 0
+subproblem 9-7-0
+subproblem edge error = 0
+subproblem 9-8-0
+subproblem edge error = 0
+subproblem 9-9-0
+subproblem edge error = 0
+subproblem 0-0-1
+subproblem edge error = 0
+subproblem 0-1-1
+subproblem edge error = 0
+subproblem 0-2-1
+subproblem edge error = 0
+subproblem 0-3-1
+subproblem edge error = 0
+subproblem 0-4-1
+subproblem edge error = 0
+subproblem 0-5-1
+subproblem edge error = 0
+subproblem 0-6-1
+subproblem edge error = 0
+subproblem 0-7-1
+subproblem edge error = 0
+subproblem 0-8-1
+subproblem edge error = 0
+subproblem 0-9-1
+subproblem edge error = 0
+subproblem 1-0-1
+subproblem edge error = 0
+subproblem 1-1-1
+subproblem edge error = 0
+subproblem 1-2-1
+subproblem edge error = 0
+subproblem 1-3-1
+subproblem edge error = 0
+subproblem 1-4-1
+subproblem edge error = 0
+subproblem 1-5-1
+subproblem edge error = 0
+subproblem 1-6-1
+subproblem edge error = 0
+subproblem 1-7-1
+subproblem edge error = 0
+subproblem 1-8-1
+subproblem edge error = 0
+subproblem 1-9-1
+subproblem edge error = 0
+subproblem 2-0-1
+subproblem edge error = 0
+subproblem 2-1-1
+subproblem edge error = 0
+subproblem 2-2-1
+subproblem edge error = 0
+subproblem 2-3-1
+subproblem edge error = 0
+subproblem 2-4-1
+subproblem edge error = 0
+subproblem 2-5-1
+subproblem edge error = 0
+subproblem 2-6-1
+subproblem edge error = 0
+subproblem 2-7-1
+subproblem edge error = 0
+subproblem 2-8-1
+subproblem edge error = 0
+subproblem 2-9-1
+subproblem edge error = 0
+subproblem 3-0-1
+subproblem edge error = 0
+subproblem 3-1-1
+subproblem edge error = 0
+subproblem 3-2-1
+subproblem edge error = 0
+subproblem 3-3-1
+subproblem edge error = 0
+subproblem 3-4-1
+subproblem edge error = 0
+subproblem 3-5-1
+subproblem edge error = 0
+subproblem 3-6-1
+subproblem edge error = 0
+subproblem 3-7-1
+subproblem edge error = 0
+subproblem 3-8-1
+subproblem edge error = 0
+subproblem 3-9-1
+subproblem edge error = 0
+subproblem 4-0-1
+subproblem edge error = 0
+subproblem 4-1-1
+subproblem edge error = 0
+subproblem 4-2-1
+subproblem edge error = 0
+subproblem 4-3-1
+subproblem edge error = 0
+subproblem 4-4-1
+subproblem edge error = 0
+subproblem 4-5-1
+subproblem edge error = 0
+subproblem 4-6-1
+subproblem edge error = 0
+subproblem 4-7-1
+subproblem edge error = 0
+subproblem 4-8-1
+subproblem edge error = 0
+subproblem 4-9-1
+subproblem edge error = 0
+subproblem 5-0-1
+subproblem edge error = 0
+subproblem 5-1-1
+subproblem edge error = 0
+subproblem 5-2-1
+subproblem edge error = 0
+subproblem 5-3-1
+subproblem edge error = 0
+subproblem 5-4-1
+subproblem edge error = 0
+subproblem 5-5-1
+subproblem edge error = 0
+subproblem 5-6-1
+subproblem edge error = 0
+subproblem 5-7-1
+subproblem edge error = 0
+subproblem 5-8-1
+subproblem edge error = 0
+subproblem 5-9-1
+subproblem edge error = 0
+subproblem 6-0-1
+subproblem edge error = 0
+subproblem 6-1-1
+subproblem edge error = 0
+subproblem 6-2-1
+subproblem edge error = 0
+subproblem 6-3-1
+subproblem edge error = 0
+subproblem 6-4-1
+subproblem edge error = 0
+subproblem 6-5-1
+subproblem edge error = 0
+subproblem 6-6-1
+subproblem edge error = 0
+subproblem 6-7-1
+subproblem edge error = 0
+subproblem 6-8-1
+subproblem edge error = 0
+subproblem 6-9-1
+subproblem edge error = 0
+subproblem 7-0-1
+subproblem edge error = 0
+subproblem 7-1-1
+subproblem edge error = 0
+subproblem 7-2-1
+subproblem edge error = 0
+subproblem 7-3-1
+subproblem edge error = 0
+subproblem 7-4-1
+subproblem edge error = 0
+subproblem 7-5-1
+subproblem edge error = 0
+subproblem 7-6-1
+subproblem edge error = 0
+subproblem 7-7-1
+subproblem edge error = 0
+subproblem 7-8-1
+subproblem edge error = 0
+subproblem 7-9-1
+subproblem edge error = 0
+subproblem 8-0-1
+subproblem edge error = 0
+subproblem 8-1-1
+subproblem edge error = 0
+subproblem 8-2-1
+subproblem edge error = 0
+subproblem 8-3-1
+subproblem edge error = 0
+subproblem 8-4-1
+subproblem edge error = 0
+subproblem 8-5-1
+subproblem edge error = 0
+subproblem 8-6-1
+subproblem edge error = 0
+subproblem 8-7-1
+subproblem edge error = 0
+subproblem 8-8-1
+subproblem edge error = 0
+subproblem 8-9-1
+subproblem edge error = 0
+subproblem 9-0-1
+subproblem edge error = 0
+subproblem 9-1-1
+subproblem edge error = 0
+subproblem 9-2-1
+subproblem edge error = 0
+subproblem 9-3-1
+subproblem edge error = 0
+subproblem 9-4-1
+subproblem edge error = 0
+subproblem 9-5-1
+subproblem edge error = 0
+subproblem 9-6-1
+subproblem edge error = 0
+subproblem 9-7-1
+subproblem edge error = 0
+subproblem 9-8-1
+subproblem edge error = 0
+subproblem 9-9-1
+subproblem edge error = 0
+subproblem 0-0-2
+subproblem edge error = 0
+subproblem 0-1-2
+subproblem edge error = 0
+subproblem 0-2-2
+subproblem edge error = 0
+subproblem 0-3-2
+subproblem edge error = 0
+subproblem 0-4-2
+subproblem edge error = 0
+subproblem 0-5-2
+subproblem edge error = 0
+subproblem 0-6-2
+subproblem edge error = 0
+subproblem 0-7-2
+subproblem edge error = 0
+subproblem 0-8-2
+subproblem edge error = 0
+subproblem 0-9-2
+subproblem edge error = 0
+subproblem 1-0-2
+subproblem edge error = 0
+subproblem 1-1-2
+subproblem edge error = 0
+subproblem 1-2-2
+subproblem edge error = 0
+subproblem 1-3-2
+subproblem edge error = 0
+subproblem 1-4-2
+subproblem edge error = 0
+subproblem 1-5-2
+subproblem edge error = 0
+subproblem 1-6-2
+subproblem edge error = 0
+subproblem 1-7-2
+subproblem edge error = 0
+subproblem 1-8-2
+subproblem edge error = 0
+subproblem 1-9-2
+subproblem edge error = 0
+subproblem 2-0-2
+subproblem edge error = 0
+subproblem 2-1-2
+subproblem edge error = 0
+subproblem 2-2-2
+subproblem edge error = 0
+subproblem 2-3-2
+subproblem edge error = 0
+subproblem 2-4-2
+subproblem edge error = 0
+subproblem 2-5-2
+subproblem edge error = 0
+subproblem 2-6-2
+subproblem edge error = 0
+subproblem 2-7-2
+subproblem edge error = 0
+subproblem 2-8-2
+subproblem edge error = 0
+subproblem 2-9-2
+subproblem edge error = 0
+subproblem 3-0-2
+subproblem edge error = 0
+subproblem 3-1-2
+subproblem edge error = 0
+subproblem 3-2-2
+subproblem edge error = 0
+subproblem 3-3-2
+subproblem edge error = 0
+subproblem 3-4-2
+subproblem edge error = 0
+subproblem 3-5-2
+subproblem edge error = 0
+subproblem 3-6-2
+subproblem edge error = 0
+subproblem 3-7-2
+subproblem edge error = 0
+subproblem 3-8-2
+subproblem edge error = 0
+subproblem 3-9-2
+subproblem edge error = 0
+subproblem 4-0-2
+subproblem edge error = 0
+subproblem 4-1-2
+subproblem edge error = 0
+subproblem 4-2-2
+subproblem edge error = 0
+subproblem 4-3-2
+subproblem edge error = 0
+subproblem 4-4-2
+subproblem edge error = 0
+subproblem 4-5-2
+subproblem edge error = 0
+subproblem 4-6-2
+subproblem edge error = 0
+subproblem 4-7-2
+subproblem edge error = 0
+subproblem 4-8-2
+subproblem edge error = 0
+subproblem 4-9-2
+subproblem edge error = 0
+subproblem 5-0-2
+subproblem edge error = 0
+subproblem 5-1-2
+subproblem edge error = 0
+subproblem 5-2-2
+subproblem edge error = 0
+subproblem 5-3-2
+subproblem edge error = 0
+subproblem 5-4-2
+subproblem edge error = 0
+subproblem 5-5-2
+subproblem edge error = 0
+subproblem 5-6-2
+subproblem edge error = 0
+subproblem 5-7-2
+subproblem edge error = 0
+subproblem 5-8-2
+subproblem edge error = 0
+subproblem 5-9-2
+subproblem edge error = 0
+subproblem 6-0-2
+subproblem edge error = 0
+subproblem 6-1-2
+subproblem edge error = 0
+subproblem 6-2-2
+subproblem edge error = 0
+subproblem 6-3-2
+subproblem edge error = 0
+subproblem 6-4-2
+subproblem edge error = 0
+subproblem 6-5-2
+subproblem edge error = 0
+subproblem 6-6-2
+subproblem edge error = 0
+subproblem 6-7-2
+subproblem edge error = 0
+subproblem 6-8-2
+subproblem edge error = 0
+subproblem 6-9-2
+subproblem edge error = 0
+subproblem 7-0-2
+subproblem edge error = 0
+subproblem 7-1-2
+subproblem edge error = 0
+subproblem 7-2-2
+subproblem edge error = 0
+subproblem 7-3-2
+subproblem edge error = 0
+subproblem 7-4-2
+subproblem edge error = 0
+subproblem 7-5-2
+subproblem edge error = 0
+subproblem 7-6-2
+subproblem edge error = 0
+subproblem 7-7-2
+subproblem edge error = 0
+subproblem 7-8-2
+subproblem edge error = 0
+subproblem 7-9-2
+subproblem edge error = 0
+subproblem 8-0-2
+subproblem edge error = 0
+subproblem 8-1-2
+subproblem edge error = 0
+subproblem 8-2-2
+subproblem edge error = 0
+subproblem 8-3-2
+subproblem edge error = 0
+subproblem 8-4-2
+subproblem edge error = 0
+subproblem 8-5-2
+subproblem edge error = 0
+subproblem 8-6-2
+subproblem edge error = 0
+subproblem 8-7-2
+subproblem edge error = 0
+subproblem 8-8-2
+subproblem edge error = 0
+subproblem 8-9-2
+subproblem edge error = 0
+subproblem 9-0-2
+subproblem edge error = 0
+subproblem 9-1-2
+subproblem edge error = 0
+subproblem 9-2-2
+subproblem edge error = 0
+subproblem 9-3-2
+subproblem edge error = 0
+subproblem 9-4-2
+subproblem edge error = 0
+subproblem 9-5-2
+subproblem edge error = 0
+subproblem 9-6-2
+subproblem edge error = 0
+subproblem 9-7-2
+subproblem edge error = 0
+subproblem 9-8-2
+subproblem edge error = 0
+subproblem 9-9-2
+subproblem edge error = 0
+subproblem 0-0-3
+subproblem edge error = 0
+subproblem 0-1-3
+subproblem edge error = 0
+subproblem 0-2-3
+subproblem edge error = 0
+subproblem 0-3-3
+subproblem edge error = 0
+subproblem 0-4-3
+subproblem edge error = 0
+subproblem 0-5-3
+subproblem edge error = 0
+subproblem 0-6-3
+subproblem edge error = 0
+subproblem 0-7-3
+subproblem edge error = 0
+subproblem 0-8-3
+subproblem edge error = 0
+subproblem 0-9-3
+subproblem edge error = 0
+subproblem 1-0-3
+subproblem edge error = 0
+subproblem 1-1-3
+subproblem edge error = 0
+subproblem 1-2-3
+subproblem edge error = 0
+subproblem 1-3-3
+subproblem edge error = 0
+subproblem 1-4-3
+subproblem edge error = 0
+subproblem 1-5-3
+subproblem edge error = 0
+subproblem 1-6-3
+subproblem edge error = 0
+subproblem 1-7-3
+subproblem edge error = 0
+subproblem 1-8-3
+subproblem edge error = 0
+subproblem 1-9-3
+subproblem edge error = 0
+subproblem 2-0-3
+subproblem edge error = 0
+subproblem 2-1-3
+subproblem edge error = 0
+subproblem 2-2-3
+subproblem edge error = 0
+subproblem 2-3-3
+subproblem edge error = 0
+subproblem 2-4-3
+subproblem edge error = 0
+subproblem 2-5-3
+subproblem edge error = 0
+subproblem 2-6-3
+subproblem edge error = 0
+subproblem 2-7-3
+subproblem edge error = 0
+subproblem 2-8-3
+subproblem edge error = 0
+subproblem 2-9-3
+subproblem edge error = 0
+subproblem 3-0-3
+subproblem edge error = 0
+subproblem 3-1-3
+subproblem edge error = 0
+subproblem 3-2-3
+subproblem edge error = 0
+subproblem 3-3-3
+subproblem edge error = 0
+subproblem 3-4-3
+subproblem edge error = 0
+subproblem 3-5-3
+subproblem edge error = 0
+subproblem 3-6-3
+subproblem edge error = 0
+subproblem 3-7-3
+subproblem edge error = 0
+subproblem 3-8-3
+subproblem edge error = 0
+subproblem 3-9-3
+subproblem edge error = 0
+subproblem 4-0-3
+subproblem edge error = 0
+subproblem 4-1-3
+subproblem edge error = 0
+subproblem 4-2-3
+subproblem edge error = 0
+subproblem 4-3-3
+subproblem edge error = 0
+subproblem 4-4-3
+subproblem edge error = 0
+subproblem 4-5-3
+subproblem edge error = 0
+subproblem 4-6-3
+subproblem edge error = 0
+subproblem 4-7-3
+subproblem edge error = 0
+subproblem 4-8-3
+subproblem edge error = 0
+subproblem 4-9-3
+subproblem edge error = 0
+subproblem 5-0-3
+subproblem edge error = 0
+subproblem 5-1-3
+subproblem edge error = 0
+subproblem 5-2-3
+subproblem edge error = 0
+subproblem 5-3-3
+subproblem edge error = 0
+subproblem 5-4-3
+subproblem edge error = 0
+subproblem 5-5-3
+subproblem edge error = 0
+subproblem 5-6-3
+subproblem edge error = 0
+subproblem 5-7-3
+subproblem edge error = 0
+subproblem 5-8-3
+subproblem edge error = 0
+subproblem 5-9-3
+subproblem edge error = 0
+subproblem 6-0-3
+subproblem edge error = 0
+subproblem 6-1-3
+subproblem edge error = 0
+subproblem 6-2-3
+subproblem edge error = 0
+subproblem 6-3-3
+subproblem edge error = 0
+subproblem 6-4-3
+subproblem edge error = 0
+subproblem 6-5-3
+subproblem edge error = 0
+subproblem 6-6-3
+subproblem edge error = 0
+subproblem 6-7-3
+subproblem edge error = 0
+subproblem 6-8-3
+subproblem edge error = 0
+subproblem 6-9-3
+subproblem edge error = 0
+subproblem 7-0-3
+subproblem edge error = 0
+subproblem 7-1-3
+subproblem edge error = 0
+subproblem 7-2-3
+subproblem edge error = 0
+subproblem 7-3-3
+subproblem edge error = 0
+subproblem 7-4-3
+subproblem edge error = 0
+subproblem 7-5-3
+subproblem edge error = 0
+subproblem 7-6-3
+subproblem edge error = 0
+subproblem 7-7-3
+subproblem edge error = 0
+subproblem 7-8-3
+subproblem edge error = 0
+subproblem 7-9-3
+subproblem edge error = 0
+subproblem 8-0-3
+subproblem edge error = 0
+subproblem 8-1-3
+subproblem edge error = 0
+subproblem 8-2-3
+subproblem edge error = 0
+subproblem 8-3-3
+subproblem edge error = 0
+subproblem 8-4-3
+subproblem edge error = 0
+subproblem 8-5-3
+subproblem edge error = 0
+subproblem 8-6-3
+subproblem edge error = 0
+subproblem 8-7-3
+subproblem edge error = 0
+subproblem 8-8-3
+subproblem edge error = 0
+subproblem 8-9-3
+subproblem edge error = 0
+subproblem 9-0-3
+subproblem edge error = 0
+subproblem 9-1-3
+subproblem edge error = 0
+subproblem 9-2-3
+subproblem edge error = 0
+subproblem 9-3-3
+subproblem edge error = 0
+subproblem 9-4-3
+subproblem edge error = 0
+subproblem 9-5-3
+subproblem edge error = 0
+subproblem 9-6-3
+subproblem edge error = 0
+subproblem 9-7-3
+subproblem edge error = 0
+subproblem 9-8-3
+subproblem edge error = 0
+subproblem 9-9-3
+subproblem edge error = 0
+subproblem 0-0-4
+subproblem edge error = 0
+subproblem 0-1-4
+subproblem edge error = 0
+subproblem 0-2-4
+subproblem edge error = 0
+subproblem 0-3-4
+subproblem edge error = 0
+subproblem 0-4-4
+subproblem edge error = 0
+subproblem 0-5-4
+subproblem edge error = 0
+subproblem 0-6-4
+subproblem edge error = 0
+subproblem 0-7-4
+subproblem edge error = 0
+subproblem 0-8-4
+subproblem edge error = 0
+subproblem 0-9-4
+subproblem edge error = 0
+subproblem 1-0-4
+subproblem edge error = 0
+subproblem 1-1-4
+subproblem edge error = 0
+subproblem 1-2-4
+subproblem edge error = 0
+subproblem 1-3-4
+subproblem edge error = 0
+subproblem 1-4-4
+subproblem edge error = 0
+subproblem 1-5-4
+subproblem edge error = 0
+subproblem 1-6-4
+subproblem edge error = 0
+subproblem 1-7-4
+subproblem edge error = 0
+subproblem 1-8-4
+subproblem edge error = 0
+subproblem 1-9-4
+subproblem edge error = 0
+subproblem 2-0-4
+subproblem edge error = 0
+subproblem 2-1-4
+subproblem edge error = 0
+subproblem 2-2-4
+subproblem edge error = 0
+subproblem 2-3-4
+subproblem edge error = 0
+subproblem 2-4-4
+subproblem edge error = 0
+subproblem 2-5-4
+subproblem edge error = 0
+subproblem 2-6-4
+subproblem edge error = 0
+subproblem 2-7-4
+subproblem edge error = 0
+subproblem 2-8-4
+subproblem edge error = 0
+subproblem 2-9-4
+subproblem edge error = 0
+subproblem 3-0-4
+subproblem edge error = 0
+subproblem 3-1-4
+subproblem edge error = 0
+subproblem 3-2-4
+subproblem edge error = 0
+subproblem 3-3-4
+subproblem edge error = 0
+subproblem 3-4-4
+subproblem edge error = 0
+subproblem 3-5-4
+subproblem edge error = 0
+subproblem 3-6-4
+subproblem edge error = 0
+subproblem 3-7-4
+subproblem edge error = 0
+subproblem 3-8-4
+subproblem edge error = 0
+subproblem 3-9-4
+subproblem edge error = 0
+subproblem 4-0-4
+subproblem edge error = 0
+subproblem 4-1-4
+subproblem edge error = 0
+subproblem 4-2-4
+subproblem edge error = 0
+subproblem 4-3-4
+subproblem edge error = 0
+subproblem 4-4-4
+subproblem edge error = 0
+subproblem 4-5-4
+subproblem edge error = 0
+subproblem 4-6-4
+subproblem edge error = 0
+subproblem 4-7-4
+subproblem edge error = 0
+subproblem 4-8-4
+subproblem edge error = 0
+subproblem 4-9-4
+subproblem edge error = 0
+subproblem 5-0-4
+subproblem edge error = 0
+subproblem 5-1-4
+subproblem edge error = 0
+subproblem 5-2-4
+subproblem edge error = 0
+subproblem 5-3-4
+subproblem edge error = 0
+subproblem 5-4-4
+subproblem edge error = 0
+subproblem 5-5-4
+subproblem edge error = 0
+subproblem 5-6-4
+subproblem edge error = 0
+subproblem 5-7-4
+subproblem edge error = 0
+subproblem 5-8-4
+subproblem edge error = 0
+subproblem 5-9-4
+subproblem edge error = 0
+subproblem 6-0-4
+subproblem edge error = 0
+subproblem 6-1-4
+subproblem edge error = 0
+subproblem 6-2-4
+subproblem edge error = 0
+subproblem 6-3-4
+subproblem edge error = 0
+subproblem 6-4-4
+subproblem edge error = 0
+subproblem 6-5-4
+subproblem edge error = 0
+subproblem 6-6-4
+subproblem edge error = 0
+subproblem 6-7-4
+subproblem edge error = 0
+subproblem 6-8-4
+subproblem edge error = 0
+subproblem 6-9-4
+subproblem edge error = 0
+subproblem 7-0-4
+subproblem edge error = 0
+subproblem 7-1-4
+subproblem edge error = 0
+subproblem 7-2-4
+subproblem edge error = 0
+subproblem 7-3-4
+subproblem edge error = 0
+subproblem 7-4-4
+subproblem edge error = 0
+subproblem 7-5-4
+subproblem edge error = 0
+subproblem 7-6-4
+subproblem edge error = 0
+subproblem 7-7-4
+subproblem edge error = 0
+subproblem 7-8-4
+subproblem edge error = 0
+subproblem 7-9-4
+subproblem edge error = 0
+subproblem 8-0-4
+subproblem edge error = 0
+subproblem 8-1-4
+subproblem edge error = 0
+subproblem 8-2-4
+subproblem edge error = 0
+subproblem 8-3-4
+subproblem edge error = 0
+subproblem 8-4-4
+subproblem edge error = 0
+subproblem 8-5-4
+subproblem edge error = 0
+subproblem 8-6-4
+subproblem edge error = 0
+subproblem 8-7-4
+subproblem edge error = 0
+subproblem 8-8-4
+subproblem edge error = 0
+subproblem 8-9-4
+subproblem edge error = 0
+subproblem 9-0-4
+subproblem edge error = 0
+subproblem 9-1-4
+subproblem edge error = 0
+subproblem 9-2-4
+subproblem edge error = 0
+subproblem 9-3-4
+subproblem edge error = 0
+subproblem 9-4-4
+subproblem edge error = 0
+subproblem 9-5-4
+subproblem edge error = 0
+subproblem 9-6-4
+subproblem edge error = 0
+subproblem 9-7-4
+subproblem edge error = 0
+subproblem 9-8-4
+subproblem edge error = 0
+subproblem 9-9-4
+subproblem edge error = 0
+total number = 3145181295
+edge error = 0
+time = 46.6539
+time of io = 34.6609
+time of tc = 11.5223
+Input format: ./exe graph-file-name (json formated file)
+N1 3 N2 4
+0 1183906 1904463 0 1266831 1794012 0 1184137 1927260 0 951351 2944102 
+subproblem 0-0-0
+subproblem edge error = 0
+subproblem 0-1-0
+subproblem edge error = 0
+subproblem 0-2-0
+subproblem edge error = 0
+subproblem 1-0-0
+subproblem edge error = 0
+subproblem 1-1-0
+subproblem edge error = 0
+subproblem 1-2-0
+subproblem edge error = 0
+subproblem 2-0-0
+subproblem edge error = 0
+subproblem 2-1-0
+subproblem edge error = 0
+subproblem 2-2-0
+subproblem edge error = 0
+subproblem 0-0-1
+subproblem edge error = 0
+subproblem 0-1-1
+subproblem edge error = 0
+subproblem 0-2-1
+subproblem edge error = 0
+subproblem 1-0-1
+subproblem edge error = 0
+subproblem 1-1-1
+subproblem edge error = 0
+subproblem 1-2-1
+subproblem edge error = 0
+subproblem 2-0-1
+subproblem edge error = 0
+subproblem 2-1-1
+subproblem edge error = 0
+subproblem 2-2-1
+subproblem edge error = 0
+subproblem 0-0-2
+subproblem edge error = 0
+subproblem 0-1-2
+subproblem edge error = 0
+subproblem 0-2-2
+subproblem edge error = 0
+subproblem 1-0-2
+subproblem edge error = 0
+subproblem 1-1-2
+subproblem edge error = 0
+subproblem 1-2-2
+subproblem edge error = 0
+subproblem 2-0-2
+subproblem edge error = 0
+subproblem 2-1-2
+subproblem edge error = 0
+subproblem 2-2-2
+subproblem edge error = 0
+subproblem 0-0-3
+subproblem edge error = 0
+subproblem 0-1-3
+subproblem edge error = 0
+subproblem 0-2-3
+subproblem edge error = 0
+subproblem 1-0-3
+subproblem edge error = 0
+subproblem 1-1-3
+subproblem edge error = 0
+subproblem 1-2-3
+subproblem edge error = 0
+subproblem 2-0-3
+subproblem edge error = 0
+subproblem 2-1-3
+subproblem edge error = 0
+subproblem 2-2-3
+subproblem edge error = 0
+total number = 223127577
+edge error = 0
+time = 12.6253
+time of io = 5.38774
+time of tc = 7.19821
+Input format: ./exe graph-file-name (json formated file)
+N1 11 N2 8
+0 1347487 2866531 4731185 7181493 10387804 14786554 20622679 28124384 38568490 52544399 0 3799634 5617187 7589780 10096673 13160273 17077870 22240347 29360662 39419284 52781717 0 4900975 7382979 9789691 12511977 15693063 19552739 24407707 30940838 40331979 53023166 0 5754841 8860425 11537634 14488613 17807485 21636729 26435001 32605951 41445479 53346533 0 6559997 10206390 13355225 16463677 19900519 23745552 28437140 34412341 42667079 53742670 0 7579432 11979380 15833992 19213014 22358456 25910859 30305748 35719965 43498110 54047424 0 9021276 14687782 19322424 22475210 25362055 29021949 32670647 37382744 44464253 54418479 0 10565362 17533333 22762084 27015779 30949405 34614991 38969895 44154232 50166808 57956351 
+subproblem 0-0-0
+subproblem edge error = 0
+subproblem 0-1-0
+subproblem edge error = 0
+subproblem 0-2-0
+subproblem edge error = 0
+subproblem 0-3-0
+subproblem edge error = 0
+subproblem 0-4-0
+subproblem edge error = 0
+subproblem 0-5-0
+subproblem edge error = 0
+subproblem 0-6-0
+subproblem edge error = 0
+subproblem 0-7-0
+subproblem edge error = 0
+subproblem 0-8-0
+subproblem edge error = 0
+subproblem 0-9-0
+subproblem edge error = 0
+subproblem 0-10-0
+subproblem edge error = 0
+subproblem 1-0-0
+subproblem edge error = 0
+subproblem 1-1-0
+subproblem edge error = 0
+subproblem 1-2-0
+subproblem edge error = 0
+subproblem 1-3-0
+subproblem edge error = 0
+subproblem 1-4-0
+subproblem edge error = 0
+subproblem 1-5-0
+subproblem edge error = 0
+subproblem 1-6-0
+subproblem edge error = 0
+subproblem 1-7-0
+subproblem edge error = 0
+subproblem 1-8-0
+subproblem edge error = 0
+subproblem 1-9-0
+subproblem edge error = 0
+subproblem 1-10-0
+subproblem edge error = 0
+subproblem 2-0-0
+subproblem edge error = 0
+subproblem 2-1-0
+subproblem edge error = 0
+subproblem 2-2-0
+subproblem edge error = 0
+subproblem 2-3-0
+subproblem edge error = 0
+subproblem 2-4-0
+subproblem edge error = 0
+subproblem 2-5-0
+subproblem edge error = 0
+subproblem 2-6-0
+subproblem edge error = 0
+subproblem 2-7-0
+subproblem edge error = 0
+subproblem 2-8-0
+subproblem edge error = 0
+subproblem 2-9-0
+subproblem edge error = 0
+subproblem 2-10-0
+subproblem edge error = 0
+subproblem 3-0-0
+subproblem edge error = 0
+subproblem 3-1-0
+subproblem edge error = 0
+subproblem 3-2-0
+subproblem edge error = 0
+subproblem 3-3-0
+subproblem edge error = 0
+subproblem 3-4-0
+subproblem edge error = 0
+subproblem 3-5-0
+subproblem edge error = 0
+subproblem 3-6-0
+subproblem edge error = 0
+subproblem 3-7-0
+subproblem edge error = 0
+subproblem 3-8-0
+subproblem edge error = 0
+subproblem 3-9-0
+subproblem edge error = 0
+subproblem 3-10-0
+subproblem edge error = 0
+subproblem 4-0-0
+subproblem edge error = 0
+subproblem 4-1-0
+subproblem edge error = 0
+subproblem 4-2-0
+subproblem edge error = 0
+subproblem 4-3-0
+subproblem edge error = 0
+subproblem 4-4-0
+subproblem edge error = 0
+subproblem 4-5-0
+subproblem edge error = 0
+subproblem 4-6-0
+subproblem edge error = 0
+subproblem 4-7-0
+subproblem edge error = 0
+subproblem 4-8-0
+subproblem edge error = 0
+subproblem 4-9-0
+subproblem edge error = 0
+subproblem 4-10-0
+subproblem edge error = 0
+subproblem 5-0-0
+subproblem edge error = 0
+subproblem 5-1-0
+subproblem edge error = 0
+subproblem 5-2-0
+subproblem edge error = 0
+subproblem 5-3-0
+subproblem edge error = 0
+subproblem 5-4-0
+subproblem edge error = 0
+subproblem 5-5-0
+subproblem edge error = 0
+subproblem 5-6-0
+subproblem edge error = 0
+subproblem 5-7-0
+subproblem edge error = 0
+subproblem 5-8-0
+subproblem edge error = 0
+subproblem 5-9-0
+subproblem edge error = 0
+subproblem 5-10-0
+subproblem edge error = 0
+subproblem 6-0-0
+subproblem edge error = 0
+subproblem 6-1-0
+subproblem edge error = 0
+subproblem 6-2-0
+subproblem edge error = 0
+subproblem 6-3-0
+subproblem edge error = 0
+subproblem 6-4-0
+subproblem edge error = 0
+subproblem 6-5-0
+subproblem edge error = 0
+subproblem 6-6-0
+subproblem edge error = 0
+subproblem 6-7-0
+subproblem edge error = 0
+subproblem 6-8-0
+subproblem edge error = 0
+subproblem 6-9-0
+subproblem edge error = 0
+subproblem 6-10-0
+subproblem edge error = 0
+subproblem 7-0-0
+subproblem edge error = 0
+subproblem 7-1-0
+subproblem edge error = 0
+subproblem 7-2-0
+subproblem edge error = 0
+subproblem 7-3-0
+subproblem edge error = 0
+subproblem 7-4-0
+subproblem edge error = 0
+subproblem 7-5-0
+subproblem edge error = 0
+subproblem 7-6-0
+subproblem edge error = 0
+subproblem 7-7-0
+subproblem edge error = 0
+subproblem 7-8-0
+subproblem edge error = 0
+subproblem 7-9-0
+subproblem edge error = 0
+subproblem 7-10-0
+subproblem edge error = 0
+subproblem 8-0-0
+subproblem edge error = 0
+subproblem 8-1-0
+subproblem edge error = 0
+subproblem 8-2-0
+subproblem edge error = 0
+subproblem 8-3-0
+subproblem edge error = 0
+subproblem 8-4-0
+subproblem edge error = 0
+subproblem 8-5-0
+subproblem edge error = 0
+subproblem 8-6-0
+subproblem edge error = 0
+subproblem 8-7-0
+subproblem edge error = 0
+subproblem 8-8-0
+subproblem edge error = 0
+subproblem 8-9-0
+subproblem edge error = 0
+subproblem 8-10-0
+subproblem edge error = 0
+subproblem 9-0-0
+subproblem edge error = 0
+subproblem 9-1-0
+subproblem edge error = 0
+subproblem 9-2-0
+subproblem edge error = 0
+subproblem 9-3-0
+subproblem edge error = 0
+subproblem 9-4-0
+subproblem edge error = 0
+subproblem 9-5-0
+subproblem edge error = 0
+subproblem 9-6-0
+subproblem edge error = 0
+subproblem 9-7-0
+subproblem edge error = 0
+subproblem 9-8-0
+subproblem edge error = 0
+subproblem 9-9-0
+subproblem edge error = 0
+subproblem 9-10-0
+subproblem edge error = 0
+subproblem 10-0-0
+subproblem edge error = 0
+subproblem 10-1-0
+subproblem edge error = 0
+subproblem 10-2-0
+subproblem edge error = 0
+subproblem 10-3-0
+subproblem edge error = 0
+subproblem 10-4-0
+subproblem edge error = 0
+subproblem 10-5-0
+subproblem edge error = 0
+subproblem 10-6-0
+subproblem edge error = 0
+subproblem 10-7-0
+subproblem edge error = 0
+subproblem 10-8-0
+subproblem edge error = 0
+subproblem 10-9-0
+subproblem edge error = 0
+subproblem 10-10-0
+subproblem edge error = 0
+subproblem 0-0-1
+subproblem edge error = 0
+subproblem 0-1-1
+subproblem edge error = 0
+subproblem 0-2-1
+subproblem edge error = 0
+subproblem 0-3-1
+subproblem edge error = 0
+subproblem 0-4-1
+subproblem edge error = 0
+subproblem 0-5-1
+subproblem edge error = 0
+subproblem 0-6-1
+subproblem edge error = 0
+subproblem 0-7-1
+subproblem edge error = 0
+subproblem 0-8-1
+subproblem edge error = 0
+subproblem 0-9-1
+subproblem edge error = 0
+subproblem 0-10-1
+subproblem edge error = 0
+subproblem 1-0-1
+subproblem edge error = 0
+subproblem 1-1-1
+subproblem edge error = 0
+subproblem 1-2-1
+subproblem edge error = 0
+subproblem 1-3-1
+subproblem edge error = 0
+subproblem 1-4-1
+subproblem edge error = 0
+subproblem 1-5-1
+subproblem edge error = 0
+subproblem 1-6-1
+subproblem edge error = 0
+subproblem 1-7-1
+subproblem edge error = 0
+subproblem 1-8-1
+subproblem edge error = 0
+subproblem 1-9-1
+subproblem edge error = 0
+subproblem 1-10-1
+subproblem edge error = 0
+subproblem 2-0-1
+subproblem edge error = 0
+subproblem 2-1-1
+subproblem edge error = 0
+subproblem 2-2-1
+subproblem edge error = 0
+subproblem 2-3-1
+subproblem edge error = 0
+subproblem 2-4-1
+subproblem edge error = 0
+subproblem 2-5-1
+subproblem edge error = 0
+subproblem 2-6-1
+subproblem edge error = 0
+subproblem 2-7-1
+subproblem edge error = 0
+subproblem 2-8-1
+subproblem edge error = 0
+subproblem 2-9-1
+subproblem edge error = 0
+subproblem 2-10-1
+subproblem edge error = 0
+subproblem 3-0-1
+subproblem edge error = 0
+subproblem 3-1-1
+subproblem edge error = 0
+subproblem 3-2-1
+subproblem edge error = 0
+subproblem 3-3-1
+subproblem edge error = 0
+subproblem 3-4-1
+subproblem edge error = 0
+subproblem 3-5-1
+subproblem edge error = 0
+subproblem 3-6-1
+subproblem edge error = 0
+subproblem 3-7-1
+subproblem edge error = 0
+subproblem 3-8-1
+subproblem edge error = 0
+subproblem 3-9-1
+subproblem edge error = 0
+subproblem 3-10-1
+subproblem edge error = 0
+subproblem 4-0-1
+subproblem edge error = 0
+subproblem 4-1-1
+subproblem edge error = 0
+subproblem 4-2-1
+subproblem edge error = 0
+subproblem 4-3-1
+subproblem edge error = 0
+subproblem 4-4-1
+subproblem edge error = 0
+subproblem 4-5-1
+subproblem edge error = 0
+subproblem 4-6-1
+subproblem edge error = 0
+subproblem 4-7-1
+subproblem edge error = 0
+subproblem 4-8-1
+subproblem edge error = 0
+subproblem 4-9-1
+subproblem edge error = 0
+subproblem 4-10-1
+subproblem edge error = 0
+subproblem 5-0-1
+subproblem edge error = 0
+subproblem 5-1-1
+subproblem edge error = 0
+subproblem 5-2-1
+subproblem edge error = 0
+subproblem 5-3-1
+subproblem edge error = 0
+subproblem 5-4-1
+subproblem edge error = 0
+subproblem 5-5-1
+subproblem edge error = 0
+subproblem 5-6-1
+subproblem edge error = 0
+subproblem 5-7-1
+subproblem edge error = 0
+subproblem 5-8-1
+subproblem edge error = 0
+subproblem 5-9-1
+subproblem edge error = 0
+subproblem 5-10-1
+subproblem edge error = 0
+subproblem 6-0-1
+subproblem edge error = 0
+subproblem 6-1-1
+subproblem edge error = 0
+subproblem 6-2-1
+subproblem edge error = 0
+subproblem 6-3-1
+subproblem edge error = 0
+subproblem 6-4-1
+subproblem edge error = 0
+subproblem 6-5-1
+subproblem edge error = 0
+subproblem 6-6-1
+subproblem edge error = 0
+subproblem 6-7-1
+subproblem edge error = 0
+subproblem 6-8-1
+subproblem edge error = 0
+subproblem 6-9-1
+subproblem edge error = 0
+subproblem 6-10-1
+subproblem edge error = 0
+subproblem 7-0-1
+subproblem edge error = 0
+subproblem 7-1-1
+subproblem edge error = 0
+subproblem 7-2-1
+subproblem edge error = 0
+subproblem 7-3-1
+subproblem edge error = 0
+subproblem 7-4-1
+subproblem edge error = 0
+subproblem 7-5-1
+subproblem edge error = 0
+subproblem 7-6-1
+subproblem edge error = 0
+subproblem 7-7-1
+subproblem edge error = 0
+subproblem 7-8-1
+subproblem edge error = 0
+subproblem 7-9-1
+subproblem edge error = 0
+subproblem 7-10-1
+subproblem edge error = 0
+subproblem 8-0-1
+subproblem edge error = 0
+subproblem 8-1-1
+subproblem edge error = 0
+subproblem 8-2-1
+subproblem edge error = 0
+subproblem 8-3-1
+subproblem edge error = 0
+subproblem 8-4-1
+subproblem edge error = 0
+subproblem 8-5-1
+subproblem edge error = 0
+subproblem 8-6-1
+subproblem edge error = 0
+subproblem 8-7-1
+subproblem edge error = 0
+subproblem 8-8-1
+subproblem edge error = 0
+subproblem 8-9-1
+subproblem edge error = 0
+subproblem 8-10-1
+subproblem edge error = 0
+subproblem 9-0-1
+subproblem edge error = 0
+subproblem 9-1-1
+subproblem edge error = 0
+subproblem 9-2-1
+subproblem edge error = 0
+subproblem 9-3-1
+subproblem edge error = 0
+subproblem 9-4-1
+subproblem edge error = 0
+subproblem 9-5-1
+subproblem edge error = 0
+subproblem 9-6-1
+subproblem edge error = 0
+subproblem 9-7-1
+subproblem edge error = 0
+subproblem 9-8-1
+subproblem edge error = 0
+subproblem 9-9-1
+subproblem edge error = 0
+subproblem 9-10-1
+subproblem edge error = 0
+subproblem 10-0-1
+subproblem edge error = 0
+subproblem 10-1-1
+subproblem edge error = 0
+subproblem 10-2-1
+subproblem edge error = 0
+subproblem 10-3-1
+subproblem edge error = 0
+subproblem 10-4-1
+subproblem edge error = 0
+subproblem 10-5-1
+subproblem edge error = 0
+subproblem 10-6-1
+subproblem edge error = 0
+subproblem 10-7-1
+subproblem edge error = 0
+subproblem 10-8-1
+subproblem edge error = 0
+subproblem 10-9-1
+subproblem edge error = 0
+subproblem 10-10-1
+subproblem edge error = 0
+subproblem 0-0-2
+subproblem edge error = 0
+subproblem 0-1-2
+subproblem edge error = 0
+subproblem 0-2-2
+subproblem edge error = 0
+subproblem 0-3-2
+subproblem edge error = 0
+subproblem 0-4-2
+subproblem edge error = 0
+subproblem 0-5-2
+subproblem edge error = 0
+subproblem 0-6-2
+subproblem edge error = 0
+subproblem 0-7-2
+subproblem edge error = 0
+subproblem 0-8-2
+subproblem edge error = 0
+subproblem 0-9-2
+subproblem edge error = 0
+subproblem 0-10-2
+subproblem edge error = 0
+subproblem 1-0-2
+subproblem edge error = 0
+subproblem 1-1-2
+subproblem edge error = 0
+subproblem 1-2-2
+subproblem edge error = 0
+subproblem 1-3-2
+subproblem edge error = 0
+subproblem 1-4-2
+subproblem edge error = 0
+subproblem 1-5-2
+subproblem edge error = 0
+subproblem 1-6-2
+subproblem edge error = 0
+subproblem 1-7-2
+subproblem edge error = 0
+subproblem 1-8-2
+subproblem edge error = 0
+subproblem 1-9-2
+subproblem edge error = 0
+subproblem 1-10-2
+subproblem edge error = 0
+subproblem 2-0-2
+subproblem edge error = 0
+subproblem 2-1-2
+subproblem edge error = 0
+subproblem 2-2-2
+subproblem edge error = 0
+subproblem 2-3-2
+subproblem edge error = 0
+subproblem 2-4-2
+subproblem edge error = 0
+subproblem 2-5-2
+subproblem edge error = 0
+subproblem 2-6-2
+subproblem edge error = 0
+subproblem 2-7-2
+subproblem edge error = 0
+subproblem 2-8-2
+subproblem edge error = 0
+subproblem 2-9-2
+subproblem edge error = 0
+subproblem 2-10-2
+subproblem edge error = 0
+subproblem 3-0-2
+subproblem edge error = 0
+subproblem 3-1-2
+subproblem edge error = 0
+subproblem 3-2-2
+subproblem edge error = 0
+subproblem 3-3-2
+subproblem edge error = 0
+subproblem 3-4-2
+subproblem edge error = 0
+subproblem 3-5-2
+subproblem edge error = 0
+subproblem 3-6-2
+subproblem edge error = 0
+subproblem 3-7-2
+subproblem edge error = 0
+subproblem 3-8-2
+subproblem edge error = 0
+subproblem 3-9-2
+subproblem edge error = 0
+subproblem 3-10-2
+subproblem edge error = 0
+subproblem 4-0-2
+subproblem edge error = 0
+subproblem 4-1-2
+subproblem edge error = 0
+subproblem 4-2-2
+subproblem edge error = 0
+subproblem 4-3-2
+subproblem edge error = 0
+subproblem 4-4-2
+subproblem edge error = 0
+subproblem 4-5-2
+subproblem edge error = 0
+subproblem 4-6-2
+subproblem edge error = 0
+subproblem 4-7-2
+subproblem edge error = 0
+subproblem 4-8-2
+subproblem edge error = 0
+subproblem 4-9-2
+subproblem edge error = 0
+subproblem 4-10-2
+subproblem edge error = 0
+subproblem 5-0-2
+subproblem edge error = 0
+subproblem 5-1-2
+subproblem edge error = 0
+subproblem 5-2-2
+subproblem edge error = 0
+subproblem 5-3-2
+subproblem edge error = 0
+subproblem 5-4-2
+subproblem edge error = 0
+subproblem 5-5-2
+subproblem edge error = 0
+subproblem 5-6-2
+subproblem edge error = 0
+subproblem 5-7-2
+subproblem edge error = 0
+subproblem 5-8-2
+subproblem edge error = 0
+subproblem 5-9-2
+subproblem edge error = 0
+subproblem 5-10-2
+subproblem edge error = 0
+subproblem 6-0-2
+subproblem edge error = 0
+subproblem 6-1-2
+subproblem edge error = 0
+subproblem 6-2-2
+subproblem edge error = 0
+subproblem 6-3-2
+subproblem edge error = 0
+subproblem 6-4-2
+subproblem edge error = 0
+subproblem 6-5-2
+subproblem edge error = 0
+subproblem 6-6-2
+subproblem edge error = 0
+subproblem 6-7-2
+subproblem edge error = 0
+subproblem 6-8-2
+subproblem edge error = 0
+subproblem 6-9-2
+subproblem edge error = 0
+subproblem 6-10-2
+subproblem edge error = 0
+subproblem 7-0-2
+subproblem edge error = 0
+subproblem 7-1-2
+subproblem edge error = 0
+subproblem 7-2-2
+subproblem edge error = 0
+subproblem 7-3-2
+subproblem edge error = 0
+subproblem 7-4-2
+subproblem edge error = 0
+subproblem 7-5-2
+subproblem edge error = 0
+subproblem 7-6-2
+subproblem edge error = 0
+subproblem 7-7-2
+subproblem edge error = 0
+subproblem 7-8-2
+subproblem edge error = 0
+subproblem 7-9-2
+subproblem edge error = 0
+subproblem 7-10-2
+subproblem edge error = 0
+subproblem 8-0-2
+subproblem edge error = 0
+subproblem 8-1-2
+subproblem edge error = 0
+subproblem 8-2-2
+subproblem edge error = 0
+subproblem 8-3-2
+subproblem edge error = 0
+subproblem 8-4-2
+subproblem edge error = 0
+subproblem 8-5-2
+subproblem edge error = 0
+subproblem 8-6-2
+subproblem edge error = 0
+subproblem 8-7-2
+subproblem edge error = 0
+subproblem 8-8-2
+subproblem edge error = 0
+subproblem 8-9-2
+subproblem edge error = 0
+subproblem 8-10-2
+subproblem edge error = 0
+subproblem 9-0-2
+subproblem edge error = 0
+subproblem 9-1-2
+subproblem edge error = 0
+subproblem 9-2-2
+subproblem edge error = 0
+subproblem 9-3-2
+subproblem edge error = 0
+subproblem 9-4-2
+subproblem edge error = 0
+subproblem 9-5-2
+subproblem edge error = 0
+subproblem 9-6-2
+subproblem edge error = 0
+subproblem 9-7-2
+subproblem edge error = 0
+subproblem 9-8-2
+subproblem edge error = 0
+subproblem 9-9-2
+subproblem edge error = 0
+subproblem 9-10-2
+subproblem edge error = 0
+subproblem 10-0-2
+subproblem edge error = 0
+subproblem 10-1-2
+subproblem edge error = 0
+subproblem 10-2-2
+subproblem edge error = 0
+subproblem 10-3-2
+subproblem edge error = 0
+subproblem 10-4-2
+subproblem edge error = 0
+subproblem 10-5-2
+subproblem edge error = 0
+subproblem 10-6-2
+subproblem edge error = 0
+subproblem 10-7-2
+subproblem edge error = 0
+subproblem 10-8-2
+subproblem edge error = 0
+subproblem 10-9-2
+subproblem edge error = 0
+subproblem 10-10-2
+subproblem edge error = 0
+subproblem 0-0-3
+subproblem edge error = 0
+subproblem 0-1-3
+subproblem edge error = 0
+subproblem 0-2-3
+subproblem edge error = 0
+subproblem 0-3-3
+subproblem edge error = 0
+subproblem 0-4-3
+subproblem edge error = 0
+subproblem 0-5-3
+subproblem edge error = 0
+subproblem 0-6-3
+subproblem edge error = 0
+subproblem 0-7-3
+subproblem edge error = 0
+subproblem 0-8-3
+subproblem edge error = 0
+subproblem 0-9-3
+subproblem edge error = 0
+subproblem 0-10-3
+subproblem edge error = 0
+subproblem 1-0-3
+subproblem edge error = 0
+subproblem 1-1-3
+subproblem edge error = 0
+subproblem 1-2-3
+subproblem edge error = 0
+subproblem 1-3-3
+subproblem edge error = 0
+subproblem 1-4-3
+subproblem edge error = 0
+subproblem 1-5-3
+subproblem edge error = 0
+subproblem 1-6-3
+subproblem edge error = 0
+subproblem 1-7-3
+subproblem edge error = 0
+subproblem 1-8-3
+subproblem edge error = 0
+subproblem 1-9-3
+subproblem edge error = 0
+subproblem 1-10-3
+subproblem edge error = 0
+subproblem 2-0-3
+subproblem edge error = 0
+subproblem 2-1-3
+subproblem edge error = 0
+subproblem 2-2-3
+subproblem edge error = 0
+subproblem 2-3-3
+subproblem edge error = 0
+subproblem 2-4-3
+subproblem edge error = 0
+subproblem 2-5-3
+subproblem edge error = 0
+subproblem 2-6-3
+subproblem edge error = 0
+subproblem 2-7-3
+subproblem edge error = 0
+subproblem 2-8-3
+subproblem edge error = 0
+subproblem 2-9-3
+subproblem edge error = 0
+subproblem 2-10-3
+subproblem edge error = 0
+subproblem 3-0-3
+subproblem edge error = 0
+subproblem 3-1-3
+subproblem edge error = 0
+subproblem 3-2-3
+subproblem edge error = 0
+subproblem 3-3-3
+subproblem edge error = 0
+subproblem 3-4-3
+subproblem edge error = 0
+subproblem 3-5-3
+subproblem edge error = 0
+subproblem 3-6-3
+subproblem edge error = 0
+subproblem 3-7-3
+subproblem edge error = 0
+subproblem 3-8-3
+subproblem edge error = 0
+subproblem 3-9-3
+subproblem edge error = 0
+subproblem 3-10-3
+subproblem edge error = 0
+subproblem 4-0-3
+subproblem edge error = 0
+subproblem 4-1-3
+subproblem edge error = 0
+subproblem 4-2-3
+subproblem edge error = 0
+subproblem 4-3-3
+subproblem edge error = 0
+subproblem 4-4-3
+subproblem edge error = 0
+subproblem 4-5-3
+subproblem edge error = 0
+subproblem 4-6-3
+subproblem edge error = 0
+subproblem 4-7-3
+subproblem edge error = 0
+subproblem 4-8-3
+subproblem edge error = 0
+subproblem 4-9-3
+subproblem edge error = 0
+subproblem 4-10-3
+subproblem edge error = 0
+subproblem 5-0-3
+subproblem edge error = 0
+subproblem 5-1-3
+subproblem edge error = 0
+subproblem 5-2-3
+subproblem edge error = 0
+subproblem 5-3-3
+subproblem edge error = 0
+subproblem 5-4-3
+subproblem edge error = 0
+subproblem 5-5-3
+subproblem edge error = 0
+subproblem 5-6-3
+subproblem edge error = 0
+subproblem 5-7-3
+subproblem edge error = 0
+subproblem 5-8-3
+subproblem edge error = 0
+subproblem 5-9-3
+subproblem edge error = 0
+subproblem 5-10-3
+subproblem edge error = 0
+subproblem 6-0-3
+subproblem edge error = 0
+subproblem 6-1-3
+subproblem edge error = 0
+subproblem 6-2-3
+subproblem edge error = 0
+subproblem 6-3-3
+subproblem edge error = 0
+subproblem 6-4-3
+subproblem edge error = 0
+subproblem 6-5-3
+subproblem edge error = 0
+subproblem 6-6-3
+subproblem edge error = 0
+subproblem 6-7-3
+subproblem edge error = 0
+subproblem 6-8-3
+subproblem edge error = 0
+subproblem 6-9-3
+subproblem edge error = 0
+subproblem 6-10-3
+subproblem edge error = 0
+subproblem 7-0-3
+subproblem edge error = 0
+subproblem 7-1-3
+subproblem edge error = 0
+subproblem 7-2-3
+subproblem edge error = 0
+subproblem 7-3-3
+subproblem edge error = 0
+subproblem 7-4-3
+subproblem edge error = 0
+subproblem 7-5-3
+subproblem edge error = 0
+subproblem 7-6-3
+subproblem edge error = 0
+subproblem 7-7-3
+subproblem edge error = 0
+subproblem 7-8-3
+subproblem edge error = 0
+subproblem 7-9-3
+subproblem edge error = 0
+subproblem 7-10-3
+subproblem edge error = 0
+subproblem 8-0-3
+subproblem edge error = 0
+subproblem 8-1-3
+subproblem edge error = 0
+subproblem 8-2-3
+subproblem edge error = 0
+subproblem 8-3-3
+subproblem edge error = 0
+subproblem 8-4-3
+subproblem edge error = 0
+subproblem 8-5-3
+subproblem edge error = 0
+subproblem 8-6-3
+subproblem edge error = 0
+subproblem 8-7-3
+subproblem edge error = 0
+subproblem 8-8-3
+subproblem edge error = 0
+subproblem 8-9-3
+subproblem edge error = 0
+subproblem 8-10-3
+subproblem edge error = 0
+subproblem 9-0-3
+subproblem edge error = 0
+subproblem 9-1-3
+subproblem edge error = 0
+subproblem 9-2-3
+subproblem edge error = 0
+subproblem 9-3-3
+subproblem edge error = 0
+subproblem 9-4-3
+subproblem edge error = 0
+subproblem 9-5-3
+subproblem edge error = 0
+subproblem 9-6-3
+subproblem edge error = 0
+subproblem 9-7-3
+subproblem edge error = 0
+subproblem 9-8-3
+subproblem edge error = 0
+subproblem 9-9-3
+subproblem edge error = 0
+subproblem 9-10-3
+subproblem edge error = 0
+subproblem 10-0-3
+subproblem edge error = 0
+subproblem 10-1-3
+subproblem edge error = 0
+subproblem 10-2-3
+subproblem edge error = 0
+subproblem 10-3-3
+subproblem edge error = 0
+subproblem 10-4-3
+subproblem edge error = 0
+subproblem 10-5-3
+subproblem edge error = 0
+subproblem 10-6-3
+subproblem edge error = 0
+subproblem 10-7-3
+subproblem edge error = 0
+subproblem 10-8-3
+subproblem edge error = 0
+subproblem 10-9-3
+subproblem edge error = 0
+subproblem 10-10-3
+subproblem edge error = 0
+subproblem 0-0-4
+subproblem edge error = 0
+subproblem 0-1-4
+subproblem edge error = 0
+subproblem 0-2-4
+subproblem edge error = 0
+subproblem 0-3-4
+subproblem edge error = 0
+subproblem 0-4-4
+subproblem edge error = 0
+subproblem 0-5-4
+subproblem edge error = 0
+subproblem 0-6-4
+subproblem edge error = 0
+subproblem 0-7-4
+subproblem edge error = 0
+subproblem 0-8-4
+subproblem edge error = 0
+subproblem 0-9-4
+subproblem edge error = 0
+subproblem 0-10-4
+subproblem edge error = 0
+subproblem 1-0-4
+subproblem edge error = 0
+subproblem 1-1-4
+subproblem edge error = 0
+subproblem 1-2-4
+subproblem edge error = 0
+subproblem 1-3-4
+subproblem edge error = 0
+subproblem 1-4-4
+subproblem edge error = 0
+subproblem 1-5-4
+subproblem edge error = 0
+subproblem 1-6-4
+subproblem edge error = 0
+subproblem 1-7-4
+subproblem edge error = 0
+subproblem 1-8-4
+subproblem edge error = 0
+subproblem 1-9-4
+subproblem edge error = 0
+subproblem 1-10-4
+subproblem edge error = 0
+subproblem 2-0-4
+subproblem edge error = 0
+subproblem 2-1-4
+subproblem edge error = 0
+subproblem 2-2-4
+subproblem edge error = 0
+subproblem 2-3-4
+subproblem edge error = 0
+subproblem 2-4-4
+subproblem edge error = 0
+subproblem 2-5-4
+subproblem edge error = 0
+subproblem 2-6-4
+subproblem edge error = 0
+subproblem 2-7-4
+subproblem edge error = 0
+subproblem 2-8-4
+subproblem edge error = 0
+subproblem 2-9-4
+subproblem edge error = 0
+subproblem 2-10-4
+subproblem edge error = 0
+subproblem 3-0-4
+subproblem edge error = 0
+subproblem 3-1-4
+subproblem edge error = 0
+subproblem 3-2-4
+subproblem edge error = 0
+subproblem 3-3-4
+subproblem edge error = 0
+subproblem 3-4-4
+subproblem edge error = 0
+subproblem 3-5-4
+subproblem edge error = 0
+subproblem 3-6-4
+subproblem edge error = 0
+subproblem 3-7-4
+subproblem edge error = 0
+subproblem 3-8-4
+subproblem edge error = 0
+subproblem 3-9-4
+subproblem edge error = 0
+subproblem 3-10-4
+subproblem edge error = 0
+subproblem 4-0-4
+subproblem edge error = 0
+subproblem 4-1-4
+subproblem edge error = 0
+subproblem 4-2-4
+subproblem edge error = 0
+subproblem 4-3-4
+subproblem edge error = 0
+subproblem 4-4-4
+subproblem edge error = 0
+subproblem 4-5-4
+subproblem edge error = 0
+subproblem 4-6-4
+subproblem edge error = 0
+subproblem 4-7-4
+subproblem edge error = 0
+subproblem 4-8-4
+subproblem edge error = 0
+subproblem 4-9-4
+subproblem edge error = 0
+subproblem 4-10-4
+subproblem edge error = 0
+subproblem 5-0-4
+subproblem edge error = 0
+subproblem 5-1-4
+subproblem edge error = 0
+subproblem 5-2-4
+subproblem edge error = 0
+subproblem 5-3-4
+subproblem edge error = 0
+subproblem 5-4-4
+subproblem edge error = 0
+subproblem 5-5-4
+subproblem edge error = 0
+subproblem 5-6-4
+subproblem edge error = 0
+subproblem 5-7-4
+subproblem edge error = 0
+subproblem 5-8-4
+subproblem edge error = 0
+subproblem 5-9-4
+subproblem edge error = 0
+subproblem 5-10-4
+subproblem edge error = 0
+subproblem 6-0-4
+subproblem edge error = 0
+subproblem 6-1-4
+subproblem edge error = 0
+subproblem 6-2-4
+subproblem edge error = 0
+subproblem 6-3-4
+subproblem edge error = 0
+subproblem 6-4-4
+subproblem edge error = 0
+subproblem 6-5-4
+subproblem edge error = 0
+subproblem 6-6-4
+subproblem edge error = 0
+subproblem 6-7-4
+subproblem edge error = 0
+subproblem 6-8-4
+subproblem edge error = 0
+subproblem 6-9-4
+subproblem edge error = 0
+subproblem 6-10-4
+subproblem edge error = 0
+subproblem 7-0-4
+subproblem edge error = 0
+subproblem 7-1-4
+subproblem edge error = 0
+subproblem 7-2-4
+subproblem edge error = 0
+subproblem 7-3-4
+subproblem edge error = 0
+subproblem 7-4-4
+subproblem edge error = 0
+subproblem 7-5-4
+subproblem edge error = 0
+subproblem 7-6-4
+subproblem edge error = 0
+subproblem 7-7-4
+subproblem edge error = 0
+subproblem 7-8-4
+subproblem edge error = 0
+subproblem 7-9-4
+subproblem edge error = 0
+subproblem 7-10-4
+subproblem edge error = 0
+subproblem 8-0-4
+subproblem edge error = 0
+subproblem 8-1-4
+subproblem edge error = 0
+subproblem 8-2-4
+subproblem edge error = 0
+subproblem 8-3-4
+subproblem edge error = 0
+subproblem 8-4-4
+subproblem edge error = 0
+subproblem 8-5-4
+subproblem edge error = 0
+subproblem 8-6-4
+subproblem edge error = 0
+subproblem 8-7-4
+subproblem edge error = 0
+subproblem 8-8-4
+subproblem edge error = 0
+subproblem 8-9-4
+subproblem edge error = 0
+subproblem 8-10-4
+subproblem edge error = 0
+subproblem 9-0-4
+subproblem edge error = 0
+subproblem 9-1-4
+subproblem edge error = 0
+subproblem 9-2-4
+subproblem edge error = 0
+subproblem 9-3-4
+subproblem edge error = 0
+subproblem 9-4-4
+subproblem edge error = 0
+subproblem 9-5-4
+subproblem edge error = 0
+subproblem 9-6-4
+subproblem edge error = 0
+subproblem 9-7-4
+subproblem edge error = 0
+subproblem 9-8-4
+subproblem edge error = 0
+subproblem 9-9-4
+subproblem edge error = 0
+subproblem 9-10-4
+subproblem edge error = 0
+subproblem 10-0-4
+subproblem edge error = 0
+subproblem 10-1-4
+subproblem edge error = 0
+subproblem 10-2-4
+subproblem edge error = 0
+subproblem 10-3-4
+subproblem edge error = 0
+subproblem 10-4-4
+subproblem edge error = 0
+subproblem 10-5-4
+subproblem edge error = 0
+subproblem 10-6-4
+subproblem edge error = 0
+subproblem 10-7-4
+subproblem edge error = 0
+subproblem 10-8-4
+subproblem edge error = 0
+subproblem 10-9-4
+subproblem edge error = 0
+subproblem 10-10-4
+subproblem edge error = 0
+subproblem 0-0-5
+subproblem edge error = 0
+subproblem 0-1-5
+subproblem edge error = 0
+subproblem 0-2-5
+subproblem edge error = 0
+subproblem 0-3-5
+subproblem edge error = 0
+subproblem 0-4-5
+subproblem edge error = 0
+subproblem 0-5-5
+subproblem edge error = 0
+subproblem 0-6-5
+subproblem edge error = 0
+subproblem 0-7-5
+subproblem edge error = 0
+subproblem 0-8-5
+subproblem edge error = 0
+subproblem 0-9-5
+subproblem edge error = 0
+subproblem 0-10-5
+subproblem edge error = 0
+subproblem 1-0-5
+subproblem edge error = 0
+subproblem 1-1-5
+subproblem edge error = 0
+subproblem 1-2-5
+subproblem edge error = 0
+subproblem 1-3-5
+subproblem edge error = 0
+subproblem 1-4-5
+subproblem edge error = 0
+subproblem 1-5-5
+subproblem edge error = 0
+subproblem 1-6-5
+subproblem edge error = 0
+subproblem 1-7-5
+subproblem edge error = 0
+subproblem 1-8-5
+subproblem edge error = 0
+subproblem 1-9-5
+subproblem edge error = 0
+subproblem 1-10-5
+subproblem edge error = 0
+subproblem 2-0-5
+subproblem edge error = 0
+subproblem 2-1-5
+subproblem edge error = 0
+subproblem 2-2-5
+subproblem edge error = 0
+subproblem 2-3-5
+subproblem edge error = 0
+subproblem 2-4-5
+subproblem edge error = 0
+subproblem 2-5-5
+subproblem edge error = 0
+subproblem 2-6-5
+subproblem edge error = 0
+subproblem 2-7-5
+subproblem edge error = 0
+subproblem 2-8-5
+subproblem edge error = 0
+subproblem 2-9-5
+subproblem edge error = 0
+subproblem 2-10-5
+subproblem edge error = 0
+subproblem 3-0-5
+subproblem edge error = 0
+subproblem 3-1-5
+subproblem edge error = 0
+subproblem 3-2-5
+subproblem edge error = 0
+subproblem 3-3-5
+subproblem edge error = 0
+subproblem 3-4-5
+subproblem edge error = 0
+subproblem 3-5-5
+subproblem edge error = 0
+subproblem 3-6-5
+subproblem edge error = 0
+subproblem 3-7-5
+subproblem edge error = 0
+subproblem 3-8-5
+subproblem edge error = 0
+subproblem 3-9-5
+subproblem edge error = 0
+subproblem 3-10-5
+subproblem edge error = 0
+subproblem 4-0-5
+subproblem edge error = 0
+subproblem 4-1-5
+subproblem edge error = 0
+subproblem 4-2-5
+subproblem edge error = 0
+subproblem 4-3-5
+subproblem edge error = 0
+subproblem 4-4-5
+subproblem edge error = 0
+subproblem 4-5-5
+subproblem edge error = 0
+subproblem 4-6-5
+subproblem edge error = 0
+subproblem 4-7-5
+subproblem edge error = 0
+subproblem 4-8-5
+subproblem edge error = 0
+subproblem 4-9-5
+subproblem edge error = 0
+subproblem 4-10-5
+subproblem edge error = 0
+subproblem 5-0-5
+subproblem edge error = 0
+subproblem 5-1-5
+subproblem edge error = 0
+subproblem 5-2-5
+subproblem edge error = 0
+subproblem 5-3-5
+subproblem edge error = 0
+subproblem 5-4-5
+subproblem edge error = 0
+subproblem 5-5-5
+subproblem edge error = 0
+subproblem 5-6-5
+subproblem edge error = 0
+subproblem 5-7-5
+subproblem edge error = 0
+subproblem 5-8-5
+subproblem edge error = 0
+subproblem 5-9-5
+subproblem edge error = 0
+subproblem 5-10-5
+subproblem edge error = 0
+subproblem 6-0-5
+subproblem edge error = 0
+subproblem 6-1-5
+subproblem edge error = 0
+subproblem 6-2-5
+subproblem edge error = 0
+subproblem 6-3-5
+subproblem edge error = 0
+subproblem 6-4-5
+subproblem edge error = 0
+subproblem 6-5-5
+subproblem edge error = 0
+subproblem 6-6-5
+subproblem edge error = 0
+subproblem 6-7-5
+subproblem edge error = 0
+subproblem 6-8-5
+subproblem edge error = 0
+subproblem 6-9-5
+subproblem edge error = 0
+subproblem 6-10-5
+subproblem edge error = 0
+subproblem 7-0-5
+subproblem edge error = 0
+subproblem 7-1-5
+subproblem edge error = 0
+subproblem 7-2-5
+subproblem edge error = 0
+subproblem 7-3-5
+subproblem edge error = 0
+subproblem 7-4-5
+subproblem edge error = 0
+subproblem 7-5-5
+subproblem edge error = 0
+subproblem 7-6-5
+subproblem edge error = 0
+subproblem 7-7-5
+subproblem edge error = 0
+subproblem 7-8-5
+subproblem edge error = 0
+subproblem 7-9-5
+subproblem edge error = 0
+subproblem 7-10-5
+subproblem edge error = 0
+subproblem 8-0-5
+subproblem edge error = 0
+subproblem 8-1-5
+subproblem edge error = 0
+subproblem 8-2-5
+subproblem edge error = 0
+subproblem 8-3-5
+subproblem edge error = 0
+subproblem 8-4-5
+subproblem edge error = 0
+subproblem 8-5-5
+subproblem edge error = 0
+subproblem 8-6-5
+subproblem edge error = 0
+subproblem 8-7-5
+subproblem edge error = 0
+subproblem 8-8-5
+subproblem edge error = 0
+subproblem 8-9-5
+subproblem edge error = 0
+subproblem 8-10-5
+subproblem edge error = 0
+subproblem 9-0-5
+subproblem edge error = 0
+subproblem 9-1-5
+subproblem edge error = 0
+subproblem 9-2-5
+subproblem edge error = 0
+subproblem 9-3-5
+subproblem edge error = 0
+subproblem 9-4-5
+subproblem edge error = 0
+subproblem 9-5-5
+subproblem edge error = 0
+subproblem 9-6-5
+subproblem edge error = 0
+subproblem 9-7-5
+subproblem edge error = 0
+subproblem 9-8-5
+subproblem edge error = 0
+subproblem 9-9-5
+subproblem edge error = 0
+subproblem 9-10-5
+subproblem edge error = 0
+subproblem 10-0-5
+subproblem edge error = 0
+subproblem 10-1-5
+subproblem edge error = 0
+subproblem 10-2-5
+subproblem edge error = 0
+subproblem 10-3-5
+subproblem edge error = 0
+subproblem 10-4-5
+subproblem edge error = 0
+subproblem 10-5-5
+subproblem edge error = 0
+subproblem 10-6-5
+subproblem edge error = 0
+subproblem 10-7-5
+subproblem edge error = 0
+subproblem 10-8-5
+subproblem edge error = 0
+subproblem 10-9-5
+subproblem edge error = 0
+subproblem 10-10-5
+subproblem edge error = 0
+subproblem 0-0-6
+subproblem edge error = 0
+subproblem 0-1-6
+subproblem edge error = 0
+subproblem 0-2-6
+subproblem edge error = 0
+subproblem 0-3-6
+subproblem edge error = 0
+subproblem 0-4-6
+subproblem edge error = 0
+subproblem 0-5-6
+subproblem edge error = 0
+subproblem 0-6-6
+subproblem edge error = 0
+subproblem 0-7-6
+subproblem edge error = 0
+subproblem 0-8-6
+subproblem edge error = 0
+subproblem 0-9-6
+subproblem edge error = 0
+subproblem 0-10-6
+subproblem edge error = 0
+subproblem 1-0-6
+subproblem edge error = 0
+subproblem 1-1-6
+subproblem edge error = 0
+subproblem 1-2-6
+subproblem edge error = 0
+subproblem 1-3-6
+subproblem edge error = 0
+subproblem 1-4-6
+subproblem edge error = 0
+subproblem 1-5-6
+subproblem edge error = 0
+subproblem 1-6-6
+subproblem edge error = 0
+subproblem 1-7-6
+subproblem edge error = 0
+subproblem 1-8-6
+subproblem edge error = 0
+subproblem 1-9-6
+subproblem edge error = 0
+subproblem 1-10-6
+subproblem edge error = 0
+subproblem 2-0-6
+subproblem edge error = 0
+subproblem 2-1-6
+subproblem edge error = 0
+subproblem 2-2-6
+subproblem edge error = 0
+subproblem 2-3-6
+subproblem edge error = 0
+subproblem 2-4-6
+subproblem edge error = 0
+subproblem 2-5-6
+subproblem edge error = 0
+subproblem 2-6-6
+subproblem edge error = 0
+subproblem 2-7-6
+subproblem edge error = 0
+subproblem 2-8-6
+subproblem edge error = 0
+subproblem 2-9-6
+subproblem edge error = 0
+subproblem 2-10-6
+subproblem edge error = 0
+subproblem 3-0-6
+subproblem edge error = 0
+subproblem 3-1-6
+subproblem edge error = 0
+subproblem 3-2-6
+subproblem edge error = 0
+subproblem 3-3-6
+subproblem edge error = 0
+subproblem 3-4-6
+subproblem edge error = 0
+subproblem 3-5-6
+subproblem edge error = 0
+subproblem 3-6-6
+subproblem edge error = 0
+subproblem 3-7-6
+subproblem edge error = 0
+subproblem 3-8-6
+subproblem edge error = 0
+subproblem 3-9-6
+subproblem edge error = 0
+subproblem 3-10-6
+subproblem edge error = 0
+subproblem 4-0-6
+subproblem edge error = 0
+subproblem 4-1-6
+subproblem edge error = 0
+subproblem 4-2-6
+subproblem edge error = 0
+subproblem 4-3-6
+subproblem edge error = 0
+subproblem 4-4-6
+subproblem edge error = 0
+subproblem 4-5-6
+subproblem edge error = 0
+subproblem 4-6-6
+subproblem edge error = 0
+subproblem 4-7-6
+subproblem edge error = 0
+subproblem 4-8-6
+subproblem edge error = 0
+subproblem 4-9-6
+subproblem edge error = 0
+subproblem 4-10-6
+subproblem edge error = 0
+subproblem 5-0-6
+subproblem edge error = 0
+subproblem 5-1-6
+subproblem edge error = 0
+subproblem 5-2-6
+subproblem edge error = 0
+subproblem 5-3-6
+subproblem edge error = 0
+subproblem 5-4-6
+subproblem edge error = 0
+subproblem 5-5-6
+subproblem edge error = 0
+subproblem 5-6-6
+subproblem edge error = 0
+subproblem 5-7-6
+subproblem edge error = 0
+subproblem 5-8-6
+subproblem edge error = 0
+subproblem 5-9-6
+subproblem edge error = 0
+subproblem 5-10-6
+subproblem edge error = 0
+subproblem 6-0-6
+subproblem edge error = 0
+subproblem 6-1-6
+subproblem edge error = 0
+subproblem 6-2-6
+subproblem edge error = 0
+subproblem 6-3-6
+subproblem edge error = 0
+subproblem 6-4-6
+subproblem edge error = 0
+subproblem 6-5-6
+subproblem edge error = 0
+subproblem 6-6-6
+subproblem edge error = 0
+subproblem 6-7-6
+subproblem edge error = 0
+subproblem 6-8-6
+subproblem edge error = 0
+subproblem 6-9-6
+subproblem edge error = 0
+subproblem 6-10-6
+subproblem edge error = 0
+subproblem 7-0-6
+subproblem edge error = 0
+subproblem 7-1-6
+subproblem edge error = 0
+subproblem 7-2-6
+subproblem edge error = 0
+subproblem 7-3-6
+subproblem edge error = 0
+subproblem 7-4-6
+subproblem edge error = 0
+subproblem 7-5-6
+subproblem edge error = 0
+subproblem 7-6-6
+subproblem edge error = 0
+subproblem 7-7-6
+subproblem edge error = 0
+subproblem 7-8-6
+subproblem edge error = 0
+subproblem 7-9-6
+subproblem edge error = 0
+subproblem 7-10-6
+subproblem edge error = 0
+subproblem 8-0-6
+subproblem edge error = 0
+subproblem 8-1-6
+subproblem edge error = 0
+subproblem 8-2-6
+subproblem edge error = 0
+subproblem 8-3-6
+subproblem edge error = 0
+subproblem 8-4-6
+subproblem edge error = 0
+subproblem 8-5-6
+subproblem edge error = 0
+subproblem 8-6-6
+subproblem edge error = 0
+subproblem 8-7-6
+subproblem edge error = 0
+subproblem 8-8-6
+subproblem edge error = 0
+subproblem 8-9-6
+subproblem edge error = 0
+subproblem 8-10-6
+subproblem edge error = 0
+subproblem 9-0-6
+subproblem edge error = 0
+subproblem 9-1-6
+subproblem edge error = 0
+subproblem 9-2-6
+subproblem edge error = 0
+subproblem 9-3-6
+subproblem edge error = 0
+subproblem 9-4-6
+subproblem edge error = 0
+subproblem 9-5-6
+subproblem edge error = 0
+subproblem 9-6-6
+subproblem edge error = 0
+subproblem 9-7-6
+subproblem edge error = 0
+subproblem 9-8-6
+subproblem edge error = 0
+subproblem 9-9-6
+subproblem edge error = 0
+subproblem 9-10-6
+subproblem edge error = 0
+subproblem 10-0-6
+subproblem edge error = 0
+subproblem 10-1-6
+subproblem edge error = 0
+subproblem 10-2-6
+subproblem edge error = 0
+subproblem 10-3-6
+subproblem edge error = 0
+subproblem 10-4-6
+subproblem edge error = 0
+subproblem 10-5-6
+subproblem edge error = 0
+subproblem 10-6-6
+subproblem edge error = 0
+subproblem 10-7-6
+subproblem edge error = 0
+subproblem 10-8-6
+subproblem edge error = 0
+subproblem 10-9-6
+subproblem edge error = 0
+subproblem 10-10-6
+subproblem edge error = 0
+subproblem 0-0-7
+subproblem edge error = 0
+subproblem 0-1-7
+subproblem edge error = 0
+subproblem 0-2-7
+subproblem edge error = 0
+subproblem 0-3-7
+subproblem edge error = 0
+subproblem 0-4-7
+subproblem edge error = 0
+subproblem 0-5-7
+subproblem edge error = 0
+subproblem 0-6-7
+subproblem edge error = 0
+subproblem 0-7-7
+subproblem edge error = 0
+subproblem 0-8-7
+subproblem edge error = 0
+subproblem 0-9-7
+subproblem edge error = 0
+subproblem 0-10-7
+subproblem edge error = 0
+subproblem 1-0-7
+subproblem edge error = 0
+subproblem 1-1-7
+subproblem edge error = 0
+subproblem 1-2-7
+subproblem edge error = 0
+subproblem 1-3-7
+subproblem edge error = 0
+subproblem 1-4-7
+subproblem edge error = 0
+subproblem 1-5-7
+subproblem edge error = 0
+subproblem 1-6-7
+subproblem edge error = 0
+subproblem 1-7-7
+subproblem edge error = 0
+subproblem 1-8-7
+subproblem edge error = 0
+subproblem 1-9-7
+subproblem edge error = 0
+subproblem 1-10-7
+subproblem edge error = 0
+subproblem 2-0-7
+subproblem edge error = 0
+subproblem 2-1-7
+subproblem edge error = 0
+subproblem 2-2-7
+subproblem edge error = 0
+subproblem 2-3-7
+subproblem edge error = 0
+subproblem 2-4-7
+subproblem edge error = 0
+subproblem 2-5-7
+subproblem edge error = 0
+subproblem 2-6-7
+subproblem edge error = 0
+subproblem 2-7-7
+subproblem edge error = 0
+subproblem 2-8-7
+subproblem edge error = 0
+subproblem 2-9-7
+subproblem edge error = 0
+subproblem 2-10-7
+subproblem edge error = 0
+subproblem 3-0-7
+subproblem edge error = 0
+subproblem 3-1-7
+subproblem edge error = 0
+subproblem 3-2-7
+subproblem edge error = 0
+subproblem 3-3-7
+subproblem edge error = 0
+subproblem 3-4-7
+subproblem edge error = 0
+subproblem 3-5-7
+subproblem edge error = 0
+subproblem 3-6-7
+subproblem edge error = 0
+subproblem 3-7-7
+subproblem edge error = 0
+subproblem 3-8-7
+subproblem edge error = 0
+subproblem 3-9-7
+subproblem edge error = 0
+subproblem 3-10-7
+subproblem edge error = 0
+subproblem 4-0-7
+subproblem edge error = 0
+subproblem 4-1-7
+subproblem edge error = 0
+subproblem 4-2-7
+subproblem edge error = 0
+subproblem 4-3-7
+subproblem edge error = 0
+subproblem 4-4-7
+subproblem edge error = 0
+subproblem 4-5-7
+subproblem edge error = 0
+subproblem 4-6-7
+subproblem edge error = 0
+subproblem 4-7-7
+subproblem edge error = 0
+subproblem 4-8-7
+subproblem edge error = 0
+subproblem 4-9-7
+subproblem edge error = 0
+subproblem 4-10-7
+subproblem edge error = 0
+subproblem 5-0-7
+subproblem edge error = 0
+subproblem 5-1-7
+subproblem edge error = 0
+subproblem 5-2-7
+subproblem edge error = 0
+subproblem 5-3-7
+subproblem edge error = 0
+subproblem 5-4-7
+subproblem edge error = 0
+subproblem 5-5-7
+subproblem edge error = 0
+subproblem 5-6-7
+subproblem edge error = 0
+subproblem 5-7-7
+subproblem edge error = 0
+subproblem 5-8-7
+subproblem edge error = 0
+subproblem 5-9-7
+subproblem edge error = 0
+subproblem 5-10-7
+subproblem edge error = 0
+subproblem 6-0-7
+subproblem edge error = 0
+subproblem 6-1-7
+subproblem edge error = 0
+subproblem 6-2-7
+subproblem edge error = 0
+subproblem 6-3-7
+subproblem edge error = 0
+subproblem 6-4-7
+subproblem edge error = 0
+subproblem 6-5-7
+subproblem edge error = 0
+subproblem 6-6-7
+subproblem edge error = 0
+subproblem 6-7-7
+subproblem edge error = 0
+subproblem 6-8-7
+subproblem edge error = 0
+subproblem 6-9-7
+subproblem edge error = 0
+subproblem 6-10-7
+subproblem edge error = 0
+subproblem 7-0-7
+subproblem edge error = 0
+subproblem 7-1-7
+subproblem edge error = 0
+subproblem 7-2-7
+subproblem edge error = 0
+subproblem 7-3-7
+subproblem edge error = 0
+subproblem 7-4-7
+subproblem edge error = 0
+subproblem 7-5-7
+subproblem edge error = 0
+subproblem 7-6-7
+subproblem edge error = 0
+subproblem 7-7-7
+subproblem edge error = 0
+subproblem 7-8-7
+subproblem edge error = 0
+subproblem 7-9-7
+subproblem edge error = 0
+subproblem 7-10-7
+subproblem edge error = 0
+subproblem 8-0-7
+subproblem edge error = 0
+subproblem 8-1-7
+subproblem edge error = 0
+subproblem 8-2-7
+subproblem edge error = 0
+subproblem 8-3-7
+subproblem edge error = 0
+subproblem 8-4-7
+subproblem edge error = 0
+subproblem 8-5-7
+subproblem edge error = 0
+subproblem 8-6-7
+subproblem edge error = 0
+subproblem 8-7-7
+subproblem edge error = 0
+subproblem 8-8-7
+subproblem edge error = 0
+subproblem 8-9-7
+subproblem edge error = 0
+subproblem 8-10-7
+subproblem edge error = 0
+subproblem 9-0-7
+subproblem edge error = 0
+subproblem 9-1-7
+subproblem edge error = 0
+subproblem 9-2-7
+subproblem edge error = 0
+subproblem 9-3-7
+subproblem edge error = 0
+subproblem 9-4-7
+subproblem edge error = 0
+subproblem 9-5-7
+subproblem edge error = 0
+subproblem 9-6-7
+subproblem edge error = 0
+subproblem 9-7-7
+subproblem edge error = 0
+subproblem 9-8-7
+subproblem edge error = 0
+subproblem 9-9-7
+subproblem edge error = 0
+subproblem 9-10-7
+subproblem edge error = 0
+subproblem 10-0-7
+subproblem edge error = 0
+subproblem 10-1-7
+subproblem edge error = 0
+subproblem 10-2-7
+subproblem edge error = 0
+subproblem 10-3-7
+subproblem edge error = 0
+subproblem 10-4-7
+subproblem edge error = 0
+subproblem 10-5-7
+subproblem edge error = 0
+subproblem 10-6-7
+subproblem edge error = 0
+subproblem 10-7-7
+subproblem edge error = 0
+subproblem 10-8-7
+subproblem edge error = 0
+subproblem 10-9-7
+subproblem edge error = 0
+subproblem 10-10-7
+subproblem edge error = 0
+total number = 4176922719
+edge error = 0
+time = 442.235
+time of io = 337.888
+time of tc = 93.8299
+Input format: ./exe graph-file-name (json formated file)
+N1 9 N2 6
+0 1004310 2653707 4183956 5643443 8560132 12385749 17633656 27538949 0 1257599 3621532 4283122 5396962 7909930 11954880 17725957 27558206 0 1854088 4112837 5146510 6332239 9352999 13463113 19000614 28209338 0 2292323 4860761 6809180 9541546 12754274 16664429 21854609 29864889 0 2233695 5105357 7653110 10701777 13680286 17405054 22516565 29975528 0 3242870 6909192 10767330 14634659 19535694 24677024 30378942 36226004 
+subproblem 0-0-0
+subproblem edge error = 0
+subproblem 0-1-0
+subproblem edge error = 0
+subproblem 0-2-0
+subproblem edge error = 0
+subproblem 0-3-0
+subproblem edge error = 0
+subproblem 0-4-0
+subproblem edge error = 0
+subproblem 0-5-0
+subproblem edge error = 0
+subproblem 0-6-0
+subproblem edge error = 0
+subproblem 0-7-0
+subproblem edge error = 0
+subproblem 0-8-0
+subproblem edge error = 0
+subproblem 1-0-0
+subproblem edge error = 0
+subproblem 1-1-0
+subproblem edge error = 0
+subproblem 1-2-0
+subproblem edge error = 0
+subproblem 1-3-0
+subproblem edge error = 0
+subproblem 1-4-0
+subproblem edge error = 0
+subproblem 1-5-0
+subproblem edge error = 0
+subproblem 1-6-0
+subproblem edge error = 0
+subproblem 1-7-0
+subproblem edge error = 0
+subproblem 1-8-0
+subproblem edge error = 0
+subproblem 2-0-0
+subproblem edge error = 0
+subproblem 2-1-0
+subproblem edge error = 0
+subproblem 2-2-0
+subproblem edge error = 0
+subproblem 2-3-0
+subproblem edge error = 0
+subproblem 2-4-0
+subproblem edge error = 0
+subproblem 2-5-0
+subproblem edge error = 0
+subproblem 2-6-0
+subproblem edge error = 0
+subproblem 2-7-0
+subproblem edge error = 0
+subproblem 2-8-0
+subproblem edge error = 0
+subproblem 3-0-0
+subproblem edge error = 0
+subproblem 3-1-0
+subproblem edge error = 0
+subproblem 3-2-0
+subproblem edge error = 0
+subproblem 3-3-0
+subproblem edge error = 0
+subproblem 3-4-0
+subproblem edge error = 0
+subproblem 3-5-0
+subproblem edge error = 0
+subproblem 3-6-0
+subproblem edge error = 0
+subproblem 3-7-0
+subproblem edge error = 0
+subproblem 3-8-0
+subproblem edge error = 0
+subproblem 4-0-0
+subproblem edge error = 0
+subproblem 4-1-0
+subproblem edge error = 0
+subproblem 4-2-0
+subproblem edge error = 0
+subproblem 4-3-0
+subproblem edge error = 0
+subproblem 4-4-0
+subproblem edge error = 0
+subproblem 4-5-0
+subproblem edge error = 0
+subproblem 4-6-0
+subproblem edge error = 0
+subproblem 4-7-0
+subproblem edge error = 0
+subproblem 4-8-0
+subproblem edge error = 0
+subproblem 5-0-0
+subproblem edge error = 0
+subproblem 5-1-0
+subproblem edge error = 0
+subproblem 5-2-0
+subproblem edge error = 0
+subproblem 5-3-0
+subproblem edge error = 0
+subproblem 5-4-0
+subproblem edge error = 0
+subproblem 5-5-0
+subproblem edge error = 0
+subproblem 5-6-0
+subproblem edge error = 0
+subproblem 5-7-0
+subproblem edge error = 0
+subproblem 5-8-0
+subproblem edge error = 0
+subproblem 6-0-0
+subproblem edge error = 0
+subproblem 6-1-0
+subproblem edge error = 0
+subproblem 6-2-0
+subproblem edge error = 0
+subproblem 6-3-0
+subproblem edge error = 0
+subproblem 6-4-0
+subproblem edge error = 0
+subproblem 6-5-0
+subproblem edge error = 0
+subproblem 6-6-0
+subproblem edge error = 0
+subproblem 6-7-0
+subproblem edge error = 0
+subproblem 6-8-0
+subproblem edge error = 0
+subproblem 7-0-0
+subproblem edge error = 0
+subproblem 7-1-0
+subproblem edge error = 0
+subproblem 7-2-0
+subproblem edge error = 0
+subproblem 7-3-0
+subproblem edge error = 0
+subproblem 7-4-0
+subproblem edge error = 0
+subproblem 7-5-0
+subproblem edge error = 0
+subproblem 7-6-0
+subproblem edge error = 0
+subproblem 7-7-0
+subproblem edge error = 0
+subproblem 7-8-0
+subproblem edge error = 0
+subproblem 8-0-0
+subproblem edge error = 0
+subproblem 8-1-0
+subproblem edge error = 0
+subproblem 8-2-0
+subproblem edge error = 0
+subproblem 8-3-0
+subproblem edge error = 0
+subproblem 8-4-0
+subproblem edge error = 0
+subproblem 8-5-0
+subproblem edge error = 0
+subproblem 8-6-0
+subproblem edge error = 0
+subproblem 8-7-0
+subproblem edge error = 0
+subproblem 8-8-0
+subproblem edge error = 0
+subproblem 0-0-1
+subproblem edge error = 0
+subproblem 0-1-1
+subproblem edge error = 0
+subproblem 0-2-1
+subproblem edge error = 0
+subproblem 0-3-1
+subproblem edge error = 0
+subproblem 0-4-1
+subproblem edge error = 0
+subproblem 0-5-1
+subproblem edge error = 0
+subproblem 0-6-1
+subproblem edge error = 0
+subproblem 0-7-1
+subproblem edge error = 0
+subproblem 0-8-1
+subproblem edge error = 0
+subproblem 1-0-1
+subproblem edge error = 0
+subproblem 1-1-1
+subproblem edge error = 0
+subproblem 1-2-1
+subproblem edge error = 0
+subproblem 1-3-1
+subproblem edge error = 0
+subproblem 1-4-1
+subproblem edge error = 0
+subproblem 1-5-1
+subproblem edge error = 0
+subproblem 1-6-1
+subproblem edge error = 0
+subproblem 1-7-1
+subproblem edge error = 0
+subproblem 1-8-1
+subproblem edge error = 0
+subproblem 2-0-1
+subproblem edge error = 0
+subproblem 2-1-1
+subproblem edge error = 0
+subproblem 2-2-1
+subproblem edge error = 0
+subproblem 2-3-1
+subproblem edge error = 0
+subproblem 2-4-1
+subproblem edge error = 0
+subproblem 2-5-1
+subproblem edge error = 0
+subproblem 2-6-1
+subproblem edge error = 0
+subproblem 2-7-1
+subproblem edge error = 0
+subproblem 2-8-1
+subproblem edge error = 0
+subproblem 3-0-1
+subproblem edge error = 0
+subproblem 3-1-1
+subproblem edge error = 0
+subproblem 3-2-1
+subproblem edge error = 0
+subproblem 3-3-1
+subproblem edge error = 0
+subproblem 3-4-1
+subproblem edge error = 0
+subproblem 3-5-1
+subproblem edge error = 0
+subproblem 3-6-1
+subproblem edge error = 0
+subproblem 3-7-1
+subproblem edge error = 0
+subproblem 3-8-1
+subproblem edge error = 0
+subproblem 4-0-1
+subproblem edge error = 0
+subproblem 4-1-1
+subproblem edge error = 0
+subproblem 4-2-1
+subproblem edge error = 0
+subproblem 4-3-1
+subproblem edge error = 0
+subproblem 4-4-1
+subproblem edge error = 0
+subproblem 4-5-1
+subproblem edge error = 0
+subproblem 4-6-1
+subproblem edge error = 0
+subproblem 4-7-1
+subproblem edge error = 0
+subproblem 4-8-1
+subproblem edge error = 0
+subproblem 5-0-1
+subproblem edge error = 0
+subproblem 5-1-1
+subproblem edge error = 0
+subproblem 5-2-1
+subproblem edge error = 0
+subproblem 5-3-1
+subproblem edge error = 0
+subproblem 5-4-1
+subproblem edge error = 0
+subproblem 5-5-1
+subproblem edge error = 0
+subproblem 5-6-1
+subproblem edge error = 0
+subproblem 5-7-1
+subproblem edge error = 0
+subproblem 5-8-1
+subproblem edge error = 0
+subproblem 6-0-1
+subproblem edge error = 0
+subproblem 6-1-1
+subproblem edge error = 0
+subproblem 6-2-1
+subproblem edge error = 0
+subproblem 6-3-1
+subproblem edge error = 0
+subproblem 6-4-1
+subproblem edge error = 0
+subproblem 6-5-1
+subproblem edge error = 0
+subproblem 6-6-1
+subproblem edge error = 0
+subproblem 6-7-1
+subproblem edge error = 0
+subproblem 6-8-1
+subproblem edge error = 0
+subproblem 7-0-1
+subproblem edge error = 0
+subproblem 7-1-1
+subproblem edge error = 0
+subproblem 7-2-1
+subproblem edge error = 0
+subproblem 7-3-1
+subproblem edge error = 0
+subproblem 7-4-1
+subproblem edge error = 0
+subproblem 7-5-1
+subproblem edge error = 0
+subproblem 7-6-1
+subproblem edge error = 0
+subproblem 7-7-1
+subproblem edge error = 0
+subproblem 7-8-1
+subproblem edge error = 0
+subproblem 8-0-1
+subproblem edge error = 0
+subproblem 8-1-1
+subproblem edge error = 0
+subproblem 8-2-1
+subproblem edge error = 0
+subproblem 8-3-1
+subproblem edge error = 0
+subproblem 8-4-1
+subproblem edge error = 0
+subproblem 8-5-1
+subproblem edge error = 0
+subproblem 8-6-1
+subproblem edge error = 0
+subproblem 8-7-1
+subproblem edge error = 0
+subproblem 8-8-1
+subproblem edge error = 0
+subproblem 0-0-2
+subproblem edge error = 0
+subproblem 0-1-2
+subproblem edge error = 0
+subproblem 0-2-2
+subproblem edge error = 0
+subproblem 0-3-2
+subproblem edge error = 0
+subproblem 0-4-2
+subproblem edge error = 0
+subproblem 0-5-2
+subproblem edge error = 0
+subproblem 0-6-2
+subproblem edge error = 0
+subproblem 0-7-2
+subproblem edge error = 0
+subproblem 0-8-2
+subproblem edge error = 0
+subproblem 1-0-2
+subproblem edge error = 0
+subproblem 1-1-2
+subproblem edge error = 0
+subproblem 1-2-2
+subproblem edge error = 0
+subproblem 1-3-2
+subproblem edge error = 0
+subproblem 1-4-2
+subproblem edge error = 0
+subproblem 1-5-2
+subproblem edge error = 0
+subproblem 1-6-2
+subproblem edge error = 0
+subproblem 1-7-2
+subproblem edge error = 0
+subproblem 1-8-2
+subproblem edge error = 0
+subproblem 2-0-2
+subproblem edge error = 0
+subproblem 2-1-2
+subproblem edge error = 0
+subproblem 2-2-2
+subproblem edge error = 0
+subproblem 2-3-2
+subproblem edge error = 0
+subproblem 2-4-2
+subproblem edge error = 0
+subproblem 2-5-2
+subproblem edge error = 0
+subproblem 2-6-2
+subproblem edge error = 0
+subproblem 2-7-2
+subproblem edge error = 0
+subproblem 2-8-2
+subproblem edge error = 0
+subproblem 3-0-2
+subproblem edge error = 0
+subproblem 3-1-2
+subproblem edge error = 0
+subproblem 3-2-2
+subproblem edge error = 0
+subproblem 3-3-2
+subproblem edge error = 0
+subproblem 3-4-2
+subproblem edge error = 0
+subproblem 3-5-2
+subproblem edge error = 0
+subproblem 3-6-2
+subproblem edge error = 0
+subproblem 3-7-2
+subproblem edge error = 0
+subproblem 3-8-2
+subproblem edge error = 0
+subproblem 4-0-2
+subproblem edge error = 0
+subproblem 4-1-2
+subproblem edge error = 0
+subproblem 4-2-2
+subproblem edge error = 0
+subproblem 4-3-2
+subproblem edge error = 0
+subproblem 4-4-2
+subproblem edge error = 0
+subproblem 4-5-2
+subproblem edge error = 0
+subproblem 4-6-2
+subproblem edge error = 0
+subproblem 4-7-2
+subproblem edge error = 0
+subproblem 4-8-2
+subproblem edge error = 0
+subproblem 5-0-2
+subproblem edge error = 0
+subproblem 5-1-2
+subproblem edge error = 0
+subproblem 5-2-2
+subproblem edge error = 0
+subproblem 5-3-2
+subproblem edge error = 0
+subproblem 5-4-2
+subproblem edge error = 0
+subproblem 5-5-2
+subproblem edge error = 0
+subproblem 5-6-2
+subproblem edge error = 0
+subproblem 5-7-2
+subproblem edge error = 0
+subproblem 5-8-2
+subproblem edge error = 0
+subproblem 6-0-2
+subproblem edge error = 0
+subproblem 6-1-2
+subproblem edge error = 0
+subproblem 6-2-2
+subproblem edge error = 0
+subproblem 6-3-2
+subproblem edge error = 0
+subproblem 6-4-2
+subproblem edge error = 0
+subproblem 6-5-2
+subproblem edge error = 0
+subproblem 6-6-2
+subproblem edge error = 0
+subproblem 6-7-2
+subproblem edge error = 0
+subproblem 6-8-2
+subproblem edge error = 0
+subproblem 7-0-2
+subproblem edge error = 0
+subproblem 7-1-2
+subproblem edge error = 0
+subproblem 7-2-2
+subproblem edge error = 0
+subproblem 7-3-2
+subproblem edge error = 0
+subproblem 7-4-2
+subproblem edge error = 0
+subproblem 7-5-2
+subproblem edge error = 0
+subproblem 7-6-2
+subproblem edge error = 0
+subproblem 7-7-2
+subproblem edge error = 0
+subproblem 7-8-2
+subproblem edge error = 0
+subproblem 8-0-2
+subproblem edge error = 0
+subproblem 8-1-2
+subproblem edge error = 0
+subproblem 8-2-2
+subproblem edge error = 0
+subproblem 8-3-2
+subproblem edge error = 0
+subproblem 8-4-2
+subproblem edge error = 0
+subproblem 8-5-2
+subproblem edge error = 0
+subproblem 8-6-2
+subproblem edge error = 0
+subproblem 8-7-2
+subproblem edge error = 0
+subproblem 8-8-2
+subproblem edge error = 0
+subproblem 0-0-3
+subproblem edge error = 0
+subproblem 0-1-3
+subproblem edge error = 0
+subproblem 0-2-3
+subproblem edge error = 0
+subproblem 0-3-3
+subproblem edge error = 0
+subproblem 0-4-3
+subproblem edge error = 0
+subproblem 0-5-3
+subproblem edge error = 0
+subproblem 0-6-3
+subproblem edge error = 0
+subproblem 0-7-3
+subproblem edge error = 0
+subproblem 0-8-3
+subproblem edge error = 0
+subproblem 1-0-3
+subproblem edge error = 0
+subproblem 1-1-3
+subproblem edge error = 0
+subproblem 1-2-3
+subproblem edge error = 0
+subproblem 1-3-3
+subproblem edge error = 0
+subproblem 1-4-3
+subproblem edge error = 0
+subproblem 1-5-3
+subproblem edge error = 0
+subproblem 1-6-3
+subproblem edge error = 0
+subproblem 1-7-3
+subproblem edge error = 0
+subproblem 1-8-3
+subproblem edge error = 0
+subproblem 2-0-3
+subproblem edge error = 0
+subproblem 2-1-3
+subproblem edge error = 0
+subproblem 2-2-3
+subproblem edge error = 0
+subproblem 2-3-3
+subproblem edge error = 0
+subproblem 2-4-3
+subproblem edge error = 0
+subproblem 2-5-3
+subproblem edge error = 0
+subproblem 2-6-3
+subproblem edge error = 0
+subproblem 2-7-3
+subproblem edge error = 0
+subproblem 2-8-3
+subproblem edge error = 0
+subproblem 3-0-3
+subproblem edge error = 0
+subproblem 3-1-3
+subproblem edge error = 0
+subproblem 3-2-3
+subproblem edge error = 0
+subproblem 3-3-3
+subproblem edge error = 0
+subproblem 3-4-3
+subproblem edge error = 0
+subproblem 3-5-3
+subproblem edge error = 0
+subproblem 3-6-3
+subproblem edge error = 0
+subproblem 3-7-3
+subproblem edge error = 0
+subproblem 3-8-3
+subproblem edge error = 0
+subproblem 4-0-3
+subproblem edge error = 0
+subproblem 4-1-3
+subproblem edge error = 0
+subproblem 4-2-3
+subproblem edge error = 0
+subproblem 4-3-3
+subproblem edge error = 0
+subproblem 4-4-3
+subproblem edge error = 0
+subproblem 4-5-3
+subproblem edge error = 0
+subproblem 4-6-3
+subproblem edge error = 0
+subproblem 4-7-3
+subproblem edge error = 0
+subproblem 4-8-3
+subproblem edge error = 0
+subproblem 5-0-3
+subproblem edge error = 0
+subproblem 5-1-3
+subproblem edge error = 0
+subproblem 5-2-3
+subproblem edge error = 0
+subproblem 5-3-3
+subproblem edge error = 0
+subproblem 5-4-3
+subproblem edge error = 0
+subproblem 5-5-3
+subproblem edge error = 0
+subproblem 5-6-3
+subproblem edge error = 0
+subproblem 5-7-3
+subproblem edge error = 0
+subproblem 5-8-3
+subproblem edge error = 0
+subproblem 6-0-3
+subproblem edge error = 0
+subproblem 6-1-3
+subproblem edge error = 0
+subproblem 6-2-3
+subproblem edge error = 0
+subproblem 6-3-3
+subproblem edge error = 0
+subproblem 6-4-3
+subproblem edge error = 0
+subproblem 6-5-3
+subproblem edge error = 0
+subproblem 6-6-3
+subproblem edge error = 0
+subproblem 6-7-3
+subproblem edge error = 0
+subproblem 6-8-3
+subproblem edge error = 0
+subproblem 7-0-3
+subproblem edge error = 0
+subproblem 7-1-3
+subproblem edge error = 0
+subproblem 7-2-3
+subproblem edge error = 0
+subproblem 7-3-3
+subproblem edge error = 0
+subproblem 7-4-3
+subproblem edge error = 0
+subproblem 7-5-3
+subproblem edge error = 0
+subproblem 7-6-3
+subproblem edge error = 0
+subproblem 7-7-3
+subproblem edge error = 0
+subproblem 7-8-3
+subproblem edge error = 0
+subproblem 8-0-3
+subproblem edge error = 0
+subproblem 8-1-3
+subproblem edge error = 0
+subproblem 8-2-3
+subproblem edge error = 0
+subproblem 8-3-3
+subproblem edge error = 0
+subproblem 8-4-3
+subproblem edge error = 0
+subproblem 8-5-3
+subproblem edge error = 0
+subproblem 8-6-3
+subproblem edge error = 0
+subproblem 8-7-3
+subproblem edge error = 0
+subproblem 8-8-3
+subproblem edge error = 0
+subproblem 0-0-4
+subproblem edge error = 0
+subproblem 0-1-4
+subproblem edge error = 0
+subproblem 0-2-4
+subproblem edge error = 0
+subproblem 0-3-4
+subproblem edge error = 0
+subproblem 0-4-4
+subproblem edge error = 0
+subproblem 0-5-4
+subproblem edge error = 0
+subproblem 0-6-4
+subproblem edge error = 0
+subproblem 0-7-4
+subproblem edge error = 0
+subproblem 0-8-4
+subproblem edge error = 0
+subproblem 1-0-4
+subproblem edge error = 0
+subproblem 1-1-4
+subproblem edge error = 0
+subproblem 1-2-4
+subproblem edge error = 0
+subproblem 1-3-4
+subproblem edge error = 0
+subproblem 1-4-4
+subproblem edge error = 0
+subproblem 1-5-4
+subproblem edge error = 0
+subproblem 1-6-4
+subproblem edge error = 0
+subproblem 1-7-4
+subproblem edge error = 0
+subproblem 1-8-4
+subproblem edge error = 0
+subproblem 2-0-4
+subproblem edge error = 0
+subproblem 2-1-4
+subproblem edge error = 0
+subproblem 2-2-4
+subproblem edge error = 0
+subproblem 2-3-4
+subproblem edge error = 0
+subproblem 2-4-4
+subproblem edge error = 0
+subproblem 2-5-4
+subproblem edge error = 0
+subproblem 2-6-4
+subproblem edge error = 0
+subproblem 2-7-4
+subproblem edge error = 0
+subproblem 2-8-4
+subproblem edge error = 0
+subproblem 3-0-4
+subproblem edge error = 0
+subproblem 3-1-4
+subproblem edge error = 0
+subproblem 3-2-4
+subproblem edge error = 0
+subproblem 3-3-4
+subproblem edge error = 0
+subproblem 3-4-4
+subproblem edge error = 0
+subproblem 3-5-4
+subproblem edge error = 0
+subproblem 3-6-4
+subproblem edge error = 0
+subproblem 3-7-4
+subproblem edge error = 0
+subproblem 3-8-4
+subproblem edge error = 0
+subproblem 4-0-4
+subproblem edge error = 0
+subproblem 4-1-4
+subproblem edge error = 0
+subproblem 4-2-4
+subproblem edge error = 0
+subproblem 4-3-4
+subproblem edge error = 0
+subproblem 4-4-4
+subproblem edge error = 0
+subproblem 4-5-4
+subproblem edge error = 0
+subproblem 4-6-4
+subproblem edge error = 0
+subproblem 4-7-4
+subproblem edge error = 0
+subproblem 4-8-4
+subproblem edge error = 0
+subproblem 5-0-4
+subproblem edge error = 0
+subproblem 5-1-4
+subproblem edge error = 0
+subproblem 5-2-4
+subproblem edge error = 0
+subproblem 5-3-4
+subproblem edge error = 0
+subproblem 5-4-4
+subproblem edge error = 0
+subproblem 5-5-4
+subproblem edge error = 0
+subproblem 5-6-4
+subproblem edge error = 0
+subproblem 5-7-4
+subproblem edge error = 0
+subproblem 5-8-4
+subproblem edge error = 0
+subproblem 6-0-4
+subproblem edge error = 0
+subproblem 6-1-4
+subproblem edge error = 0
+subproblem 6-2-4
+subproblem edge error = 0
+subproblem 6-3-4
+subproblem edge error = 0
+subproblem 6-4-4
+subproblem edge error = 0
+subproblem 6-5-4
+subproblem edge error = 0
+subproblem 6-6-4
+subproblem edge error = 0
+subproblem 6-7-4
+subproblem edge error = 0
+subproblem 6-8-4
+subproblem edge error = 0
+subproblem 7-0-4
+subproblem edge error = 0
+subproblem 7-1-4
+subproblem edge error = 0
+subproblem 7-2-4
+subproblem edge error = 0
+subproblem 7-3-4
+subproblem edge error = 0
+subproblem 7-4-4
+subproblem edge error = 0
+subproblem 7-5-4
+subproblem edge error = 0
+subproblem 7-6-4
+subproblem edge error = 0
+subproblem 7-7-4
+subproblem edge error = 0
+subproblem 7-8-4
+subproblem edge error = 0
+subproblem 8-0-4
+subproblem edge error = 0
+subproblem 8-1-4
+subproblem edge error = 0
+subproblem 8-2-4
+subproblem edge error = 0
+subproblem 8-3-4
+subproblem edge error = 0
+subproblem 8-4-4
+subproblem edge error = 0
+subproblem 8-5-4
+subproblem edge error = 0
+subproblem 8-6-4
+subproblem edge error = 0
+subproblem 8-7-4
+subproblem edge error = 0
+subproblem 8-8-4
+subproblem edge error = 0
+subproblem 0-0-5
+subproblem edge error = 0
+subproblem 0-1-5
+subproblem edge error = 0
+subproblem 0-2-5
+subproblem edge error = 0
+subproblem 0-3-5
+subproblem edge error = 0
+subproblem 0-4-5
+subproblem edge error = 0
+subproblem 0-5-5
+subproblem edge error = 0
+subproblem 0-6-5
+subproblem edge error = 0
+subproblem 0-7-5
+subproblem edge error = 0
+subproblem 0-8-5
+subproblem edge error = 0
+subproblem 1-0-5
+subproblem edge error = 0
+subproblem 1-1-5
+subproblem edge error = 0
+subproblem 1-2-5
+subproblem edge error = 0
+subproblem 1-3-5
+subproblem edge error = 0
+subproblem 1-4-5
+subproblem edge error = 0
+subproblem 1-5-5
+subproblem edge error = 0
+subproblem 1-6-5
+subproblem edge error = 0
+subproblem 1-7-5
+subproblem edge error = 0
+subproblem 1-8-5
+subproblem edge error = 0
+subproblem 2-0-5
+subproblem edge error = 0
+subproblem 2-1-5
+subproblem edge error = 0
+subproblem 2-2-5
+subproblem edge error = 0
+subproblem 2-3-5
+subproblem edge error = 0
+subproblem 2-4-5
+subproblem edge error = 0
+subproblem 2-5-5
+subproblem edge error = 0
+subproblem 2-6-5
+subproblem edge error = 0
+subproblem 2-7-5
+subproblem edge error = 0
+subproblem 2-8-5
+subproblem edge error = 0
+subproblem 3-0-5
+subproblem edge error = 0
+subproblem 3-1-5
+subproblem edge error = 0
+subproblem 3-2-5
+subproblem edge error = 0
+subproblem 3-3-5
+subproblem edge error = 0
+subproblem 3-4-5
+subproblem edge error = 0
+subproblem 3-5-5
+subproblem edge error = 0
+subproblem 3-6-5
+subproblem edge error = 0
+subproblem 3-7-5
+subproblem edge error = 0
+subproblem 3-8-5
+subproblem edge error = 0
+subproblem 4-0-5
+subproblem edge error = 0
+subproblem 4-1-5
+subproblem edge error = 0
+subproblem 4-2-5
+subproblem edge error = 0
+subproblem 4-3-5
+subproblem edge error = 0
+subproblem 4-4-5
+subproblem edge error = 0
+subproblem 4-5-5
+subproblem edge error = 0
+subproblem 4-6-5
+subproblem edge error = 0
+subproblem 4-7-5
+subproblem edge error = 0
+subproblem 4-8-5
+subproblem edge error = 0
+subproblem 5-0-5
+subproblem edge error = 0
+subproblem 5-1-5
+subproblem edge error = 0
+subproblem 5-2-5
+subproblem edge error = 0
+subproblem 5-3-5
+subproblem edge error = 0
+subproblem 5-4-5
+subproblem edge error = 0
+subproblem 5-5-5
+subproblem edge error = 0
+subproblem 5-6-5
+subproblem edge error = 0
+subproblem 5-7-5
+subproblem edge error = 0
+subproblem 5-8-5
+subproblem edge error = 0
+subproblem 6-0-5
+subproblem edge error = 0
+subproblem 6-1-5
+subproblem edge error = 0
+subproblem 6-2-5
+subproblem edge error = 0
+subproblem 6-3-5
+subproblem edge error = 0
+subproblem 6-4-5
+subproblem edge error = 0
+subproblem 6-5-5
+subproblem edge error = 0
+subproblem 6-6-5
+subproblem edge error = 0
+subproblem 6-7-5
+subproblem edge error = 0
+subproblem 6-8-5
+subproblem edge error = 0
+subproblem 7-0-5
+subproblem edge error = 0
+subproblem 7-1-5
+subproblem edge error = 0
+subproblem 7-2-5
+subproblem edge error = 0
+subproblem 7-3-5
+subproblem edge error = 0
+subproblem 7-4-5
+subproblem edge error = 0
+subproblem 7-5-5
+subproblem edge error = 0
+subproblem 7-6-5
+subproblem edge error = 0
+subproblem 7-7-5
+subproblem edge error = 0
+subproblem 7-8-5
+subproblem edge error = 0
+subproblem 8-0-5
+subproblem edge error = 0
+subproblem 8-1-5
+subproblem edge error = 0
+subproblem 8-2-5
+subproblem edge error = 0
+subproblem 8-3-5
+subproblem edge error = 0
+subproblem 8-4-5
+subproblem edge error = 0
+subproblem 8-5-5
+subproblem edge error = 0
+subproblem 8-6-5
+subproblem edge error = 0
+subproblem 8-7-5
+subproblem edge error = 0
+subproblem 8-8-5
+subproblem edge error = 0
+total number = 34824916864
+edge error = 0
+time = 222.127
+time of io = 130.085
+time of tc = 88.0271
+Input format: ./exe graph-file-name (json formated file)
+N1 11 N2 7
+0 1043258 3535373 6447753 10723992 15637606 21259280 26882345 32247275 38821397 45534277 0 148722 473725 1144402 3032192 6968142 12848276 20106356 28061048 35180877 44200738 0 151244 349001 716101 1362541 2742664 5804422 10801454 17735835 27559279 39971565 0 339565 746307 1361666 2378737 4288647 7330210 11746657 18105855 27506447 39746684 0 775879 1618740 2741720 4531419 7093256 10377766 14734144 21010913 29880779 41137087 0 2130425 4399821 7008488 9844588 13093980 17075018 22033428 28073135 34676565 43400012 0 4281484 8277264 12588488 16998864 21555543 25965188 30078776 34000782 38319109 44240897 
+subproblem 0-0-0
+subproblem edge error = 0
+subproblem 0-1-0
+subproblem edge error = 0
+subproblem 0-2-0
+subproblem edge error = 0
+subproblem 0-3-0
+subproblem edge error = 0
+subproblem 0-4-0
+subproblem edge error = 0
+subproblem 0-5-0
+subproblem edge error = 0
+subproblem 0-6-0
+subproblem edge error = 0
+subproblem 0-7-0
+subproblem edge error = 0
+subproblem 0-8-0
+subproblem edge error = 0
+subproblem 0-9-0
+subproblem edge error = 0
+subproblem 0-10-0
+subproblem edge error = 0
+subproblem 1-0-0
+subproblem edge error = 0
+subproblem 1-1-0
+subproblem edge error = 0
+subproblem 1-2-0
+subproblem edge error = 0
+subproblem 1-3-0
+subproblem edge error = 0
+subproblem 1-4-0
+subproblem edge error = 0
+subproblem 1-5-0
+subproblem edge error = 0
+subproblem 1-6-0
+subproblem edge error = 0
+subproblem 1-7-0
+subproblem edge error = 0
+subproblem 1-8-0
+subproblem edge error = 0
+subproblem 1-9-0
+subproblem edge error = 0
+subproblem 1-10-0
+subproblem edge error = 0
+subproblem 2-0-0
+subproblem edge error = 0
+subproblem 2-1-0
+subproblem edge error = 0
+subproblem 2-2-0
+subproblem edge error = 0
+subproblem 2-3-0
+subproblem edge error = 0
+subproblem 2-4-0
+subproblem edge error = 0
+subproblem 2-5-0
+subproblem edge error = 0
+subproblem 2-6-0
+subproblem edge error = 0
+subproblem 2-7-0
+subproblem edge error = 0
+subproblem 2-8-0
+subproblem edge error = 0
+subproblem 2-9-0
+subproblem edge error = 0
+subproblem 2-10-0
+subproblem edge error = 0
+subproblem 3-0-0
+subproblem edge error = 0
+subproblem 3-1-0
+subproblem edge error = 0
+subproblem 3-2-0
+subproblem edge error = 0
+subproblem 3-3-0
+subproblem edge error = 0
+subproblem 3-4-0
+subproblem edge error = 0
+subproblem 3-5-0
+subproblem edge error = 0
+subproblem 3-6-0
+subproblem edge error = 0
+subproblem 3-7-0
+subproblem edge error = 0
+subproblem 3-8-0
+subproblem edge error = 0
+subproblem 3-9-0
+subproblem edge error = 0
+subproblem 3-10-0
+subproblem edge error = 0
+subproblem 4-0-0
+subproblem edge error = 0
+subproblem 4-1-0
+subproblem edge error = 0
+subproblem 4-2-0
+subproblem edge error = 0
+subproblem 4-3-0
+subproblem edge error = 0
+subproblem 4-4-0
+subproblem edge error = 0
+subproblem 4-5-0
+subproblem edge error = 0
+subproblem 4-6-0
+subproblem edge error = 0
+subproblem 4-7-0
+subproblem edge error = 0
+subproblem 4-8-0
+subproblem edge error = 0
+subproblem 4-9-0
+subproblem edge error = 0
+subproblem 4-10-0
+subproblem edge error = 0
+subproblem 5-0-0
+subproblem edge error = 0
+subproblem 5-1-0
+subproblem edge error = 0
+subproblem 5-2-0
+subproblem edge error = 0
+subproblem 5-3-0
+subproblem edge error = 0
+subproblem 5-4-0
+subproblem edge error = 0
+subproblem 5-5-0
+subproblem edge error = 0
+subproblem 5-6-0
+subproblem edge error = 0
+subproblem 5-7-0
+subproblem edge error = 0
+subproblem 5-8-0
+subproblem edge error = 0
+subproblem 5-9-0
+subproblem edge error = 0
+subproblem 5-10-0
+subproblem edge error = 0
+subproblem 6-0-0
+subproblem edge error = 0
+subproblem 6-1-0
+subproblem edge error = 0
+subproblem 6-2-0
+subproblem edge error = 0
+subproblem 6-3-0
+subproblem edge error = 0
+subproblem 6-4-0
+subproblem edge error = 0
+subproblem 6-5-0
+subproblem edge error = 0
+subproblem 6-6-0
+subproblem edge error = 0
+subproblem 6-7-0
+subproblem edge error = 0
+subproblem 6-8-0
+subproblem edge error = 0
+subproblem 6-9-0
+subproblem edge error = 0
+subproblem 6-10-0
+subproblem edge error = 0
+subproblem 7-0-0
+subproblem edge error = 0
+subproblem 7-1-0
+subproblem edge error = 0
+subproblem 7-2-0
+subproblem edge error = 0
+subproblem 7-3-0
+subproblem edge error = 0
+subproblem 7-4-0
+subproblem edge error = 0
+subproblem 7-5-0
+subproblem edge error = 0
+subproblem 7-6-0
+subproblem edge error = 0
+subproblem 7-7-0
+subproblem edge error = 0
+subproblem 7-8-0
+subproblem edge error = 0
+subproblem 7-9-0
+subproblem edge error = 0
+subproblem 7-10-0
+subproblem edge error = 0
+subproblem 8-0-0
+subproblem edge error = 0
+subproblem 8-1-0
+subproblem edge error = 0
+subproblem 8-2-0
+subproblem edge error = 0
+subproblem 8-3-0
+subproblem edge error = 0
+subproblem 8-4-0
+subproblem edge error = 0
+subproblem 8-5-0
+subproblem edge error = 0
+subproblem 8-6-0
+subproblem edge error = 0
+subproblem 8-7-0
+subproblem edge error = 0
+subproblem 8-8-0
+subproblem edge error = 0
+subproblem 8-9-0
+subproblem edge error = 0
+subproblem 8-10-0
+subproblem edge error = 0
+subproblem 9-0-0
+subproblem edge error = 0
+subproblem 9-1-0
+subproblem edge error = 0
+subproblem 9-2-0
+subproblem edge error = 0
+subproblem 9-3-0
+subproblem edge error = 0
+subproblem 9-4-0
+subproblem edge error = 0
+subproblem 9-5-0
+subproblem edge error = 0
+subproblem 9-6-0
+subproblem edge error = 0
+subproblem 9-7-0
+subproblem edge error = 0
+subproblem 9-8-0
+subproblem edge error = 0
+subproblem 9-9-0
+subproblem edge error = 0
+subproblem 9-10-0
+subproblem edge error = 0
+subproblem 10-0-0
+subproblem edge error = 0
+subproblem 10-1-0
+subproblem edge error = 0
+subproblem 10-2-0
+subproblem edge error = 0
+subproblem 10-3-0
+subproblem edge error = 0
+subproblem 10-4-0
+subproblem edge error = 0
+subproblem 10-5-0
+subproblem edge error = 0
+subproblem 10-6-0
+subproblem edge error = 0
+subproblem 10-7-0
+subproblem edge error = 0
+subproblem 10-8-0
+subproblem edge error = 0
+subproblem 10-9-0
+subproblem edge error = 0
+subproblem 10-10-0
+subproblem edge error = 0
+subproblem 0-0-1
+subproblem edge error = 0
+subproblem 0-1-1
+subproblem edge error = 0
+subproblem 0-2-1
+subproblem edge error = 0
+subproblem 0-3-1
+subproblem edge error = 0
+subproblem 0-4-1
+subproblem edge error = 0
+subproblem 0-5-1
+subproblem edge error = 0
+subproblem 0-6-1
+subproblem edge error = 0
+subproblem 0-7-1
+subproblem edge error = 0
+subproblem 0-8-1
+subproblem edge error = 0
+subproblem 0-9-1
+subproblem edge error = 0
+subproblem 0-10-1
+subproblem edge error = 0
+subproblem 1-0-1
+subproblem edge error = 0
+subproblem 1-1-1
+subproblem edge error = 0
+subproblem 1-2-1
+subproblem edge error = 0
+subproblem 1-3-1
+subproblem edge error = 0
+subproblem 1-4-1
+subproblem edge error = 0
+subproblem 1-5-1
+subproblem edge error = 0
+subproblem 1-6-1
+subproblem edge error = 0
+subproblem 1-7-1
+subproblem edge error = 0
+subproblem 1-8-1
+subproblem edge error = 0
+subproblem 1-9-1
+subproblem edge error = 0
+subproblem 1-10-1
+subproblem edge error = 0
+subproblem 2-0-1
+subproblem edge error = 0
+subproblem 2-1-1
+subproblem edge error = 0
+subproblem 2-2-1
+subproblem edge error = 0
+subproblem 2-3-1
+subproblem edge error = 0
+subproblem 2-4-1
+subproblem edge error = 0
+subproblem 2-5-1
+subproblem edge error = 0
+subproblem 2-6-1
+subproblem edge error = 0
+subproblem 2-7-1
+subproblem edge error = 0
+subproblem 2-8-1
+subproblem edge error = 0
+subproblem 2-9-1
+subproblem edge error = 0
+subproblem 2-10-1
+subproblem edge error = 0
+subproblem 3-0-1
+subproblem edge error = 0
+subproblem 3-1-1
+subproblem edge error = 0
+subproblem 3-2-1
+subproblem edge error = 0
+subproblem 3-3-1
+subproblem edge error = 0
+subproblem 3-4-1
+subproblem edge error = 0
+subproblem 3-5-1
+subproblem edge error = 0
+subproblem 3-6-1
+subproblem edge error = 0
+subproblem 3-7-1
+subproblem edge error = 0
+subproblem 3-8-1
+subproblem edge error = 0
+subproblem 3-9-1
+subproblem edge error = 0
+subproblem 3-10-1
+subproblem edge error = 0
+subproblem 4-0-1
+subproblem edge error = 0
+subproblem 4-1-1
+subproblem edge error = 0
+subproblem 4-2-1
+subproblem edge error = 0
+subproblem 4-3-1
+subproblem edge error = 0
+subproblem 4-4-1
+subproblem edge error = 0
+subproblem 4-5-1
+subproblem edge error = 0
+subproblem 4-6-1
+subproblem edge error = 0
+subproblem 4-7-1
+subproblem edge error = 0
+subproblem 4-8-1
+subproblem edge error = 0
+subproblem 4-9-1
+subproblem edge error = 0
+subproblem 4-10-1
+subproblem edge error = 0
+subproblem 5-0-1
+subproblem edge error = 0
+subproblem 5-1-1
+subproblem edge error = 0
+subproblem 5-2-1
+subproblem edge error = 0
+subproblem 5-3-1
+subproblem edge error = 0
+subproblem 5-4-1
+subproblem edge error = 0
+subproblem 5-5-1
+subproblem edge error = 0
+subproblem 5-6-1
+subproblem edge error = 0
+subproblem 5-7-1
+subproblem edge error = 0
+subproblem 5-8-1
+subproblem edge error = 0
+subproblem 5-9-1
+subproblem edge error = 0
+subproblem 5-10-1
+subproblem edge error = 0
+subproblem 6-0-1
+subproblem edge error = 0
+subproblem 6-1-1
+subproblem edge error = 0
+subproblem 6-2-1
+subproblem edge error = 0
+subproblem 6-3-1
+subproblem edge error = 0
+subproblem 6-4-1
+subproblem edge error = 0
+subproblem 6-5-1
+subproblem edge error = 0
+subproblem 6-6-1
+subproblem edge error = 0
+subproblem 6-7-1
+subproblem edge error = 0
+subproblem 6-8-1
+subproblem edge error = 0
+subproblem 6-9-1
+subproblem edge error = 0
+subproblem 6-10-1
+subproblem edge error = 0
+subproblem 7-0-1
+subproblem edge error = 0
+subproblem 7-1-1
+subproblem edge error = 0
+subproblem 7-2-1
+subproblem edge error = 0
+subproblem 7-3-1
+subproblem edge error = 0
+subproblem 7-4-1
+subproblem edge error = 0
+subproblem 7-5-1
+subproblem edge error = 0
+subproblem 7-6-1
+subproblem edge error = 0
+subproblem 7-7-1
+subproblem edge error = 0
+subproblem 7-8-1
+subproblem edge error = 0
+subproblem 7-9-1
+subproblem edge error = 0
+subproblem 7-10-1
+subproblem edge error = 0
+subproblem 8-0-1
+subproblem edge error = 0
+subproblem 8-1-1
+subproblem edge error = 0
+subproblem 8-2-1
+subproblem edge error = 0
+subproblem 8-3-1
+subproblem edge error = 0
+subproblem 8-4-1
+subproblem edge error = 0
+subproblem 8-5-1
+subproblem edge error = 0
+subproblem 8-6-1
+subproblem edge error = 0
+subproblem 8-7-1
+subproblem edge error = 0
+subproblem 8-8-1
+subproblem edge error = 0
+subproblem 8-9-1
+subproblem edge error = 0
+subproblem 8-10-1
+subproblem edge error = 0
+subproblem 9-0-1
+subproblem edge error = 0
+subproblem 9-1-1
+subproblem edge error = 0
+subproblem 9-2-1
+subproblem edge error = 0
+subproblem 9-3-1
+subproblem edge error = 0
+subproblem 9-4-1
+subproblem edge error = 0
+subproblem 9-5-1
+subproblem edge error = 0
+subproblem 9-6-1
+subproblem edge error = 0
+subproblem 9-7-1
+subproblem edge error = 0
+subproblem 9-8-1
+subproblem edge error = 0
+subproblem 9-9-1
+subproblem edge error = 0
+subproblem 9-10-1
+subproblem edge error = 0
+subproblem 10-0-1
+subproblem edge error = 0
+subproblem 10-1-1
+subproblem edge error = 0
+subproblem 10-2-1
+subproblem edge error = 0
+subproblem 10-3-1
+subproblem edge error = 0
+subproblem 10-4-1
+subproblem edge error = 0
+subproblem 10-5-1
+subproblem edge error = 0
+subproblem 10-6-1
+subproblem edge error = 0
+subproblem 10-7-1
+subproblem edge error = 0
+subproblem 10-8-1
+subproblem edge error = 0
+subproblem 10-9-1
+subproblem edge error = 0
+subproblem 10-10-1
+subproblem edge error = 0
+subproblem 0-0-2
+subproblem edge error = 0
+subproblem 0-1-2
+subproblem edge error = 0
+subproblem 0-2-2
+subproblem edge error = 0
+subproblem 0-3-2
+subproblem edge error = 0
+subproblem 0-4-2
+subproblem edge error = 0
+subproblem 0-5-2
+subproblem edge error = 0
+subproblem 0-6-2
+subproblem edge error = 0
+subproblem 0-7-2
+subproblem edge error = 0
+subproblem 0-8-2
+subproblem edge error = 0
+subproblem 0-9-2
+subproblem edge error = 0
+subproblem 0-10-2
+subproblem edge error = 0
+subproblem 1-0-2
+subproblem edge error = 0
+subproblem 1-1-2
+subproblem edge error = 0
+subproblem 1-2-2
+subproblem edge error = 0
+subproblem 1-3-2
+subproblem edge error = 0
+subproblem 1-4-2
+subproblem edge error = 0
+subproblem 1-5-2
+subproblem edge error = 0
+subproblem 1-6-2
+subproblem edge error = 0
+subproblem 1-7-2
+subproblem edge error = 0
+subproblem 1-8-2
+subproblem edge error = 0
+subproblem 1-9-2
+subproblem edge error = 0
+subproblem 1-10-2
+subproblem edge error = 0
+subproblem 2-0-2
+subproblem edge error = 0
+subproblem 2-1-2
+subproblem edge error = 0
+subproblem 2-2-2
+subproblem edge error = 0
+subproblem 2-3-2
+subproblem edge error = 0
+subproblem 2-4-2
+subproblem edge error = 0
+subproblem 2-5-2
+subproblem edge error = 0
+subproblem 2-6-2
+subproblem edge error = 0
+subproblem 2-7-2
+subproblem edge error = 0
+subproblem 2-8-2
+subproblem edge error = 0
+subproblem 2-9-2
+subproblem edge error = 0
+subproblem 2-10-2
+subproblem edge error = 0
+subproblem 3-0-2
+subproblem edge error = 0
+subproblem 3-1-2
+subproblem edge error = 0
+subproblem 3-2-2
+subproblem edge error = 0
+subproblem 3-3-2
+subproblem edge error = 0
+subproblem 3-4-2
+subproblem edge error = 0
+subproblem 3-5-2
+subproblem edge error = 0
+subproblem 3-6-2
+subproblem edge error = 0
+subproblem 3-7-2
+subproblem edge error = 0
+subproblem 3-8-2
+subproblem edge error = 0
+subproblem 3-9-2
+subproblem edge error = 0
+subproblem 3-10-2
+subproblem edge error = 0
+subproblem 4-0-2
+subproblem edge error = 0
+subproblem 4-1-2
+subproblem edge error = 0
+subproblem 4-2-2
+subproblem edge error = 0
+subproblem 4-3-2
+subproblem edge error = 0
+subproblem 4-4-2
+subproblem edge error = 0
+subproblem 4-5-2
+subproblem edge error = 0
+subproblem 4-6-2
+subproblem edge error = 0
+subproblem 4-7-2
+subproblem edge error = 0
+subproblem 4-8-2
+subproblem edge error = 0
+subproblem 4-9-2
+subproblem edge error = 0
+subproblem 4-10-2
+subproblem edge error = 0
+subproblem 5-0-2
+subproblem edge error = 0
+subproblem 5-1-2
+subproblem edge error = 0
+subproblem 5-2-2
+subproblem edge error = 0
+subproblem 5-3-2
+subproblem edge error = 0
+subproblem 5-4-2
+subproblem edge error = 0
+subproblem 5-5-2
+subproblem edge error = 0
+subproblem 5-6-2
+subproblem edge error = 0
+subproblem 5-7-2
+subproblem edge error = 0
+subproblem 5-8-2
+subproblem edge error = 0
+subproblem 5-9-2
+subproblem edge error = 0
+subproblem 5-10-2
+subproblem edge error = 0
+subproblem 6-0-2
+subproblem edge error = 0
+subproblem 6-1-2
+subproblem edge error = 0
+subproblem 6-2-2
+subproblem edge error = 0
+subproblem 6-3-2
+subproblem edge error = 0
+subproblem 6-4-2
+subproblem edge error = 0
+subproblem 6-5-2
+subproblem edge error = 0
+subproblem 6-6-2
+subproblem edge error = 0
+subproblem 6-7-2
+subproblem edge error = 0
+subproblem 6-8-2
+subproblem edge error = 0
+subproblem 6-9-2
+subproblem edge error = 0
+subproblem 6-10-2
+subproblem edge error = 0
+subproblem 7-0-2
+subproblem edge error = 0
+subproblem 7-1-2
+subproblem edge error = 0
+subproblem 7-2-2
+subproblem edge error = 0
+subproblem 7-3-2
+subproblem edge error = 0
+subproblem 7-4-2
+subproblem edge error = 0
+subproblem 7-5-2
+subproblem edge error = 0
+subproblem 7-6-2
+subproblem edge error = 0
+subproblem 7-7-2
+subproblem edge error = 0
+subproblem 7-8-2
+subproblem edge error = 0
+subproblem 7-9-2
+subproblem edge error = 0
+subproblem 7-10-2
+subproblem edge error = 0
+subproblem 8-0-2
+subproblem edge error = 0
+subproblem 8-1-2
+subproblem edge error = 0
+subproblem 8-2-2
+subproblem edge error = 0
+subproblem 8-3-2
+subproblem edge error = 0
+subproblem 8-4-2
+subproblem edge error = 0
+subproblem 8-5-2
+subproblem edge error = 0
+subproblem 8-6-2
+subproblem edge error = 0
+subproblem 8-7-2
+subproblem edge error = 0
+subproblem 8-8-2
+subproblem edge error = 0
+subproblem 8-9-2
+subproblem edge error = 0
+subproblem 8-10-2
+subproblem edge error = 0
+subproblem 9-0-2
+subproblem edge error = 0
+subproblem 9-1-2
+subproblem edge error = 0
+subproblem 9-2-2
+subproblem edge error = 0
+subproblem 9-3-2
+subproblem edge error = 0
+subproblem 9-4-2
+subproblem edge error = 0
+subproblem 9-5-2
+subproblem edge error = 0
+subproblem 9-6-2
+subproblem edge error = 0
+subproblem 9-7-2
+subproblem edge error = 0
+subproblem 9-8-2
+subproblem edge error = 0
+subproblem 9-9-2
+subproblem edge error = 0
+subproblem 9-10-2
+subproblem edge error = 0
+subproblem 10-0-2
+subproblem edge error = 0
+subproblem 10-1-2
+subproblem edge error = 0
+subproblem 10-2-2
+subproblem edge error = 0
+subproblem 10-3-2
+subproblem edge error = 0
+subproblem 10-4-2
+subproblem edge error = 0
+subproblem 10-5-2
+subproblem edge error = 0
+subproblem 10-6-2
+subproblem edge error = 0
+subproblem 10-7-2
+subproblem edge error = 0
+subproblem 10-8-2
+subproblem edge error = 0
+subproblem 10-9-2
+subproblem edge error = 0
+subproblem 10-10-2
+subproblem edge error = 0
+subproblem 0-0-3
+subproblem edge error = 0
+subproblem 0-1-3
+subproblem edge error = 0
+subproblem 0-2-3
+subproblem edge error = 0
+subproblem 0-3-3
+subproblem edge error = 0
+subproblem 0-4-3
+subproblem edge error = 0
+subproblem 0-5-3
+subproblem edge error = 0
+subproblem 0-6-3
+subproblem edge error = 0
+subproblem 0-7-3
+subproblem edge error = 0
+subproblem 0-8-3
+subproblem edge error = 0
+subproblem 0-9-3
+subproblem edge error = 0
+subproblem 0-10-3
+subproblem edge error = 0
+subproblem 1-0-3
+subproblem edge error = 0
+subproblem 1-1-3
+subproblem edge error = 0
+subproblem 1-2-3
+subproblem edge error = 0
+subproblem 1-3-3
+subproblem edge error = 0
+subproblem 1-4-3
+subproblem edge error = 0
+subproblem 1-5-3
+subproblem edge error = 0
+subproblem 1-6-3
+subproblem edge error = 0
+subproblem 1-7-3
+subproblem edge error = 0
+subproblem 1-8-3
+subproblem edge error = 0
+subproblem 1-9-3
+subproblem edge error = 0
+subproblem 1-10-3
+subproblem edge error = 0
+subproblem 2-0-3
+subproblem edge error = 0
+subproblem 2-1-3
+subproblem edge error = 0
+subproblem 2-2-3
+subproblem edge error = 0
+subproblem 2-3-3
+subproblem edge error = 0
+subproblem 2-4-3
+subproblem edge error = 0
+subproblem 2-5-3
+subproblem edge error = 0
+subproblem 2-6-3
+subproblem edge error = 0
+subproblem 2-7-3
+subproblem edge error = 0
+subproblem 2-8-3
+subproblem edge error = 0
+subproblem 2-9-3
+subproblem edge error = 0
+subproblem 2-10-3
+subproblem edge error = 0
+subproblem 3-0-3
+subproblem edge error = 0
+subproblem 3-1-3
+subproblem edge error = 0
+subproblem 3-2-3
+subproblem edge error = 0
+subproblem 3-3-3
+subproblem edge error = 0
+subproblem 3-4-3
+subproblem edge error = 0
+subproblem 3-5-3
+subproblem edge error = 0
+subproblem 3-6-3
+subproblem edge error = 0
+subproblem 3-7-3
+subproblem edge error = 0
+subproblem 3-8-3
+subproblem edge error = 0
+subproblem 3-9-3
+subproblem edge error = 0
+subproblem 3-10-3
+subproblem edge error = 0
+subproblem 4-0-3
+subproblem edge error = 0
+subproblem 4-1-3
+subproblem edge error = 0
+subproblem 4-2-3
+subproblem edge error = 0
+subproblem 4-3-3
+subproblem edge error = 0
+subproblem 4-4-3
+subproblem edge error = 0
+subproblem 4-5-3
+subproblem edge error = 0
+subproblem 4-6-3
+subproblem edge error = 0
+subproblem 4-7-3
+subproblem edge error = 0
+subproblem 4-8-3
+subproblem edge error = 0
+subproblem 4-9-3
+subproblem edge error = 0
+subproblem 4-10-3
+subproblem edge error = 0
+subproblem 5-0-3
+subproblem edge error = 0
+subproblem 5-1-3
+subproblem edge error = 0
+subproblem 5-2-3
+subproblem edge error = 0
+subproblem 5-3-3
+subproblem edge error = 0
+subproblem 5-4-3
+subproblem edge error = 0
+subproblem 5-5-3
+subproblem edge error = 0
+subproblem 5-6-3
+subproblem edge error = 0
+subproblem 5-7-3
+subproblem edge error = 0
+subproblem 5-8-3
+subproblem edge error = 0
+subproblem 5-9-3
+subproblem edge error = 0
+subproblem 5-10-3
+subproblem edge error = 0
+subproblem 6-0-3
+subproblem edge error = 0
+subproblem 6-1-3
+subproblem edge error = 0
+subproblem 6-2-3
+subproblem edge error = 0
+subproblem 6-3-3
+subproblem edge error = 0
+subproblem 6-4-3
+subproblem edge error = 0
+subproblem 6-5-3
+subproblem edge error = 0
+subproblem 6-6-3
+subproblem edge error = 0
+subproblem 6-7-3
+subproblem edge error = 0
+subproblem 6-8-3
+subproblem edge error = 0
+subproblem 6-9-3
+subproblem edge error = 0
+subproblem 6-10-3
+subproblem edge error = 0
+subproblem 7-0-3
+subproblem edge error = 0
+subproblem 7-1-3
+subproblem edge error = 0
+subproblem 7-2-3
+subproblem edge error = 0
+subproblem 7-3-3
+subproblem edge error = 0
+subproblem 7-4-3
+subproblem edge error = 0
+subproblem 7-5-3
+subproblem edge error = 0
+subproblem 7-6-3
+subproblem edge error = 0
+subproblem 7-7-3
+subproblem edge error = 0
+subproblem 7-8-3
+subproblem edge error = 0
+subproblem 7-9-3
+subproblem edge error = 0
+subproblem 7-10-3
+subproblem edge error = 0
+subproblem 8-0-3
+subproblem edge error = 0
+subproblem 8-1-3
+subproblem edge error = 0
+subproblem 8-2-3
+subproblem edge error = 0
+subproblem 8-3-3
+subproblem edge error = 0
+subproblem 8-4-3
+subproblem edge error = 0
+subproblem 8-5-3
+subproblem edge error = 0
+subproblem 8-6-3
+subproblem edge error = 0
+subproblem 8-7-3
+subproblem edge error = 0
+subproblem 8-8-3
+subproblem edge error = 0
+subproblem 8-9-3
+subproblem edge error = 0
+subproblem 8-10-3
+subproblem edge error = 0
+subproblem 9-0-3
+subproblem edge error = 0
+subproblem 9-1-3
+subproblem edge error = 0
+subproblem 9-2-3
+subproblem edge error = 0
+subproblem 9-3-3
+subproblem edge error = 0
+subproblem 9-4-3
+subproblem edge error = 0
+subproblem 9-5-3
+subproblem edge error = 0
+subproblem 9-6-3
+subproblem edge error = 0
+subproblem 9-7-3
+subproblem edge error = 0
+subproblem 9-8-3
+subproblem edge error = 0
+subproblem 9-9-3
+subproblem edge error = 0
+subproblem 9-10-3
+subproblem edge error = 0
+subproblem 10-0-3
+subproblem edge error = 0
+subproblem 10-1-3
+subproblem edge error = 0
+subproblem 10-2-3
+subproblem edge error = 0
+subproblem 10-3-3
+subproblem edge error = 0
+subproblem 10-4-3
+subproblem edge error = 0
+subproblem 10-5-3
+subproblem edge error = 0
+subproblem 10-6-3
+subproblem edge error = 0
+subproblem 10-7-3
+subproblem edge error = 0
+subproblem 10-8-3
+subproblem edge error = 0
+subproblem 10-9-3
+subproblem edge error = 0
+subproblem 10-10-3
+subproblem edge error = 0
+subproblem 0-0-4
+subproblem edge error = 0
+subproblem 0-1-4
+subproblem edge error = 0
+subproblem 0-2-4
+subproblem edge error = 0
+subproblem 0-3-4
+subproblem edge error = 0
+subproblem 0-4-4
+subproblem edge error = 0
+subproblem 0-5-4
+subproblem edge error = 0
+subproblem 0-6-4
+subproblem edge error = 0
+subproblem 0-7-4
+subproblem edge error = 0
+subproblem 0-8-4
+subproblem edge error = 0
+subproblem 0-9-4
+subproblem edge error = 0
+subproblem 0-10-4
+subproblem edge error = 0
+subproblem 1-0-4
+subproblem edge error = 0
+subproblem 1-1-4
+subproblem edge error = 0
+subproblem 1-2-4
+subproblem edge error = 0
+subproblem 1-3-4
+subproblem edge error = 0
+subproblem 1-4-4
+subproblem edge error = 0
+subproblem 1-5-4
+subproblem edge error = 0
+subproblem 1-6-4
+subproblem edge error = 0
+subproblem 1-7-4
+subproblem edge error = 0
+subproblem 1-8-4
+subproblem edge error = 0
+subproblem 1-9-4
+subproblem edge error = 0
+subproblem 1-10-4
+subproblem edge error = 0
+subproblem 2-0-4
+subproblem edge error = 0
+subproblem 2-1-4
+subproblem edge error = 0
+subproblem 2-2-4
+subproblem edge error = 0
+subproblem 2-3-4
+subproblem edge error = 0
+subproblem 2-4-4
+subproblem edge error = 0
+subproblem 2-5-4
+subproblem edge error = 0
+subproblem 2-6-4
+subproblem edge error = 0
+subproblem 2-7-4
+subproblem edge error = 0
+subproblem 2-8-4
+subproblem edge error = 0
+subproblem 2-9-4
+subproblem edge error = 0
+subproblem 2-10-4
+subproblem edge error = 0
+subproblem 3-0-4
+subproblem edge error = 0
+subproblem 3-1-4
+subproblem edge error = 0
+subproblem 3-2-4
+subproblem edge error = 0
+subproblem 3-3-4
+subproblem edge error = 0
+subproblem 3-4-4
+subproblem edge error = 0
+subproblem 3-5-4
+subproblem edge error = 0
+subproblem 3-6-4
+subproblem edge error = 0
+subproblem 3-7-4
+subproblem edge error = 0
+subproblem 3-8-4
+subproblem edge error = 0
+subproblem 3-9-4
+subproblem edge error = 0
+subproblem 3-10-4
+subproblem edge error = 0
+subproblem 4-0-4
+subproblem edge error = 0
+subproblem 4-1-4
+subproblem edge error = 0
+subproblem 4-2-4
+subproblem edge error = 0
+subproblem 4-3-4
+subproblem edge error = 0
+subproblem 4-4-4
+subproblem edge error = 0
+subproblem 4-5-4
+subproblem edge error = 0
+subproblem 4-6-4
+subproblem edge error = 0
+subproblem 4-7-4
+subproblem edge error = 0
+subproblem 4-8-4
+subproblem edge error = 0
+subproblem 4-9-4
+subproblem edge error = 0
+subproblem 4-10-4
+subproblem edge error = 0
+subproblem 5-0-4
+subproblem edge error = 0
+subproblem 5-1-4
+subproblem edge error = 0
+subproblem 5-2-4
+subproblem edge error = 0
+subproblem 5-3-4
+subproblem edge error = 0
+subproblem 5-4-4
+subproblem edge error = 0
+subproblem 5-5-4
+subproblem edge error = 0
+subproblem 5-6-4
+subproblem edge error = 0
+subproblem 5-7-4
+subproblem edge error = 0
+subproblem 5-8-4
+subproblem edge error = 0
+subproblem 5-9-4
+subproblem edge error = 0
+subproblem 5-10-4
+subproblem edge error = 0
+subproblem 6-0-4
+subproblem edge error = 0
+subproblem 6-1-4
+subproblem edge error = 0
+subproblem 6-2-4
+subproblem edge error = 0
+subproblem 6-3-4
+subproblem edge error = 0
+subproblem 6-4-4
+subproblem edge error = 0
+subproblem 6-5-4
+subproblem edge error = 0
+subproblem 6-6-4
+subproblem edge error = 0
+subproblem 6-7-4
+subproblem edge error = 0
+subproblem 6-8-4
+subproblem edge error = 0
+subproblem 6-9-4
+subproblem edge error = 0
+subproblem 6-10-4
+subproblem edge error = 0
+subproblem 7-0-4
+subproblem edge error = 0
+subproblem 7-1-4
+subproblem edge error = 0
+subproblem 7-2-4
+subproblem edge error = 0
+subproblem 7-3-4
+subproblem edge error = 0
+subproblem 7-4-4
+subproblem edge error = 0
+subproblem 7-5-4
+subproblem edge error = 0
+subproblem 7-6-4
+subproblem edge error = 0
+subproblem 7-7-4
+subproblem edge error = 0
+subproblem 7-8-4
+subproblem edge error = 0
+subproblem 7-9-4
+subproblem edge error = 0
+subproblem 7-10-4
+subproblem edge error = 0
+subproblem 8-0-4
+subproblem edge error = 0
+subproblem 8-1-4
+subproblem edge error = 0
+subproblem 8-2-4
+subproblem edge error = 0
+subproblem 8-3-4
+subproblem edge error = 0
+subproblem 8-4-4
+subproblem edge error = 0
+subproblem 8-5-4
+subproblem edge error = 0
+subproblem 8-6-4
+subproblem edge error = 0
+subproblem 8-7-4
+subproblem edge error = 0
+subproblem 8-8-4
+subproblem edge error = 0
+subproblem 8-9-4
+subproblem edge error = 0
+subproblem 8-10-4
+subproblem edge error = 0
+subproblem 9-0-4
+subproblem edge error = 0
+subproblem 9-1-4
+subproblem edge error = 0
+subproblem 9-2-4
+subproblem edge error = 0
+subproblem 9-3-4
+subproblem edge error = 0
+subproblem 9-4-4
+subproblem edge error = 0
+subproblem 9-5-4
+subproblem edge error = 0
+subproblem 9-6-4
+subproblem edge error = 0
+subproblem 9-7-4
+subproblem edge error = 0
+subproblem 9-8-4
+subproblem edge error = 0
+subproblem 9-9-4
+subproblem edge error = 0
+subproblem 9-10-4
+subproblem edge error = 0
+subproblem 10-0-4
+subproblem edge error = 0
+subproblem 10-1-4
+subproblem edge error = 0
+subproblem 10-2-4
+subproblem edge error = 0
+subproblem 10-3-4
+subproblem edge error = 0
+subproblem 10-4-4
+subproblem edge error = 0
+subproblem 10-5-4
+subproblem edge error = 0
+subproblem 10-6-4
+subproblem edge error = 0
+subproblem 10-7-4
+subproblem edge error = 0
+subproblem 10-8-4
+subproblem edge error = 0
+subproblem 10-9-4
+subproblem edge error = 0
+subproblem 10-10-4
+subproblem edge error = 0
+subproblem 0-0-5
+subproblem edge error = 0
+subproblem 0-1-5
+subproblem edge error = 0
+subproblem 0-2-5
+subproblem edge error = 0
+subproblem 0-3-5
+subproblem edge error = 0
+subproblem 0-4-5
+subproblem edge error = 0
+subproblem 0-5-5
+subproblem edge error = 0
+subproblem 0-6-5
+subproblem edge error = 0
+subproblem 0-7-5
+subproblem edge error = 0
+subproblem 0-8-5
+subproblem edge error = 0
+subproblem 0-9-5
+subproblem edge error = 0
+subproblem 0-10-5
+subproblem edge error = 0
+subproblem 1-0-5
+subproblem edge error = 0
+subproblem 1-1-5
+subproblem edge error = 0
+subproblem 1-2-5
+subproblem edge error = 0
+subproblem 1-3-5
+subproblem edge error = 0
+subproblem 1-4-5
+subproblem edge error = 0
+subproblem 1-5-5
+subproblem edge error = 0
+subproblem 1-6-5
+subproblem edge error = 0
+subproblem 1-7-5
+subproblem edge error = 0
+subproblem 1-8-5
+subproblem edge error = 0
+subproblem 1-9-5
+subproblem edge error = 0
+subproblem 1-10-5
+subproblem edge error = 0
+subproblem 2-0-5
+subproblem edge error = 0
+subproblem 2-1-5
+subproblem edge error = 0
+subproblem 2-2-5
+subproblem edge error = 0
+subproblem 2-3-5
+subproblem edge error = 0
+subproblem 2-4-5
+subproblem edge error = 0
+subproblem 2-5-5
+subproblem edge error = 0
+subproblem 2-6-5
+subproblem edge error = 0
+subproblem 2-7-5
+subproblem edge error = 0
+subproblem 2-8-5
+subproblem edge error = 0
+subproblem 2-9-5
+subproblem edge error = 0
+subproblem 2-10-5
+subproblem edge error = 0
+subproblem 3-0-5
+subproblem edge error = 0
+subproblem 3-1-5
+subproblem edge error = 0
+subproblem 3-2-5
+subproblem edge error = 0
+subproblem 3-3-5
+subproblem edge error = 0
+subproblem 3-4-5
+subproblem edge error = 0
+subproblem 3-5-5
+subproblem edge error = 0
+subproblem 3-6-5
+subproblem edge error = 0
+subproblem 3-7-5
+subproblem edge error = 0
+subproblem 3-8-5
+subproblem edge error = 0
+subproblem 3-9-5
+subproblem edge error = 0
+subproblem 3-10-5
+subproblem edge error = 0
+subproblem 4-0-5
+subproblem edge error = 0
+subproblem 4-1-5
+subproblem edge error = 0
+subproblem 4-2-5
+subproblem edge error = 0
+subproblem 4-3-5
+subproblem edge error = 0
+subproblem 4-4-5
+subproblem edge error = 0
+subproblem 4-5-5
+subproblem edge error = 0
+subproblem 4-6-5
+subproblem edge error = 0
+subproblem 4-7-5
+subproblem edge error = 0
+subproblem 4-8-5
+subproblem edge error = 0
+subproblem 4-9-5
+subproblem edge error = 0
+subproblem 4-10-5
+subproblem edge error = 0
+subproblem 5-0-5
+subproblem edge error = 0
+subproblem 5-1-5
+subproblem edge error = 0
+subproblem 5-2-5
+subproblem edge error = 0
+subproblem 5-3-5
+subproblem edge error = 0
+subproblem 5-4-5
+subproblem edge error = 0
+subproblem 5-5-5
+subproblem edge error = 0
+subproblem 5-6-5
+subproblem edge error = 0
+subproblem 5-7-5
+subproblem edge error = 0
+subproblem 5-8-5
+subproblem edge error = 0
+subproblem 5-9-5
+subproblem edge error = 0
+subproblem 5-10-5
+subproblem edge error = 0
+subproblem 6-0-5
+subproblem edge error = 0
+subproblem 6-1-5
+subproblem edge error = 0
+subproblem 6-2-5
+subproblem edge error = 0
+subproblem 6-3-5
+subproblem edge error = 0
+subproblem 6-4-5
+subproblem edge error = 0
+subproblem 6-5-5
+subproblem edge error = 0
+subproblem 6-6-5
+subproblem edge error = 0
+subproblem 6-7-5
+subproblem edge error = 0
+subproblem 6-8-5
+subproblem edge error = 0
+subproblem 6-9-5
+subproblem edge error = 0
+subproblem 6-10-5
+subproblem edge error = 0
+subproblem 7-0-5
+subproblem edge error = 0
+subproblem 7-1-5
+subproblem edge error = 0
+subproblem 7-2-5
+subproblem edge error = 0
+subproblem 7-3-5
+subproblem edge error = 0
+subproblem 7-4-5
+subproblem edge error = 0
+subproblem 7-5-5
+subproblem edge error = 0
+subproblem 7-6-5
+subproblem edge error = 0
+subproblem 7-7-5
+subproblem edge error = 0
+subproblem 7-8-5
+subproblem edge error = 0
+subproblem 7-9-5
+subproblem edge error = 0
+subproblem 7-10-5
+subproblem edge error = 0
+subproblem 8-0-5
+subproblem edge error = 0
+subproblem 8-1-5
+subproblem edge error = 0
+subproblem 8-2-5
+subproblem edge error = 0
+subproblem 8-3-5
+subproblem edge error = 0
+subproblem 8-4-5
+subproblem edge error = 0
+subproblem 8-5-5
+subproblem edge error = 0
+subproblem 8-6-5
+subproblem edge error = 0
+subproblem 8-7-5
+subproblem edge error = 0
+subproblem 8-8-5
+subproblem edge error = 0
+subproblem 8-9-5
+subproblem edge error = 0
+subproblem 8-10-5
+subproblem edge error = 0
+subproblem 9-0-5
+subproblem edge error = 0
+subproblem 9-1-5
+subproblem edge error = 0
+subproblem 9-2-5
+subproblem edge error = 0
+subproblem 9-3-5
+subproblem edge error = 0
+subproblem 9-4-5
+subproblem edge error = 0
+subproblem 9-5-5
+subproblem edge error = 0
+subproblem 9-6-5
+subproblem edge error = 0
+subproblem 9-7-5
+subproblem edge error = 0
+subproblem 9-8-5
+subproblem edge error = 0
+subproblem 9-9-5
+subproblem edge error = 0
+subproblem 9-10-5
+subproblem edge error = 0
+subproblem 10-0-5
+subproblem edge error = 0
+subproblem 10-1-5
+subproblem edge error = 0
+subproblem 10-2-5
+subproblem edge error = 0
+subproblem 10-3-5
+subproblem edge error = 0
+subproblem 10-4-5
+subproblem edge error = 0
+subproblem 10-5-5
+subproblem edge error = 0
+subproblem 10-6-5
+subproblem edge error = 0
+subproblem 10-7-5
+subproblem edge error = 0
+subproblem 10-8-5
+subproblem edge error = 0
+subproblem 10-9-5
+subproblem edge error = 0
+subproblem 10-10-5
+subproblem edge error = 0
+subproblem 0-0-6
+subproblem edge error = 0
+subproblem 0-1-6
+subproblem edge error = 0
+subproblem 0-2-6
+subproblem edge error = 0
+subproblem 0-3-6
+subproblem edge error = 0
+subproblem 0-4-6
+subproblem edge error = 0
+subproblem 0-5-6
+subproblem edge error = 0
+subproblem 0-6-6
+subproblem edge error = 0
+subproblem 0-7-6
+subproblem edge error = 0
+subproblem 0-8-6
+subproblem edge error = 0
+subproblem 0-9-6
+subproblem edge error = 0
+subproblem 0-10-6
+subproblem edge error = 0
+subproblem 1-0-6
+subproblem edge error = 0
+subproblem 1-1-6
+subproblem edge error = 0
+subproblem 1-2-6
+subproblem edge error = 0
+subproblem 1-3-6
+subproblem edge error = 0
+subproblem 1-4-6
+subproblem edge error = 0
+subproblem 1-5-6
+subproblem edge error = 0
+subproblem 1-6-6
+subproblem edge error = 0
+subproblem 1-7-6
+subproblem edge error = 0
+subproblem 1-8-6
+subproblem edge error = 0
+subproblem 1-9-6
+subproblem edge error = 0
+subproblem 1-10-6
+subproblem edge error = 0
+subproblem 2-0-6
+subproblem edge error = 0
+subproblem 2-1-6
+subproblem edge error = 0
+subproblem 2-2-6
+subproblem edge error = 0
+subproblem 2-3-6
+subproblem edge error = 0
+subproblem 2-4-6
+subproblem edge error = 0
+subproblem 2-5-6
+subproblem edge error = 0
+subproblem 2-6-6
+subproblem edge error = 0
+subproblem 2-7-6
+subproblem edge error = 0
+subproblem 2-8-6
+subproblem edge error = 0
+subproblem 2-9-6
+subproblem edge error = 0
+subproblem 2-10-6
+subproblem edge error = 0
+subproblem 3-0-6
+subproblem edge error = 0
+subproblem 3-1-6
+subproblem edge error = 0
+subproblem 3-2-6
+subproblem edge error = 0
+subproblem 3-3-6
+subproblem edge error = 0
+subproblem 3-4-6
+subproblem edge error = 0
+subproblem 3-5-6
+subproblem edge error = 0
+subproblem 3-6-6
+subproblem edge error = 0
+subproblem 3-7-6
+subproblem edge error = 0
+subproblem 3-8-6
+subproblem edge error = 0
+subproblem 3-9-6
+subproblem edge error = 0
+subproblem 3-10-6
+subproblem edge error = 0
+subproblem 4-0-6
+subproblem edge error = 0
+subproblem 4-1-6
+subproblem edge error = 0
+subproblem 4-2-6
+subproblem edge error = 0
+subproblem 4-3-6
+subproblem edge error = 0
+subproblem 4-4-6
+subproblem edge error = 0
+subproblem 4-5-6
+subproblem edge error = 0
+subproblem 4-6-6
+subproblem edge error = 0
+subproblem 4-7-6
+subproblem edge error = 0
+subproblem 4-8-6
+subproblem edge error = 0
+subproblem 4-9-6
+subproblem edge error = 0
+subproblem 4-10-6
+subproblem edge error = 0
+subproblem 5-0-6
+subproblem edge error = 0
+subproblem 5-1-6
+subproblem edge error = 0
+subproblem 5-2-6
+subproblem edge error = 0
+subproblem 5-3-6
+subproblem edge error = 0
+subproblem 5-4-6
+subproblem edge error = 0
+subproblem 5-5-6
+subproblem edge error = 0
+subproblem 5-6-6
+subproblem edge error = 0
+subproblem 5-7-6
+subproblem edge error = 0
+subproblem 5-8-6
+subproblem edge error = 0
+subproblem 5-9-6
+subproblem edge error = 0
+subproblem 5-10-6
+subproblem edge error = 0
+subproblem 6-0-6
+subproblem edge error = 0
+subproblem 6-1-6
+subproblem edge error = 0
+subproblem 6-2-6
+subproblem edge error = 0
+subproblem 6-3-6
+subproblem edge error = 0
+subproblem 6-4-6
+subproblem edge error = 0
+subproblem 6-5-6
+subproblem edge error = 0
+subproblem 6-6-6
+subproblem edge error = 0
+subproblem 6-7-6
+subproblem edge error = 0
+subproblem 6-8-6
+subproblem edge error = 0
+subproblem 6-9-6
+subproblem edge error = 0
+subproblem 6-10-6
+subproblem edge error = 0
+subproblem 7-0-6
+subproblem edge error = 0
+subproblem 7-1-6
+subproblem edge error = 0
+subproblem 7-2-6
+subproblem edge error = 0
+subproblem 7-3-6
+subproblem edge error = 0
+subproblem 7-4-6
+subproblem edge error = 0
+subproblem 7-5-6
+subproblem edge error = 0
+subproblem 7-6-6
+subproblem edge error = 0
+subproblem 7-7-6
+subproblem edge error = 0
+subproblem 7-8-6
+subproblem edge error = 0
+subproblem 7-9-6
+subproblem edge error = 0
+subproblem 7-10-6
+subproblem edge error = 0
+subproblem 8-0-6
+subproblem edge error = 0
+subproblem 8-1-6
+subproblem edge error = 0
+subproblem 8-2-6
+subproblem edge error = 0
+subproblem 8-3-6
+subproblem edge error = 0
+subproblem 8-4-6
+subproblem edge error = 0
+subproblem 8-5-6
+subproblem edge error = 0
+subproblem 8-6-6
+subproblem edge error = 0
+subproblem 8-7-6
+subproblem edge error = 0
+subproblem 8-8-6
+subproblem edge error = 0
+subproblem 8-9-6
+subproblem edge error = 0
+subproblem 8-10-6
+subproblem edge error = 0
+subproblem 9-0-6
+subproblem edge error = 0
+subproblem 9-1-6
+subproblem edge error = 0
+subproblem 9-2-6
+subproblem edge error = 0
+subproblem 9-3-6
+subproblem edge error = 0
+subproblem 9-4-6
+subproblem edge error = 0
+subproblem 9-5-6
+subproblem edge error = 0
+subproblem 9-6-6
+subproblem edge error = 0
+subproblem 9-7-6
+subproblem edge error = 0
+subproblem 9-8-6
+subproblem edge error = 0
+subproblem 9-9-6
+subproblem edge error = 0
+subproblem 9-10-6
+subproblem edge error = 0
+subproblem 10-0-6
+subproblem edge error = 0
+subproblem 10-1-6
+subproblem edge error = 0
+subproblem 10-2-6
+subproblem edge error = 0
+subproblem 10-3-6
+subproblem edge error = 0
+subproblem 10-4-6
+subproblem edge error = 0
+subproblem 10-5-6
+subproblem edge error = 0
+subproblem 10-6-6
+subproblem edge error = 0
+subproblem 10-7-6
+subproblem edge error = 0
+subproblem 10-8-6
+subproblem edge error = 0
+subproblem 10-9-6
+subproblem edge error = 0
+subproblem 10-10-6
+subproblem edge error = 0
+total number = 55428217664
+edge error = 0
+time = 313.21
+time of io = 184.557
+time of tc = 124.088
+Input format: ./exe graph-file-name (json formated file)
+N1 4 N2 3
+0 1128783 3602116 7085549 0 1939453 4143866 7326734 0 3412903 5986354 8972749 
+subproblem 0-0-0
+subproblem edge error = 0
+subproblem 0-1-0
+subproblem edge error = 0
+subproblem 0-2-0
+subproblem edge error = 0
+subproblem 0-3-0
+subproblem edge error = 0
+subproblem 1-0-0
+subproblem edge error = 0
+subproblem 1-1-0
+subproblem edge error = 0
+subproblem 1-2-0
+subproblem edge error = 0
+subproblem 1-3-0
+subproblem edge error = 0
+subproblem 2-0-0
+subproblem edge error = 0
+subproblem 2-1-0
+subproblem edge error = 0
+subproblem 2-2-0
+subproblem edge error = 0
+subproblem 2-3-0
+subproblem edge error = 0
+subproblem 3-0-0
+subproblem edge error = 0
+subproblem 3-1-0
+subproblem edge error = 0
+subproblem 3-2-0
+subproblem edge error = 0
+subproblem 3-3-0
+subproblem edge error = 0
+subproblem 0-0-1
+subproblem edge error = 0
+subproblem 0-1-1
+subproblem edge error = 0
+subproblem 0-2-1
+subproblem edge error = 0
+subproblem 0-3-1
+subproblem edge error = 0
+subproblem 1-0-1
+subproblem edge error = 0
+subproblem 1-1-1
+subproblem edge error = 0
+subproblem 1-2-1
+subproblem edge error = 0
+subproblem 1-3-1
+subproblem edge error = 0
+subproblem 2-0-1
+subproblem edge error = 0
+subproblem 2-1-1
+subproblem edge error = 0
+subproblem 2-2-1
+subproblem edge error = 0
+subproblem 2-3-1
+subproblem edge error = 0
+subproblem 3-0-1
+subproblem edge error = 0
+subproblem 3-1-1
+subproblem edge error = 0
+subproblem 3-2-1
+subproblem edge error = 0
+subproblem 3-3-1
+subproblem edge error = 0
+subproblem 0-0-2
+subproblem edge error = 0
+subproblem 0-1-2
+subproblem edge error = 0
+subproblem 0-2-2
+subproblem edge error = 0
+subproblem 0-3-2
+subproblem edge error = 0
+subproblem 1-0-2
+subproblem edge error = 0
+subproblem 1-1-2
+subproblem edge error = 0
+subproblem 1-2-2
+subproblem edge error = 0
+subproblem 1-3-2
+subproblem edge error = 0
+subproblem 2-0-2
+subproblem edge error = 0
+subproblem 2-1-2
+subproblem edge error = 0
+subproblem 2-2-2
+subproblem edge error = 0
+subproblem 2-3-2
+subproblem edge error = 0
+subproblem 3-0-2
+subproblem edge error = 0
+subproblem 3-1-2
+subproblem edge error = 0
+subproblem 3-2-2
+subproblem edge error = 0
+subproblem 3-3-2
+subproblem edge error = 0
+total number = 10494607772
+edge error = 0
+time = 28.0792
+time of io = 19.6753
+time of tc = 7.62503
+Input format: ./exe graph-file-name (json formated file)
+N1 3 N2 3
+0 889422 2176304 0 826117 2167977 0 599155 1726929 
+subproblem 0-0-0
+subproblem edge error = 0
+subproblem 0-1-0
+subproblem edge error = 0
+subproblem 0-2-0
+subproblem edge error = 0
+subproblem 1-0-0
+subproblem edge error = 0
+subproblem 1-1-0
+subproblem edge error = 0
+subproblem 1-2-0
+subproblem edge error = 0
+subproblem 2-0-0
+subproblem edge error = 0
+subproblem 2-1-0
+subproblem edge error = 0
+subproblem 2-2-0
+subproblem edge error = 0
+subproblem 0-0-1
+subproblem edge error = 0
+subproblem 0-1-1
+subproblem edge error = 0
+subproblem 0-2-1
+subproblem edge error = 0
+subproblem 1-0-1
+subproblem edge error = 0
+subproblem 1-1-1
+subproblem edge error = 0
+subproblem 1-2-1
+subproblem edge error = 0
+subproblem 2-0-1
+subproblem edge error = 0
+subproblem 2-1-1
+subproblem edge error = 0
+subproblem 2-2-1
+subproblem edge error = 0
+subproblem 0-0-2
+subproblem edge error = 0
+subproblem 0-1-2
+subproblem edge error = 0
+subproblem 0-2-2
+subproblem edge error = 0
+subproblem 1-0-2
+subproblem edge error = 0
+subproblem 1-1-2
+subproblem edge error = 0
+subproblem 1-2-2
+subproblem edge error = 0
+subproblem 2-0-2
+subproblem edge error = 0
+subproblem 2-1-2
+subproblem edge error = 0
+subproblem 2-2-2
+subproblem edge error = 0
+total number = 2102949738
+edge error = 0
+time = 31.8341
+time of io = 7.40076
+time of tc = 23.823
+Input format: ./exe graph-file-name (json formated file)
+N1 3 N2 3
+0 1313501 2659806 0 1305280 2638580 0 1324886 2650558 
+subproblem 0-0-0
+subproblem edge error = 0
+subproblem 0-1-0
+subproblem edge error = 0
+subproblem 0-2-0
+subproblem edge error = 0
+subproblem 1-0-0
+subproblem edge error = 0
+subproblem 1-1-0
+subproblem edge error = 0
+subproblem 1-2-0
+subproblem edge error = 0
+subproblem 2-0-0
+subproblem edge error = 0
+subproblem 2-1-0
+subproblem edge error = 0
+subproblem 2-2-0
+subproblem edge error = 0
+subproblem 0-0-1
+subproblem edge error = 0
+subproblem 0-1-1
+subproblem edge error = 0
+subproblem 0-2-1
+subproblem edge error = 0
+subproblem 1-0-1
+subproblem edge error = 0
+subproblem 1-1-1
+subproblem edge error = 0
+subproblem 1-2-1
+subproblem edge error = 0
+subproblem 2-0-1
+subproblem edge error = 0
+subproblem 2-1-1
+subproblem edge error = 0
+subproblem 2-2-1
+subproblem edge error = 0
+subproblem 0-0-2
+subproblem edge error = 0
+subproblem 0-1-2
+subproblem edge error = 0
+subproblem 0-2-2
+subproblem edge error = 0
+subproblem 1-0-2
+subproblem edge error = 0
+subproblem 1-1-2
+subproblem edge error = 0
+subproblem 1-2-2
+subproblem edge error = 0
+subproblem 2-0-2
+subproblem edge error = 0
+subproblem 2-1-2
+subproblem edge error = 0
+subproblem 2-2-2
+subproblem edge error = 0
+total number = 349162
+edge error = 0
+time = 10.4106
+time of io = 3.4255
+time of tc = 6.64021
+Input format: ./exe graph-file-name (json formated file)
+N1 3 N2 3
+0 1391185 2793444 0 1390701 2792286 0 1391473 2792981 
+subproblem 0-0-0
+subproblem edge error = 0
+subproblem 0-1-0
+subproblem edge error = 0
+subproblem 0-2-0
+subproblem edge error = 0
+subproblem 1-0-0
+subproblem edge error = 0
+subproblem 1-1-0
+subproblem edge error = 0
+subproblem 1-2-0
+subproblem edge error = 0
+subproblem 2-0-0
+subproblem edge error = 0
+subproblem 2-1-0
+subproblem edge error = 0
+subproblem 2-2-0
+subproblem edge error = 0
+subproblem 0-0-1
+subproblem edge error = 0
+subproblem 0-1-1
+subproblem edge error = 0
+subproblem 0-2-1
+subproblem edge error = 0
+subproblem 1-0-1
+subproblem edge error = 0
+subproblem 1-1-1
+subproblem edge error = 0
+subproblem 1-2-1
+subproblem edge error = 0
+subproblem 2-0-1
+subproblem edge error = 0
+subproblem 2-1-1
+subproblem edge error = 0
+subproblem 2-2-1
+subproblem edge error = 0
+subproblem 0-0-2
+subproblem edge error = 0
+subproblem 0-1-2
+subproblem edge error = 0
+subproblem 0-2-2
+subproblem edge error = 0
+subproblem 1-0-2
+subproblem edge error = 0
+subproblem 1-1-2
+subproblem edge error = 0
+subproblem 1-2-2
+subproblem edge error = 0
+subproblem 2-0-2
+subproblem edge error = 0
+subproblem 2-1-2
+subproblem edge error = 0
+subproblem 2-2-2
+subproblem edge error = 0
+total number = 37179588107
+edge error = 0
+time = 66.9723
+time of io = 12.3517
+time of tc = 53.9807
+Input format: ./exe graph-file-name (json formated file)
+N1 6 N2 4
+0 5585653 11163417 16742847 22330550 27962377 0 5585718 11155426 16734459 22324913 27959210 0 5587821 11161590 16733736 22320041 27957822 0 5590718 11165774 16742758 22328113 27957917 
+subproblem 0-0-0
+subproblem edge error = 0
+subproblem 0-1-0
+subproblem edge error = 0
+subproblem 0-2-0
+subproblem edge error = 0
+subproblem 0-3-0
+subproblem edge error = 0
+subproblem 0-4-0
+subproblem edge error = 0
+subproblem 0-5-0
+subproblem edge error = 0
+subproblem 1-0-0
+subproblem edge error = 0
+subproblem 1-1-0
+subproblem edge error = 0
+subproblem 1-2-0
+subproblem edge error = 0
+subproblem 1-3-0
+subproblem edge error = 0
+subproblem 1-4-0
+subproblem edge error = 0
+subproblem 1-5-0
+subproblem edge error = 0
+subproblem 2-0-0
+subproblem edge error = 0
+subproblem 2-1-0
+subproblem edge error = 0
+subproblem 2-2-0
+subproblem edge error = 0
+subproblem 2-3-0
+subproblem edge error = 0
+subproblem 2-4-0
+subproblem edge error = 0
+subproblem 2-5-0
+subproblem edge error = 0
+subproblem 3-0-0
+subproblem edge error = 0
+subproblem 3-1-0
+subproblem edge error = 0
+subproblem 3-2-0
+subproblem edge error = 0
+subproblem 3-3-0
+subproblem edge error = 0
+subproblem 3-4-0
+subproblem edge error = 0
+subproblem 3-5-0
+subproblem edge error = 0
+subproblem 4-0-0
+subproblem edge error = 0
+subproblem 4-1-0
+subproblem edge error = 0
+subproblem 4-2-0
+subproblem edge error = 0
+subproblem 4-3-0
+subproblem edge error = 0
+subproblem 4-4-0
+subproblem edge error = 0
+subproblem 4-5-0
+subproblem edge error = 0
+subproblem 5-0-0
+subproblem edge error = 0
+subproblem 5-1-0
+subproblem edge error = 0
+subproblem 5-2-0
+subproblem edge error = 0
+subproblem 5-3-0
+subproblem edge error = 0
+subproblem 5-4-0
+subproblem edge error = 0
+subproblem 5-5-0
+subproblem edge error = 0
+subproblem 0-0-1
+subproblem edge error = 0
+subproblem 0-1-1
+subproblem edge error = 0
+subproblem 0-2-1
+subproblem edge error = 0
+subproblem 0-3-1
+subproblem edge error = 0
+subproblem 0-4-1
+subproblem edge error = 0
+subproblem 0-5-1
+subproblem edge error = 0
+subproblem 1-0-1
+subproblem edge error = 0
+subproblem 1-1-1
+subproblem edge error = 0
+subproblem 1-2-1
+subproblem edge error = 0
+subproblem 1-3-1
+subproblem edge error = 0
+subproblem 1-4-1
+subproblem edge error = 0
+subproblem 1-5-1
+subproblem edge error = 0
+subproblem 2-0-1
+subproblem edge error = 0
+subproblem 2-1-1
+subproblem edge error = 0
+subproblem 2-2-1
+subproblem edge error = 0
+subproblem 2-3-1
+subproblem edge error = 0
+subproblem 2-4-1
+subproblem edge error = 0
+subproblem 2-5-1
+subproblem edge error = 0
+subproblem 3-0-1
+subproblem edge error = 0
+subproblem 3-1-1
+subproblem edge error = 0
+subproblem 3-2-1
+subproblem edge error = 0
+subproblem 3-3-1
+subproblem edge error = 0
+subproblem 3-4-1
+subproblem edge error = 0
+subproblem 3-5-1
+subproblem edge error = 0
+subproblem 4-0-1
+subproblem edge error = 0
+subproblem 4-1-1
+subproblem edge error = 0
+subproblem 4-2-1
+subproblem edge error = 0
+subproblem 4-3-1
+subproblem edge error = 0
+subproblem 4-4-1
+subproblem edge error = 0
+subproblem 4-5-1
+subproblem edge error = 0
+subproblem 5-0-1
+subproblem edge error = 0
+subproblem 5-1-1
+subproblem edge error = 0
+subproblem 5-2-1
+subproblem edge error = 0
+subproblem 5-3-1
+subproblem edge error = 0
+subproblem 5-4-1
+subproblem edge error = 0
+subproblem 5-5-1
+subproblem edge error = 0
+subproblem 0-0-2
+subproblem edge error = 0
+subproblem 0-1-2
+subproblem edge error = 0
+subproblem 0-2-2
+subproblem edge error = 0
+subproblem 0-3-2
+subproblem edge error = 0
+subproblem 0-4-2
+subproblem edge error = 0
+subproblem 0-5-2
+subproblem edge error = 0
+subproblem 1-0-2
+subproblem edge error = 0
+subproblem 1-1-2
+subproblem edge error = 0
+subproblem 1-2-2
+subproblem edge error = 0
+subproblem 1-3-2
+subproblem edge error = 0
+subproblem 1-4-2
+subproblem edge error = 0
+subproblem 1-5-2
+subproblem edge error = 0
+subproblem 2-0-2
+subproblem edge error = 0
+subproblem 2-1-2
+subproblem edge error = 0
+subproblem 2-2-2
+subproblem edge error = 0
+subproblem 2-3-2
+subproblem edge error = 0
+subproblem 2-4-2
+subproblem edge error = 0
+subproblem 2-5-2
+subproblem edge error = 0
+subproblem 3-0-2
+subproblem edge error = 0
+subproblem 3-1-2
+subproblem edge error = 0
+subproblem 3-2-2
+subproblem edge error = 0
+subproblem 3-3-2
+subproblem edge error = 0
+subproblem 3-4-2
+subproblem edge error = 0
+subproblem 3-5-2
+subproblem edge error = 0
+subproblem 4-0-2
+subproblem edge error = 0
+subproblem 4-1-2
+subproblem edge error = 0
+subproblem 4-2-2
+subproblem edge error = 0
+subproblem 4-3-2
+subproblem edge error = 0
+subproblem 4-4-2
+subproblem edge error = 0
+subproblem 4-5-2
+subproblem edge error = 0
+subproblem 5-0-2
+subproblem edge error = 0
+subproblem 5-1-2
+subproblem edge error = 0
+subproblem 5-2-2
+subproblem edge error = 0
+subproblem 5-3-2
+subproblem edge error = 0
+subproblem 5-4-2
+subproblem edge error = 0
+subproblem 5-5-2
+subproblem edge error = 0
+subproblem 0-0-3
+subproblem edge error = 0
+subproblem 0-1-3
+subproblem edge error = 0
+subproblem 0-2-3
+subproblem edge error = 0
+subproblem 0-3-3
+subproblem edge error = 0
+subproblem 0-4-3
+subproblem edge error = 0
+subproblem 0-5-3
+subproblem edge error = 0
+subproblem 1-0-3
+subproblem edge error = 0
+subproblem 1-1-3
+subproblem edge error = 0
+subproblem 1-2-3
+subproblem edge error = 0
+subproblem 1-3-3
+subproblem edge error = 0
+subproblem 1-4-3
+subproblem edge error = 0
+subproblem 1-5-3
+subproblem edge error = 0
+subproblem 2-0-3
+subproblem edge error = 0
+subproblem 2-1-3
+subproblem edge error = 0
+subproblem 2-2-3
+subproblem edge error = 0
+subproblem 2-3-3
+subproblem edge error = 0
+subproblem 2-4-3
+subproblem edge error = 0
+subproblem 2-5-3
+subproblem edge error = 0
+subproblem 3-0-3
+subproblem edge error = 0
+subproblem 3-1-3
+subproblem edge error = 0
+subproblem 3-2-3
+subproblem edge error = 0
+subproblem 3-3-3
+subproblem edge error = 0
+subproblem 3-4-3
+subproblem edge error = 0
+subproblem 3-5-3
+subproblem edge error = 0
+subproblem 4-0-3
+subproblem edge error = 0
+subproblem 4-1-3
+subproblem edge error = 0
+subproblem 4-2-3
+subproblem edge error = 0
+subproblem 4-3-3
+subproblem edge error = 0
+subproblem 4-4-3
+subproblem edge error = 0
+subproblem 4-5-3
+subproblem edge error = 0
+subproblem 5-0-3
+subproblem edge error = 0
+subproblem 5-1-3
+subproblem edge error = 0
+subproblem 5-2-3
+subproblem edge error = 0
+subproblem 5-3-3
+subproblem edge error = 0
+subproblem 5-4-3
+subproblem edge error = 0
+subproblem 5-5-3
+subproblem edge error = 0
+total number = 22535831016
+edge error = 0
+time = 103.454
+time of io = 25.4872
+time of tc = 76.281

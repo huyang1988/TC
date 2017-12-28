@@ -1,0 +1,180 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 620502487
+total count 3145181295
+total time  46.1989 seconds
+total count 3145181295
+total time  43.5336 seconds
+total count 3145181295
+total time  44.2981 seconds
+total count 3145181295
+total time  43.6543 seconds
+total count 3145181295
+total time  40.8119 seconds
+merge average time of 5 round = 43.6994
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 327036342
+total count 223127577
+total time  19.8205 seconds
+total count 223127577
+total time  19.6009 seconds
+total count 223127577
+total time  19.5825 seconds
+total count 223127577
+total time  19.5352 seconds
+total count 223127577
+total time  19.5783 seconds
+merge average time of 5 round = 19.6235
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 1811463355
+total count 4176922719
+total time  147.729 seconds
+total count 4176922719
+total time  147.014 seconds
+total count 4176922719
+total time  149.797 seconds
+total count 4176922719
+total time  147.936 seconds
+total count 4176922719
+total time  148.476 seconds
+merge average time of 5 round = 148.19
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 1202487994
+total count 34824916864
+total time  139.563 seconds
+total count 34824916864
+total time  145.158 seconds
+total count 34824916864
+total time  138.132 seconds
+total count 34824916864
+total time  137.663 seconds
+total count 34824916864
+total time  137.779 seconds
+merge average time of 5 round = 139.659
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 1614056990
+total count 55428217664
+total time  195.785 seconds
+total count 55428217664
+total time  194.595 seconds
+total count 55428217664
+total time  193.287 seconds
+total count 55428217664
+total time  194.023 seconds
+total count 55428217664
+total time  192.409 seconds
+merge average time of 5 round = 194.02
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 258375633
+total count 10494607772
+total time  18.9197 seconds
+total count 10494607772
+total time  19.1917 seconds
+total count 10494607772
+total time  18.6761 seconds
+total count 10494607772
+total time  18.5247 seconds
+total count 10494607772
+total time  18.6189 seconds
+merge average time of 5 round = 18.7862
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 253096135
+total count 2102949738
+total time  29.7545 seconds
+total count 2102949738
+total time  29.1428 seconds
+total count 2102949738
+total time  29.0086 seconds
+total count 2102949738
+total time  28.9981 seconds
+total count 2102949738
+total time  29.9168 seconds
+merge average time of 5 round = 29.3642
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 255995920
+total count 349162
+total time  17.0173 seconds
+total count 349162
+total time  16.766 seconds
+total count 349162
+total time  16.2177 seconds
+total count 349162
+total time  16.1888 seconds
+total count 349162
+total time  16.1513 seconds
+merge average time of 5 round = 16.4682
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 242037345
+total count 37179588107
+total time  57.892 seconds
+total count 37179588107
+total time  56.8888 seconds
+total count 37179588107
+total time  57.1883 seconds
+total count 37179588107
+total time  56.6663 seconds
+total count 37179588107
+total time  56.971 seconds
+merge average time of 5 round = 57.1213
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 523599613
+total count 22535831016
+total time  82.1795 seconds
+total count 22535831016
+total time  82.0743 seconds
+total count 22535831016
+total time  80.5459 seconds
+total count 22535831016
+total time  80.6469 seconds
+total count 22535831016
+total time  81.0863 seconds
+merge average time of 5 round = 81.3066

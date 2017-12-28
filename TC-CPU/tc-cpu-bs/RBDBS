@@ -1,0 +1,187 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+rank by degree
+upper Edge Count= 620502881
+calculate
+branch free bs version tc = 3145181295
+total time = 18.8371 secondes
+branch free bs version tc = 3145181295
+total time = 19.5661 secondes
+branch free bs version tc = 3145181295
+total time = 18.9279 secondes
+branch free bs version tc = 3145181295
+total time = 19.017 secondes
+branch free bs version tc = 3145181295
+total time = 18.8124 secondes
+average time of 5 round = 19.0321 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+rank by degree
+upper Edge Count= 327036486
+calculate
+branch free bs version tc = 223127577
+total time = 26.2043 secondes
+branch free bs version tc = 223127577
+total time = 26.5144 secondes
+branch free bs version tc = 223127577
+total time = 26.6604 secondes
+branch free bs version tc = 223127577
+total time = 26.0949 secondes
+branch free bs version tc = 223127577
+total time = 26.5647 secondes
+average time of 5 round = 26.4077 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+rank by degree
+upper Edge Count= 1811849342
+calculate
+branch free bs version tc = 4176922719
+total time = 95.6507 secondes
+branch free bs version tc = 4176922719
+total time = 97.0172 secondes
+branch free bs version tc = 4176922719
+total time = 96.6882 secondes
+branch free bs version tc = 4176922719
+total time = 97.7401 secondes
+branch free bs version tc = 4176922719
+total time = 95.5618 secondes
+average time of 5 round = 96.5316 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+branch free bs version tc = 34824916864
+total time = 489.631 secondes
+branch free bs version tc = 34824916864
+total time = 488.275 secondes
+branch free bs version tc = 34824916864
+total time = 490.826 secondes
+branch free bs version tc = 34824916864
+total time = 478.165 secondes
+branch free bs version tc = 34824916864
+total time = 491.627 secondes
+average time of 5 round = 487.705 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+rank by degree
+upper Edge Count= 1614106187
+calculate
+branch free bs version tc = 55428217664
+total time = 1020.25 secondes
+branch free bs version tc = 55428217664
+total time = 1019.3 secondes
+branch free bs version tc = 55428217664
+total time = 1015.84 secondes
+branch free bs version tc = 55428217664
+total time = 1026.71 secondes
+branch free bs version tc = 55428217664
+total time = 1017.58 secondes
+average time of 5 round = 1019.94 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+branch free bs version tc = 34824916864
+total time = 248.965 secondes
+branch free bs version tc = 34824916864
+total time = 250.609 secondes
+branch free bs version tc = 34824916864
+total time = 249.845 secondes
+branch free bs version tc = 34824916864
+total time = 250.744 secondes
+branch free bs version tc = 34824916864
+total time = 247.15 secondes
+average time of 5 round = 249.463 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+rank by degree
+upper Edge Count= 258377892
+calculate
+branch free bs version tc = 10494607772
+total time = 16.2277 secondes
+branch free bs version tc = 10494607772
+total time = 18.3895 secondes
+branch free bs version tc = 10494607772
+total time = 18.6026 secondes
+branch free bs version tc = 10494607772
+total time = 18.5032 secondes
+branch free bs version tc = 10494607772
+total time = 16.7234 secondes
+average time of 5 round = 17.6893 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+rank by degree
+upper Edge Count= 253096135
+calculate
+branch free bs version tc = 2102949738
+total time = 57.9727 secondes
+branch free bs version tc = 2102949738
+total time = 56.6925 secondes
+branch free bs version tc = 2102949738
+total time = 57.955 secondes
+branch free bs version tc = 2102949738
+total time = 53.8559 secondes
+branch free bs version tc = 2102949738
+total time = 56.1262 secondes
+average time of 5 round = 56.5205 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+rank by degree
+upper Edge Count= 255995920
+calculate
+branch free bs version tc = 349162
+total time = 6.47744 secondes
+branch free bs version tc = 349162
+total time = 6.23144 secondes
+branch free bs version tc = 349162
+total time = 6.20551 secondes
+branch free bs version tc = 349162
+total time = 6.18136 secondes
+branch free bs version tc = 349162
+total time = 6.13853 secondes
+average time of 5 round = 6.24685 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+rank by degree
+upper Edge Count= 242037623
+calculate
+branch free bs version tc = 37179588107
+total time = 124.223 secondes
+branch free bs version tc = 37179588107
+total time = 124.746 secondes
+branch free bs version tc = 37179588107
+total time = 125.947 secondes
+branch free bs version tc = 37179588107
+total time = 124.993 secondes
+branch free bs version tc = 37179588107
+total time = 124.801 secondes
+average time of 5 round = 124.942 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+rank by degree
+upper Edge Count= 523611003
+calculate
+branch free bs version tc = 22535831016
+total time = 150.356 secondes
+branch free bs version tc = 22535831016
+total time = 149.71 secondes
+branch free bs version tc = 22535831016
+total time = 149.683 secondes
+branch free bs version tc = 22535831016
+total time = 150.041 secondes
+branch free bs version tc = 22535831016
+total time = 148.294 secondes
+average time of 5 round = 149.617 secondes

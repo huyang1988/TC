@@ -1,0 +1,6 @@
+./tc ~/data/orkut/
+./tc ~/data/friendster/
+./tc ~/data/twitter/
+./tc ~/data/twitter_mpi/
+./tc ~/data/twitter_rv/
+./tc ~/data/wikipedia_link_en/

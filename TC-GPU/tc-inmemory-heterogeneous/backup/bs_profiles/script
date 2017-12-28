@@ -1,0 +1,7 @@
+nvprof --print-gpu-trace --metrics achieved_occupancy,branch_efficiency,gld_efficiency,l1_cache_global_hit_rate,l1_cache_global_hit_rate ./tc ~/data/facebook/
+nvprof --print-gpu-trace --metrics achieved_occupancy,branch_efficiency,gld_efficiency,l1_cache_global_hit_rate,l1_cache_global_hit_rate ./tc ~/data/orkut/
+nvprof --print-gpu-trace --metrics achieved_occupancy,branch_efficiency,gld_efficiency,l1_cache_global_hit_rate,l1_cache_global_hit_rate ./tc ~/data/wikipedia_link_en/
+nvprof --print-gpu-trace --metrics achieved_occupancy,branch_efficiency,gld_efficiency,l1_cache_global_hit_rate,l1_cache_global_hit_rate ./tc ~/data/RMAT/
+nvprof --print-gpu-trace --metrics achieved_occupancy,branch_efficiency,gld_efficiency,l1_cache_global_hit_rate,l1_cache_global_hit_rate ./tc ~/data/random/
+nvprof --print-gpu-trace --metrics achieved_occupancy,branch_efficiency,gld_efficiency,l1_cache_global_hit_rate,l1_cache_global_hit_rate ./tc ~/data/kron1/
+nvprof --print-gpu-trace --metrics achieved_occupancy,branch_efficiency,gld_efficiency,l1_cache_global_hit_rate,l1_cache_global_hit_rate ./tc ~/data/kron2/

@@ -1,0 +1,4 @@
+the CPU tc for 1-D partitioned data
+
+it load everything into memory at begining.
+

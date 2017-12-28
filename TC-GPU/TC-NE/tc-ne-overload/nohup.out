@@ -1,0 +1,85 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+GPU  NUMBER = 6
+PART NUMBER = 12
+no edge reduction
+total count 3145181295
+total time  39.4771 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+GPU  NUMBER = 6
+PART NUMBER = 12
+no edge reduction
+total count 223127577
+total time  149.832 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+GPU  NUMBER = 6
+PART NUMBER = 12
+no edge reduction
+total count 4176922719
+total time  179.677 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+GPU  NUMBER = 6
+PART NUMBER = 12
+no edge reduction
+total count 34824916864
+total time  4580.15 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+GPU  NUMBER = 6
+PART NUMBER = 12
+no edge reduction
+total count 10494607772
+total time  61.4683 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+GPU  NUMBER = 6
+PART NUMBER = 12
+no edge reduction
+total count 2102949738
+total time  177.847 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+GPU  NUMBER = 6
+PART NUMBER = 12
+no edge reduction
+total count 349162
+total time  26.2605 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+GPU  NUMBER = 6
+PART NUMBER = 12
+no edge reduction
+total count 37179588107
+total time  668.003 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+GPU  NUMBER = 6
+PART NUMBER = 12
+no edge reduction
+total count 22535831016
+total time  1200.79 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_directed/
+vert:52579682  edge: 1963263508
+GPU  NUMBER = 6
+PART NUMBER = 12
+no edge reduction
+total count 40129793888
+total time  231.698 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_directed/
+vert:52579682  edge: 1963263508
+GPU  NUMBER = 6
+PART NUMBER = 12

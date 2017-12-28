@@ -1,0 +1,10 @@
+nvprof --metrics ipc ./tc ~/data/facebook/
+nvprof --metrics ipc ./tc ~/data/orkut/
+nvprof --metrics ipc ./tc ~/data/friendster/
+nvprof --metrics ipc ./tc ~/data/twitter/
+nvprof --metrics ipc ./tc ~/data/twitter_mpi/
+nvprof --metrics ipc ./tc ~/data/wikipedia_link_en/
+nvprof --metrics ipc ./tc ~/data/RMAT/
+nvprof --metrics ipc ./tc ~/data/random/
+nvprof --metrics ipc ./tc ~/data/kron1/
+nvprof --metrics ipc ./tc ~/data/kron2/

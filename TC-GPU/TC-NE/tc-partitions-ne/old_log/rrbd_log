@@ -1,0 +1,144 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+k=81759121
+part 1 cut at 60454
+k=163518243
+part 2 cut at 175822
+k=245277364
+part 3 cut at 1097973
+part 0 edge 81767718
+part 1 edge 81750744
+part 2 edge 81759151
+part 3 edge 81758873
+gpu 3 binary count=877231
+time = 6.19055 seconds
+gpu 1 binary count=56110930
+time = 6.84319 seconds
+gpu 2 binary count=6478150
+time = 7.15006 seconds
+gpu 0 binary count=159661266
+time = 7.21528 seconds
+total count 223127577
+total time  8.62315 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+upper Edge Count= 1811849342
+k=452962335
+part 1 cut at 6266549
+k=905924671
+part 2 cut at 11779181
+k=1358887006
+part 3 cut at 20208428
+part 0 edge 452962373
+part 1 edge 452962311
+part 2 edge 452962326
+part 3 edge 452962332
+gpu 3 binary count=977380423
+time = 44.1958 seconds
+gpu 2 binary count=1062924747
+time = 45.4354 seconds
+gpu 0 binary count=1090663571
+time = 45.8211 seconds
+gpu 1 binary count=1045953978
+time = 46.6068 seconds
+total count 4176922719
+total time  48.9353 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+upper Edge Count= 1202513046
+k=300628261
+part 1 cut at 3627536
+k=601256523
+part 2 cut at 5379935
+k=901884784
+part 3 cut at 14062051
+part 0 edge 300628273
+part 1 edge 300629000
+part 2 edge 300636385
+part 3 edge 300619388
+gpu 3 binary count=558074664
+time = 24.3336 seconds
+gpu 2 binary count=1402097816
+time = 28.5756 seconds
+gpu 0 binary count=11863367335
+time = 44.8752 seconds
+gpu 1 binary count=21001377049
+time = 61.6364 seconds
+total count 34824916864
+total time  63.5533 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+upper Edge Count= 1614106187
+k=403526546
+part 1 cut at 39004
+k=807053093
+part 2 cut at 407962
+k=1210579640
+part 3 cut at 4780399
+part 0 edge 403533369
+part 1 edge 403520241
+part 2 edge 403526087
+part 3 edge 403526490
+gpu 3 binary count=121467761
+time = 30.3581 seconds
+gpu 2 binary count=2309353075
+time = 44.6375 seconds
+gpu 0 binary count=31938808290
+time = 69.6299 seconds
+gpu 1 binary count=21058588538
+time = 78.223 seconds
+total count 55428217664
+total time  80.4409 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+upper Edge Count= 1202513046
+k=300628261
+part 1 cut at 16631546
+k=601256523
+part 2 cut at 23375677
+k=901884784
+part 3 cut at 45372687
+part 0 edge 300632881
+part 1 edge 301237380
+part 2 edge 300016708
+part 3 edge 300626077
+gpu 3 binary count=362857103
+time = 25.8981 seconds
+gpu 2 binary count=7317753993
+time = 42.9907 seconds
+gpu 1 binary count=12628110313
+time = 46.7333 seconds
+gpu 0 binary count=14516195455
+time = 48.1554 seconds
+total count 34824916864
+total time  50.8267 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+k=64594473
+part 1 cut at 267485
+k=129188946
+part 2 cut at 1822776
+k=193783419
+part 3 cut at 5417500
+part 0 edge 64594483
+part 1 edge 64594532
+part 2 edge 64616346
+part 3 edge 64572531
+gpu 1 binary count=2277261878
+time = 5.93526 seconds
+gpu 0 binary count=1920936116
+time = 6.07017 seconds
+gpu 3 binary count=2997218752
+time = 6.15289 seconds
+gpu 2 binary count=3299191026
+time = 6.26576 seconds
+total count 10494607772
+total time  7.66268 seconds

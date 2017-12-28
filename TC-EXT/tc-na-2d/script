@@ -1,0 +1,10 @@
+./tc ~/data/facebook/2d
+./tc ~/data/orkut/2d
+./tc ~/data/friendster/2d
+./tc ~/data/twitter/2d
+./tc ~/data/twitter_mpi/2d
+./tc ~/data/wikipedia_link_en/2d
+./tc ~/data/RMAT/2d
+./tc ~/data/random/2d
+./tc ~/data/kron1/2d
+./tc ~/data/kron2/2d

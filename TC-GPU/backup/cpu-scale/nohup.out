@@ -1,0 +1,84 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+GPU  NUMBER = 0
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 1202513046
+pre-processing time = 7.4292
+CPU  time = 73.7179
+total count 34824916864
+total time  73.7179 seconds
+merge average time of 5 round = 73.7179
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+GPU  NUMBER = 0
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 1202513046
+pre-processing time = 7.39142
+CPU  time = 646.04
+total count 34824916864
+total time  646.04 seconds
+merge average time of 5 round = 646.04
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+GPU  NUMBER = 0
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 1202513046
+pre-processing time = 7.4889
+CPU  time = 355.504
+total count 34824916864
+total time  355.504 seconds
+merge average time of 5 round = 355.504
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+GPU  NUMBER = 0
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 1202513046
+pre-processing time = 7.46989
+CPU  time = 193.077
+total count 34824916864
+total time  193.077 seconds
+merge average time of 5 round = 193.077
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+GPU  NUMBER = 0
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 1202513046
+pre-processing time = 7.4384
+CPU  time = 105.684
+total count 34824916864
+total time  105.684 seconds
+merge average time of 5 round = 105.684
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+GPU  NUMBER = 0
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 1202513046
+pre-processing time = 7.45239
+CPU  time = 2521.43
+total count 34824916864
+total time  2521.43 seconds
+merge average time of 5 round = 2521.43
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+GPU  NUMBER = 0
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 1202513046
+pre-processing time = 7.50113
+CPU  time = 1282.9
+total count 34824916864
+total time  1282.9 seconds
+merge average time of 5 round = 1282.9

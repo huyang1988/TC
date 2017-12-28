@@ -1,0 +1,555 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/2d
+./script: line 1: 47483 Segmentation fault      ./tc ~/data/facebook/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/2d
+partition number = 7
+vert count = 8730857
+part 0 edge count = 46773085
+vert count = 8730857
+part 1 edge count = 46677318
+vert count = 8730857
+part 2 edge count = 46708706
+vert count = 8730857
+part 3 edge count = 46719167
+vert count = 8730857
+part 4 edge count = 46719602
+vert count = 8730857
+part 5 edge count = 46719129
+vert count = 8730857
+part 6 edge count = 46719479
+upperEdgeCount = 327036486
+merge version tc = 223127577
+total time = 12.1193 secondes
+time of io = 5.51651
+time of tc = 6.59462
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/2d
+./script: line 3: 47541 Segmentation fault      ./tc ~/data/friendster/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/2d
+./script: line 4: 47542 Segmentation fault      ./tc ~/data/twitter/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/2d
+./script: line 5: 47543 Segmentation fault      ./tc ~/data/twitter_mpi/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/2d
+partition number = 6
+vert count = 11196007
+part 0 edge count = 43063325
+vert count = 11196007
+part 1 edge count = 43062714
+vert count = 11196007
+part 2 edge count = 43062925
+vert count = 11196007
+part 3 edge count = 43062977
+vert count = 11196007
+part 4 edge count = 43063089
+vert count = 11196007
+part 5 edge count = 43062862
+upperEdgeCount = 258377892
+merge version tc = 10494607772
+total time = 11.4769 secondes
+time of io = 3.99001
+time of tc = 7.48025
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/2d
+partition number = 5
+vert count = 3999983
+part 0 edge count = 50619455
+vert count = 3999983
+part 1 edge count = 50619061
+vert count = 3999983
+part 2 edge count = 50621878
+vert count = 3999983
+part 3 edge count = 50617684
+vert count = 3999983
+part 4 edge count = 50618057
+upperEdgeCount = 253096135
+merge version tc = 2102949738
+total time = 27.3097 secondes
+time of io = 3.34332
+time of tc = 23.9609
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/2d
+partition number = 5
+vert count = 4000000
+part 0 edge count = 51199200
+vert count = 4000000
+part 1 edge count = 51199241
+vert count = 4000000
+part 2 edge count = 51199143
+vert count = 4000000
+part 3 edge count = 51199277
+vert count = 4000000
+part 4 edge count = 51199059
+upperEdgeCount = 255995920
+merge version tc = 349162
+total time = 11.8573 secondes
+time of io = 3.38581
+time of tc = 8.46667
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/2d
+partition number = 5
+vert count = 4194303
+part 0 edge count = 48419157
+vert count = 4194303
+part 1 edge count = 48421403
+vert count = 4194303
+part 2 edge count = 48382082
+vert count = 4194303
+part 3 edge count = 48408278
+vert count = 4194303
+part 4 edge count = 48406703
+upperEdgeCount = 242037623
+merge version tc = 37179588107
+total time = 60.8423 secondes
+time of io = 3.2119
+time of tc = 57.6242
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/2d
+./script: line 10: 47785 Segmentation fault      ./tc ~/data/kron2/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/2d
+./script: line 1: 47982 Segmentation fault      ./tc ~/data/facebook/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/2d
+partition number = 7
+vert count = 8730857
+part 0 edge count = 46773085
+vert count = 8730857
+part 1 edge count = 46677318
+vert count = 8730857
+part 2 edge count = 46708706
+vert count = 8730857
+part 3 edge count = 46719167
+vert count = 8730857
+part 4 edge count = 46719602
+vert count = 8730857
+part 5 edge count = 46719129
+vert count = 8730857
+part 6 edge count = 46719479
+upperEdgeCount = 327036486
+merge version tc = 223127577
+total time = 12.1487 secondes
+time of io = 5.52275
+time of tc = 6.61857
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/2d
+./script: line 3: 48045 Segmentation fault      ./tc ~/data/friendster/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/2d
+./script: line 4: 48046 Segmentation fault      ./tc ~/data/twitter/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/2d
+./script: line 5: 48047 Segmentation fault      ./tc ~/data/twitter_mpi/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/2d
+partition number = 6
+vert count = 11196007
+part 0 edge count = 43063325
+vert count = 11196007
+part 1 edge count = 43062714
+vert count = 11196007
+part 2 edge count = 43062925
+vert count = 11196007
+part 3 edge count = 43062977
+vert count = 11196007
+part 4 edge count = 43063089
+vert count = 11196007
+part 5 edge count = 43062862
+upperEdgeCount = 258377892
+merge version tc = 10494607772
+total time = 11.0184 secondes
+time of io = 3.68301
+time of tc = 7.32928
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/2d
+partition number = 5
+vert count = 3999983
+part 0 edge count = 50619455
+vert count = 3999983
+part 1 edge count = 50619061
+vert count = 3999983
+part 2 edge count = 50621878
+vert count = 3999983
+part 3 edge count = 50617684
+vert count = 3999983
+part 4 edge count = 50618057
+upperEdgeCount = 253096135
+merge version tc = 2102949738
+total time = 26.9704 secondes
+time of io = 3.11508
+time of tc = 23.8489
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/2d
+partition number = 5
+vert count = 4000000
+part 0 edge count = 51199200
+vert count = 4000000
+part 1 edge count = 51199241
+vert count = 4000000
+part 2 edge count = 51199143
+vert count = 4000000
+part 3 edge count = 51199277
+vert count = 4000000
+part 4 edge count = 51199059
+upperEdgeCount = 255995920
+merge version tc = 349162
+total time = 11.6084 secondes
+time of io = 3.2383
+time of tc = 8.36396
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/2d
+partition number = 5
+vert count = 4194303
+part 0 edge count = 48419157
+vert count = 4194303
+part 1 edge count = 48421403
+vert count = 4194303
+part 2 edge count = 48382082
+vert count = 4194303
+part 3 edge count = 48408278
+vert count = 4194303
+part 4 edge count = 48406703
+upperEdgeCount = 242037623
+merge version tc = 37179588107
+total time = 60.7638 secondes
+time of io = 3.07767
+time of tc = 57.6798
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/2d
+./script: line 10: 48295 Segmentation fault      ./tc ~/data/kron2/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/2d
+./script: line 1: 48345 Segmentation fault      ./tc ~/data/facebook/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/2d
+partition number = 7
+vert count = 8730857
+part 0 edge count = 46773085
+vert count = 8730857
+part 1 edge count = 46677318
+vert count = 8730857
+part 2 edge count = 46708706
+vert count = 8730857
+part 3 edge count = 46719167
+vert count = 8730857
+part 4 edge count = 46719602
+vert count = 8730857
+part 5 edge count = 46719129
+vert count = 8730857
+part 6 edge count = 46719479
+upperEdgeCount = 327036486
+merge version tc = 223127577
+total time = 12.2395 secondes
+time of io = 5.61075
+time of tc = 6.62122
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/2d
+./script: line 3: 48405 Segmentation fault      ./tc ~/data/friendster/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/2d
+./script: line 4: 48406 Segmentation fault      ./tc ~/data/twitter/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/2d
+./script: line 5: 48407 Segmentation fault      ./tc ~/data/twitter_mpi/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/2d
+partition number = 6
+vert count = 11196007
+part 0 edge count = 43063325
+vert count = 11196007
+part 1 edge count = 43062714
+vert count = 11196007
+part 2 edge count = 43062925
+vert count = 11196007
+part 3 edge count = 43062977
+vert count = 11196007
+part 4 edge count = 43063089
+vert count = 11196007
+part 5 edge count = 43062862
+upperEdgeCount = 258377892
+merge version tc = 10494607772
+total time = 11.0784 secondes
+time of io = 3.68625
+time of tc = 7.38584
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/2d
+partition number = 5
+vert count = 3999983
+part 0 edge count = 50619455
+vert count = 3999983
+part 1 edge count = 50619061
+vert count = 3999983
+part 2 edge count = 50621878
+vert count = 3999983
+part 3 edge count = 50617684
+vert count = 3999983
+part 4 edge count = 50618057
+upperEdgeCount = 253096135
+merge version tc = 2102949738
+total time = 27.0537 secondes
+time of io = 3.18542
+time of tc = 23.8633
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/2d
+partition number = 5
+vert count = 4000000
+part 0 edge count = 51199200
+vert count = 4000000
+part 1 edge count = 51199241
+vert count = 4000000
+part 2 edge count = 51199143
+vert count = 4000000
+part 3 edge count = 51199277
+vert count = 4000000
+part 4 edge count = 51199059
+upperEdgeCount = 255995920
+merge version tc = 349162
+total time = 11.53 secondes
+time of io = 3.14601
+time of tc = 8.37909
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/2d
+partition number = 5
+vert count = 4194303
+part 0 edge count = 48419157
+vert count = 4194303
+part 1 edge count = 48421403
+vert count = 4194303
+part 2 edge count = 48382082
+vert count = 4194303
+part 3 edge count = 48408278
+vert count = 4194303
+part 4 edge count = 48406703
+upperEdgeCount = 242037623
+merge version tc = 37179588107
+total time = 60.7131 secondes
+time of io = 3.04788
+time of tc = 57.659
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/2d
+./script: line 10: 48648 Segmentation fault      ./tc ~/data/kron2/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/2d
+./script: line 1:  1349 Segmentation fault      ./tc ~/data/facebook/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/2d
+partition number = 7
+vert count = 8730857
+part 0 edge count = 46773085
+vert count = 8730857
+part 1 edge count = 46677318
+vert count = 8730857
+part 2 edge count = 46708706
+vert count = 8730857
+part 3 edge count = 46719167
+vert count = 8730857
+part 4 edge count = 46719602
+vert count = 8730857
+part 5 edge count = 46719129
+vert count = 8730857
+part 6 edge count = 46719479
+upperEdgeCount = 327036486
+merge version tc = 223127577
+total time = 12.3391 secondes
+time of io = 5.67341
+time of tc = 6.658
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/2d
+./script: line 3:  1416 Segmentation fault      ./tc ~/data/friendster/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/2d
+./script: line 4:  1417 Segmentation fault      ./tc ~/data/twitter/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/2d
+./script: line 5:  1418 Segmentation fault      ./tc ~/data/twitter_mpi/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/2d
+partition number = 6
+vert count = 11196007
+part 0 edge count = 43063325
+vert count = 11196007
+part 1 edge count = 43062714
+vert count = 11196007
+part 2 edge count = 43062925
+vert count = 11196007
+part 3 edge count = 43062977
+vert count = 11196007
+part 4 edge count = 43063089
+vert count = 11196007
+part 5 edge count = 43062862
+upperEdgeCount = 258377892
+merge version tc = 10494607772
+total time = 11.2742 secondes
+time of io = 3.92615
+time of tc = 7.34143
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/2d
+partition number = 5
+vert count = 3999983
+part 0 edge count = 50619455
+vert count = 3999983
+part 1 edge count = 50619061
+vert count = 3999983
+part 2 edge count = 50621878
+vert count = 3999983
+part 3 edge count = 50617684
+vert count = 3999983
+part 4 edge count = 50618057
+upperEdgeCount = 253096135
+merge version tc = 2102949738
+total time = 27.2384 secondes
+time of io = 3.28923
+time of tc = 23.942
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/2d
+partition number = 5
+vert count = 4000000
+part 0 edge count = 51199200
+vert count = 4000000
+part 1 edge count = 51199241
+vert count = 4000000
+part 2 edge count = 51199143
+vert count = 4000000
+part 3 edge count = 51199277
+vert count = 4000000
+part 4 edge count = 51199059
+upperEdgeCount = 255995920
+merge version tc = 349162
+total time = 11.3913 secondes
+time of io = 3.14171
+time of tc = 8.24297
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/2d
+partition number = 5
+vert count = 4194303
+part 0 edge count = 48419157
+vert count = 4194303
+part 1 edge count = 48421403
+vert count = 4194303
+part 2 edge count = 48382082
+vert count = 4194303
+part 3 edge count = 48408278
+vert count = 4194303
+part 4 edge count = 48406703
+upperEdgeCount = 242037623
+merge version tc = 37179588107
+total time = 60.5335 secondes
+time of io = 2.95356
+time of tc = 57.5738
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/2d
+./script: line 10:  1742 Segmentation fault      ./tc ~/data/kron2/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/2d
+./script: line 1: 16280 Segmentation fault      ./tc ~/data/facebook/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/2d
+partition number = 7
+vert count = 8730857
+part 0 edge count = 46773085
+vert count = 8730857
+part 1 edge count = 46677318
+vert count = 8730857
+part 2 edge count = 46708706
+vert count = 8730857
+part 3 edge count = 46719167
+vert count = 8730857
+part 4 edge count = 46719602
+vert count = 8730857
+part 5 edge count = 46719129
+vert count = 8730857
+part 6 edge count = 46719479
+upperEdgeCount = 327036486
+merge version tc = 223127577
+total time = 11.7754 secondes
+time of io = 5.14845
+time of tc = 6.61922
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/2d
+./script: line 3: 16350 Segmentation fault      ./tc ~/data/friendster/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/2d
+./script: line 4: 16351 Segmentation fault      ./tc ~/data/twitter/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/2d
+./script: line 5: 16352 Segmentation fault      ./tc ~/data/twitter_mpi/2d
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/2d
+partition number = 6
+vert count = 11196007
+part 0 edge count = 43063325
+vert count = 11196007
+part 1 edge count = 43062714
+vert count = 11196007
+part 2 edge count = 43062925
+vert count = 11196007
+part 3 edge count = 43062977
+vert count = 11196007
+part 4 edge count = 43063089
+vert count = 11196007
+part 5 edge count = 43062862
+upperEdgeCount = 258377892
+merge version tc = 10494607772
+total time = 11.1265 secondes
+time of io = 3.64603
+time of tc = 7.47605
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/2d
+partition number = 5
+vert count = 3999983
+part 0 edge count = 50619455
+vert count = 3999983
+part 1 edge count = 50619061
+vert count = 3999983
+part 2 edge count = 50621878
+vert count = 3999983
+part 3 edge count = 50617684
+vert count = 3999983
+part 4 edge count = 50618057
+upperEdgeCount = 253096135
+merge version tc = 2102949738
+total time = 26.9161 secondes
+time of io = 3.0538
+time of tc = 23.8576
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/2d
+partition number = 5
+vert count = 4000000
+part 0 edge count = 51199200
+vert count = 4000000
+part 1 edge count = 51199241
+vert count = 4000000
+part 2 edge count = 51199143
+vert count = 4000000
+part 3 edge count = 51199277
+vert count = 4000000
+part 4 edge count = 51199059
+upperEdgeCount = 255995920
+merge version tc = 349162
+total time = 11.7091 secondes
+time of io = 3.27606
+time of tc = 8.42817
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/2d
+partition number = 5
+vert count = 4194303
+part 0 edge count = 48419157
+vert count = 4194303
+part 1 edge count = 48421403
+vert count = 4194303
+part 2 edge count = 48382082
+vert count = 4194303
+part 3 edge count = 48408278
+vert count = 4194303
+part 4 edge count = 48406703
+upperEdgeCount = 242037623
+merge version tc = 37179588107
+total time = 60.5982 secondes
+time of io = 2.95051
+time of tc = 57.6414
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/2d
+./script: line 10: 16666 Segmentation fault      ./tc ~/data/kron2/2d

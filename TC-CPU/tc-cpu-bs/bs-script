@@ -1,0 +1,10 @@
+./tc-bs ~/data/facebook/
+./tc-bs ~/data/orkut/
+./tc-bs ~/data/friendster/
+./tc-bs ~/data/twitter/
+./tc-bs ~/data/twitter_mpi/
+./tc-bs ~/data/wikipedia_link_en/
+./tc-bs ~/data/RMAT/
+./tc-bs ~/data/random/
+./tc-bs ~/data/kron1/
+./tc-bs ~/data/kron2/

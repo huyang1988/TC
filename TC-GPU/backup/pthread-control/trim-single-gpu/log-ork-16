@@ -1,0 +1,18 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+GPU  NUMBER = 1
+PART NUMBER = 6
+rank by degree
+upper Edge Count= 326898941
+total count 223127466
+total time  19.9147 seconds
+total count 223127466
+total time  19.7117 seconds
+total count 223127466
+total time  20.2741 seconds
+total count 223127466
+total time  20.6094 seconds
+total count 223127466
+total time  20.4253 seconds
+merge average time of 5 round = 20.187

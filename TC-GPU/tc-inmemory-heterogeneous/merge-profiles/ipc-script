@@ -1,0 +1,7 @@
+#nvprof --print-gpu-trace --metrics ipc ./tc ~/data/facebook/
+#nvprof --print-gpu-trace --metrics ipc ./tc ~/data/orkut/
+#nvprof --print-gpu-trace --metrics ipc ./tc ~/data/wikipedia_link_en/
+#nvprof --print-gpu-trace --metrics ipc ./tc ~/data/RMAT/
+#nvprof --print-gpu-trace --metrics ipc ./tc ~/data/random/
+nvprof --print-gpu-trace --metrics ipc ./tc ~/data/kron1/
+nvprof --print-gpu-trace --metrics ipc ./tc ~/data/kron2/

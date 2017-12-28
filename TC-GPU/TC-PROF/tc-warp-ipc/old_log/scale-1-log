@@ -1,0 +1,42 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 327037487
+upper Edge Count= 53565818
+part 0 edge 53565818
+GPU 0 part 0
+gpu binary count=52967
+total count 52967
+total time  1.54021 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 2586147869
+upper Edge Count= 1181837050
+part 0 edge 1181837050
+out of memory in scan.cu at line 473
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 1468365182
+upper Edge Count= 750980662
+part 0 edge 750980662
+out of memory in scan.cu at line 474
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 1963263821
+upper Edge Count= 737774237
+part 0 edge 737774237
+out of memory in scan.cu at line 474
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 1468365182
+upper Edge Count= 1034358881
+part 0 edge 1034358881
+out of memory in scan.cu at line 473
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 340309824
+upper Edge Count= 138188911
+part 0 edge 138188911
+GPU 0 part 0
+gpu binary count=6413206120
+total count 6413206120
+total time  6.27736 seconds

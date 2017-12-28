@@ -1,0 +1,8 @@
+./tc-bs ~/data/facebook/
+./tc-bs ~/data/orkut/
+./tc-bs ~/data/friendster/
+./tc-bs ~/data/twitter/
+./tc-merge ~/data/facebook/
+./tc-merge ~/data/orkut/
+./tc-merge ~/data/friendster/
+./tc-merge ~/data/twitter/

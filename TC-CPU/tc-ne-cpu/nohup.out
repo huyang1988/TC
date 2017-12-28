@@ -1,0 +1,77 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+no edge reduction
+calculate
+branch free bs version tc = 3145181295
+total time = 75.6149 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+no edge reduction
+calculate
+branch free bs version tc = 223127577
+total time = 256.824 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+no edge reduction
+calculate
+branch free bs version tc = 4176922719
+total time = 483.709 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+no edge reduction
+calculate
+branch free bs version tc = 34824916864
+total time = 1522.98 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+no edge reduction
+calculate
+branch free bs version tc = 10494607772
+total time = 89.2624 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+no edge reduction
+calculate
+branch free bs version tc = 2102949738
+total time = 366.645 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+no edge reduction
+calculate
+branch free bs version tc = 349162
+total time = 31.1603 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+no edge reduction
+calculate
+branch free bs version tc = 37179588107
+total time = 1037.82 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+no edge reduction
+calculate
+branch free bs version tc = 22535831016
+total time = 1403.81 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_directed/
+vert:52579682  edge: 1963263508
+no edge reduction
+calculate
+branch free bs version tc = 40129793888
+total time = 1246.08 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_directed/
+vert:52579682  edge: 1963263508
+no edge reduction
+calculate
+validation version tc = 240778763329
+total time = 877.829 secondes

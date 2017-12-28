@@ -1,0 +1,10 @@
+total machine # is 1
+my rank is 0
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 2405026092
+upper Edge Count= 1202513046
+rank 0 count 34824916864
+total count from all machine = 34824916864
+total time of all machine = 106.161
+average time of 5 round = 106.161

@@ -1,0 +1,10 @@
+./tc-block ~/data/facebook/
+./tc-block ~/data/orkut/
+./tc-block ~/data/friendster/
+./tc-block ~/data/twitter/
+./tc-block ~/data/twitter_mpi/
+./tc-block ~/data/wikipedia_link_en/
+./tc-block ~/data/RMAT/
+./tc-block ~/data/random/
+./tc-block ~/data/kron1/
+./tc-block ~/data/kron2/

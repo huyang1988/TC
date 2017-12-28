@@ -1,0 +1,134 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+no edge reduction
+total count 3145181295
+total time  32.2062 seconds
+total count 3145181295
+total time  30.8604 seconds
+total count 3145181295
+total time  30.8797 seconds
+total count 3145181295
+total time  30.8227 seconds
+total count 3145181295
+total time  31.2724 seconds
+average time of 5 round = 31.2083
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+no edge reduction
+total count 223127577
+total time  47.8566 seconds
+total count 223127577
+total time  47.0467 seconds
+total count 223127577
+total time  46.7979 seconds
+total count 223127577
+total time  46.7605 seconds
+total count 223127577
+total time  46.6748 seconds
+average time of 5 round = 47.0273
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+no edge reduction
+out of memory in scan.cu at line 483
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+no edge reduction
+total count 34824916864
+total time  281.114 seconds
+total count 34824916864
+total time  277.182 seconds
+total count 34824916864
+total time  285.567 seconds
+total count 34824916864
+total time  283.195 seconds
+total count 34824916864
+total time  279.803 seconds
+average time of 5 round = 281.372
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+no edge reduction
+out of memory in scan.cu at line 483
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_rv/
+vert:61578403  edge: 2405026092
+./script: line 6: 12181 Terminated              ./tc ~/data/twitter_rv/
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+no edge reduction
+total count 10494607772
+total time  24.126 seconds
+total count 10494607772
+total time  22.8736 seconds
+total count 10494607772
+total time  22.8336 seconds
+total count 10494607772
+total time  22.7756 seconds
+total count 10494607772
+total time  22.919 seconds
+average time of 5 round = 23.1056
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+no edge reduction
+total count 2102949738
+total time  60.7637 seconds
+total count 2102949738
+total time  59.9211 seconds
+total count 2102949738
+total time  59.4649 seconds
+total count 2102949738
+total time  58.637 seconds
+total count 2102949738
+total time  59.2178 seconds
+average time of 5 round = 59.6009
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+no edge reduction
+total count 349162
+total time  13.4274 seconds
+total count 349162
+total time  11.9967 seconds
+total count 349162
+total time  12.0806 seconds
+total count 349162
+total time  12.0454 seconds
+total count 349162
+total time  12.1287 seconds
+average time of 5 round = 12.3358
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+no edge reduction
+total count 37179588107
+total time  130.426 seconds
+total count 37179588107
+total time  130.9 seconds
+total count 37179588107
+total time  130.59 seconds
+total count 37179588107
+total time  128.567 seconds
+total count 37179588107
+total time  127.533 seconds
+average time of 5 round = 129.603
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+no edge reduction
+total count 22535831016
+total time  204.759 seconds
+total count 22535831016
+total time  201.647 seconds
+total count 22535831016
+total time  201.432 seconds
+total count 22535831016
+total time  202.876 seconds
+total count 22535831016
+total time  202.394 seconds
+average time of 5 round = 202.621

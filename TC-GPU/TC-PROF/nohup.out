@@ -1,0 +1,828 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+cache counter!
+upper Edge Count= 620502881
+total count 3145181295
+total time  8.97093 seconds
+total mem reads  744136724887
+total divergence 84800730650
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+cache counter!
+upper Edge Count= 327036486
+total count 223127577
+total time  5.97553 seconds
+total mem reads  411035027493
+total divergence 77786210209
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+cache counter!
+upper Edge Count= 1811849342
+total count 4176922719
+total time  28.3014 seconds
+total mem reads  2409451070008
+total divergence 806732455929
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+cache counter!
+upper Edge Count= 1202513046
+total count 34824916864
+total time  58.0708 seconds
+total mem reads  2266158316145
+total divergence 1689022812260
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+cache counter!
+upper Edge Count= 1614106187
+total count 55428217664
+total time  71.8485 seconds
+total mem reads  3201207619335
+total divergence 2540294817341
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+cache counter!
+upper Edge Count= 258377892
+total count 10494607772
+total time  5.57048 seconds
+total mem reads  341575326749
+total divergence 121645087780
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+cache counter!
+upper Edge Count= 253096135
+total count 2102949738
+total time  9.60889 seconds
+total mem reads  521214940417
+total divergence 487202691246
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+cache counter!
+upper Edge Count= 255995920
+total count 349162
+total time  4.52665 seconds
+total mem reads  315462627132
+total divergence 62478113012
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+cache counter!
+upper Edge Count= 242037623
+total count 37179588107
+total time  16.9742 seconds
+total mem reads  910421679695
+total divergence 1245599426195
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+cache counter!
+upper Edge Count= 523611003
+total count 22535831016
+total time  21.9105 seconds
+total mem reads  1327282787661
+total divergence 1437728767185
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+==6615== NVPROF is profiling process 6615, command: ./tc-warp-ipc/tc /home/huyang/data/facebook/
+==6615== Profiling application: ./tc-warp-ipc/tc /home/huyang/data/facebook/
+upper Edge Count= 620502881
+total count 3145181295
+total time  39.2356 seconds
+==6615== Profiling result:
+==6615== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    2.493331    2.852896    2.610728
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036526    0.037166    0.036860
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+==6663== NVPROF is profiling process 6663, command: ./tc-warp-ipc/tc /home/huyang/data/orkut/
+==6663== Profiling application: ./tc-warp-ipc/tc /home/huyang/data/orkut/
+upper Edge Count= 327036486
+total count 223127577
+total time  21.7436 seconds
+==6663== Profiling result:
+==6663== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    1.600305    2.849434    2.163648
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036651    0.037404    0.037027
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+==6681== NVPROF is profiling process 6681, command: ./tc-warp-ipc/tc /home/huyang/data/friendster/
+==6681== Profiling application: ./tc-warp-ipc/tc /home/huyang/data/friendster/
+upper Edge Count= 1811849342
+total count 4176922719
+total time  127.603 seconds
+==6681== Profiling result:
+==6681== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    2.153482    2.870009    2.683170
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036697    0.037451    0.037084
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+==6757== NVPROF is profiling process 6757, command: ./tc-warp-ipc/tc /home/huyang/data/twitter/
+==6757== Profiling application: ./tc-warp-ipc/tc /home/huyang/data/twitter/
+upper Edge Count= 1202513046
+total count 34824916864
+total time  132.875 seconds
+==6757== Profiling result:
+==6757== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         31                                       ipc                              Executed IPC    2.116632    2.736539    2.435622
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036556    0.037659    0.037192
+==6757== Warning: One or more events or metrics overflowed. Rerun with "--print-gpu-trace" for detail.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+==6842== NVPROF is profiling process 6842, command: ./tc-warp-ipc/tc /home/huyang/data/twitter_mpi/
+==6842== Profiling application: ./tc-warp-ipc/tc /home/huyang/data/twitter_mpi/
+upper Edge Count= 1614106187
+total count 55428217664
+total time  183.137 seconds
+==6842== Profiling result:
+==6842== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         28                                       ipc                              Executed IPC    1.596826    2.685772    2.186916
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036883    0.037462    0.037132
+==6842== Warning: One or more events or metrics overflowed. Rerun with "--print-gpu-trace" for detail.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+==7002== NVPROF is profiling process 7002, command: ./tc-warp-ipc/tc /home/huyang/data/wikipedia_link_en/
+==7002== Profiling application: ./tc-warp-ipc/tc /home/huyang/data/wikipedia_link_en/
+upper Edge Count= 258377892
+total count 10494607772
+total time  20.7491 seconds
+==7002== Profiling result:
+==7002== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    2.442267    2.809576    2.673696
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036862    0.037396    0.037149
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+==7035== NVPROF is profiling process 7035, command: ./tc-warp-ipc/tc /home/huyang/data/RMAT/
+==7035== Profiling application: ./tc-warp-ipc/tc /home/huyang/data/RMAT/
+upper Edge Count= 253096135
+total count 2102949738
+total time  31.2865 seconds
+==7035== Profiling result:
+==7035== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    2.751096    2.973807    2.910979
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036748    0.037338    0.037095
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+==7065== NVPROF is profiling process 7065, command: ./tc-warp-ipc/tc /home/huyang/data/random/
+==7065== Profiling application: ./tc-warp-ipc/tc /home/huyang/data/random/
+upper Edge Count= 255995920
+total count 349162
+total time  18.1824 seconds
+==7065== Profiling result:
+==7065== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    2.867927    2.950337    2.917329
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036890    0.037516    0.037303
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+==7098== NVPROF is profiling process 7098, command: ./tc-warp-ipc/tc /home/huyang/data/kron1/
+==7098== Profiling application: ./tc-warp-ipc/tc /home/huyang/data/kron1/
+upper Edge Count= 242037623
+total count 37179588107
+total time  59.506 seconds
+==7098== Profiling result:
+==7098== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    2.515411    2.692340    2.619184
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036849    0.037333    0.037138
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+==7129== NVPROF is profiling process 7129, command: ./tc-warp-ipc/tc /home/huyang/data/kron2/
+==7129== Profiling application: ./tc-warp-ipc/tc /home/huyang/data/kron2/
+upper Edge Count= 523611003
+total count 22535831016
+total time  83.0242 seconds
+==7129== Profiling result:
+==7129== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    2.561258    2.764843    2.687512
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036848    0.037404    0.037164
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+==7196== NVPROF is profiling process 7196, command: ./tc-warp-nipc/tc /home/huyang/data/facebook/
+==7196== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/facebook/
+upper Edge Count= 620502881
+total count 3145181295
+total time  34.2694 seconds
+==7196== Profiling result:
+==7196== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (0)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.111342    2.223634    2.175206
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036146    0.036594    0.036369
+Device "Tesla K40c (1)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.033970    2.213986    2.145488
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036392    0.036938    0.036623
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.116607    2.263484    2.157200
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036660    0.036878    0.036749
+Device "Tesla K40c (3)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.074484    2.243260    2.137714
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036257    0.036454    0.036337
+Device "Tesla K40c (4)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.097511    2.246388    2.141753
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036320    0.036916    0.036609
+Device "Tesla K40c (5)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.074636    2.248957    2.112533
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036449    0.037245    0.036967
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+==7276== NVPROF is profiling process 7276, command: ./tc-warp-nipc/tc /home/huyang/data/orkut/
+==7276== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/orkut/
+upper Edge Count= 327036486
+total count 223127577
+total time  21.8746 seconds
+==7276== Profiling result:
+==7276== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (0)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.819257    2.102857    1.955563
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036625    0.036837    0.036755
+Device "Tesla K40c (1)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.273182    1.903835    1.558452
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036481    0.036718    0.036589
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.238095    1.962341    1.609935
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.037055    0.037299    0.037183
+Device "Tesla K40c (3)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.348127    2.173673    1.775152
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036380    0.036667    0.036499
+Device "Tesla K40c (4)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.355053    2.303751    1.784193
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036807    0.036936    0.036882
+Device "Tesla K40c (5)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.452312    2.326011    1.785594
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036939    0.037219    0.037084
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+==7308== NVPROF is profiling process 7308, command: ./tc-warp-nipc/tc /home/huyang/data/friendster/
+==7308== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/friendster/
+upper Edge Count= 1811849342
+total count 4176922719
+total time  115.043 seconds
+==7308== Profiling result:
+==7308== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (0)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.013736    2.163612    2.114171
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036504    0.036809    0.036576
+Device "Tesla K40c (1)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.093093    2.251625    2.186686
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036413    0.036732    0.036604
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.104409    2.234290    2.175135
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036686    0.036961    0.036837
+Device "Tesla K40c (3)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.048780    2.220915    2.163027
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036335    0.036631    0.036447
+Device "Tesla K40c (4)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.928793    2.179391    2.072996
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036552    0.036791    0.036721
+Device "Tesla K40c (5)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.803116    2.204145    1.998083
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036924    0.037189    0.037067
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+==7401== NVPROF is profiling process 7401, command: ./tc-warp-nipc/tc /home/huyang/data/twitter/
+==7401== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/twitter/
+upper Edge Count= 1202513046
+total count 34824916864
+total time  128.595 seconds
+==7401== Profiling result:
+==7401== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (0)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          5                                       ipc                              Executed IPC    1.843272    2.205456    2.042855
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036676    0.037026    0.036813
+Device "Tesla K40c (1)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          3                                       ipc                              Executed IPC    1.802889    1.899721    1.862940
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036206    0.036563    0.036367
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          4                                       ipc                              Executed IPC    1.726264    1.845919    1.785829
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036760    0.037281    0.037030
+Device "Tesla K40c (3)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.882725    2.060527    1.994955
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036185    0.036624    0.036370
+Device "Tesla K40c (4)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.783845    2.033465    1.951019
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036776    0.037044    0.036926
+Device "Tesla K40c (5)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.803056    1.919814    1.857975
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.037151    0.037315    0.037226
+==7401== Warning: One or more events or metrics overflowed. Rerun with "--print-gpu-trace" for detail.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+==7474== NVPROF is profiling process 7474, command: ./tc-warp-nipc/tc /home/huyang/data/twitter_mpi/
+==7474== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/twitter_mpi/
+upper Edge Count= 1614106187
+total count 55428217664
+total time  180.095 seconds
+==7474== Profiling result:
+==7474== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (0)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          5                                       ipc                              Executed IPC    1.468744    2.159201    1.886671
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036575    0.036751    0.036641
+Device "Tesla K40c (1)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          3                                       ipc                              Executed IPC    1.540121    1.918671    1.717975
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036397    0.036742    0.036611
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          3                                       ipc                              Executed IPC    1.308402    1.914844    1.699005
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036735    0.037366    0.036949
+Device "Tesla K40c (3)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          5                                       ipc                              Executed IPC    1.350699    1.995489    1.689444
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036394    0.036788    0.036580
+Device "Tesla K40c (4)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.550786    2.128573    1.833049
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036629    0.036908    0.036781
+Device "Tesla K40c (5)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.650740    1.881062    1.756185
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036915    0.037200    0.037073
+==7474== Warning: One or more events or metrics overflowed. Rerun with "--print-gpu-trace" for detail.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+==7642== NVPROF is profiling process 7642, command: ./tc-warp-nipc/tc /home/huyang/data/wikipedia_link_en/
+==7642== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/wikipedia_link_en/
+upper Edge Count= 258377892
+total count 10494607772
+total time  20.2179 seconds
+==7642== Profiling result:
+==7642== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (0)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.129309    2.208422    2.182617
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036559    0.036798    0.036702
+Device "Tesla K40c (1)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.165264    2.248872    2.195653
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036228    0.036758    0.036468
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.156851    2.263312    2.218959
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036811    0.037055    0.036920
+Device "Tesla K40c (3)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.071167    2.313182    2.209984
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036250    0.036610    0.036475
+Device "Tesla K40c (4)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.105492    2.283338    2.197830
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036604    0.036812    0.036699
+Device "Tesla K40c (5)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.091284    2.193822    2.155314
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036805    0.037243    0.036967
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+==7675== NVPROF is profiling process 7675, command: ./tc-warp-nipc/tc /home/huyang/data/RMAT/
+==7675== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/RMAT/
+upper Edge Count= 253096135
+total count 2102949738
+total time  32.6499 seconds
+==7675== Profiling result:
+==7675== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (0)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.336844    2.365176    2.349803
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036533    0.036811    0.036685
+Device "Tesla K40c (1)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.246695    2.428187    2.347245
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036301    0.036540    0.036415
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.254188    2.381552    2.331906
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036475    0.036938    0.036775
+Device "Tesla K40c (3)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.321150    2.425823    2.372402
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.035897    0.036380    0.036201
+Device "Tesla K40c (4)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.350166    2.434149    2.398787
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036580    0.036763    0.036679
+Device "Tesla K40c (5)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.217061    2.367980    2.306273
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036834    0.037203    0.037049
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+==7709== NVPROF is profiling process 7709, command: ./tc-warp-nipc/tc /home/huyang/data/random/
+==7709== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/random/
+upper Edge Count= 255995920
+total count 349162
+total time  17.4332 seconds
+==7709== Profiling result:
+==7709== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (0)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.305301    2.410007    2.347595
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036737    0.036867    0.036798
+Device "Tesla K40c (1)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.322063    2.411488    2.360008
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036298    0.036825    0.036549
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.391699    2.458213    2.427551
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.037049    0.037293    0.037166
+Device "Tesla K40c (3)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.276089    2.439380    2.374369
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036236    0.036618    0.036346
+Device "Tesla K40c (4)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.330711    2.441453    2.367212
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036456    0.037230    0.036875
+Device "Tesla K40c (5)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.383219    2.439907    2.406770
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036902    0.037239    0.037101
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+==7743== NVPROF is profiling process 7743, command: ./tc-warp-nipc/tc /home/huyang/data/kron1/
+==7743== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/kron1/
+upper Edge Count= 242037623
+total count 37179588107
+total time  63.6829 seconds
+==7743== Profiling result:
+==7743== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (0)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.078502    2.188325    2.127211
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036375    0.036732    0.036593
+Device "Tesla K40c (1)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    1.987979    2.203122    2.124236
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036488    0.036651    0.036580
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.056645    2.131950    2.094959
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036598    0.036980    0.036721
+Device "Tesla K40c (3)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.027580    2.191558    2.140942
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036407    0.036714    0.036569
+Device "Tesla K40c (4)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.102562    2.209540    2.167013
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036452    0.036671    0.036546
+Device "Tesla K40c (5)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.134152    2.198380    2.161637
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036862    0.037214    0.037058
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+==7782== NVPROF is profiling process 7782, command: ./tc-warp-nipc/tc /home/huyang/data/kron2/
+==7782== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/kron2/
+upper Edge Count= 523611003
+total count 22535831016
+total time  87.928 seconds
+==7782== Profiling result:
+==7782== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (0)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.061163    2.215962    2.135630
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036559    0.037041    0.036788
+Device "Tesla K40c (1)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.117080    2.236041    2.169389
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036373    0.036892    0.036725
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.066256    2.166894    2.121608
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036978    0.037373    0.037141
+Device "Tesla K40c (3)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.109060    2.174738    2.148112
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036377    0.036805    0.036555
+Device "Tesla K40c (4)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.118046    2.185292    2.156282
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036709    0.037058    0.036877
+Device "Tesla K40c (5)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          6                                       ipc                              Executed IPC    2.114062    2.214032    2.160978
+	Kernel: reduce_kernel2(long*)
+          6                                       ipc                              Executed IPC    0.036788    0.036902    0.036844
+
+
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+==12048== NVPROF is profiling process 12048, command: ./tc-warp-nipc/tc /home/huyang/data/facebook/
+==12048== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/facebook/
+upper Edge Count= 620502881
+total count 3145181295
+total time  30.4274 seconds
+==12048== Profiling result:
+==12048== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    1.986592    2.248480    2.112295
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036440    0.037167    0.036798
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+==12085== NVPROF is profiling process 12085, command: ./tc-warp-nipc/tc /home/huyang/data/orkut/
+==12085== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/orkut/
+upper Edge Count= 327036486
+total count 223127577
+total time  20.1584 seconds
+==12085== Profiling result:
+==12085== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    1.190228    2.302077    1.723438
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036423    0.037157    0.036814
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+==12103== NVPROF is profiling process 12103, command: ./tc-warp-nipc/tc /home/huyang/data/friendster/
+==12103== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/friendster/
+upper Edge Count= 1811849342
+total count 4176922719
+total time  112.921 seconds
+==12103== Profiling result:
+==12103== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    1.801435    2.242781    2.121373
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036770    0.037201    0.037029
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+==12195== NVPROF is profiling process 12195, command: ./tc-warp-nipc/tc /home/huyang/data/twitter/
+==12195== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/twitter/
+upper Edge Count= 1202513046
+total count 34824916864
+total time  126.827 seconds
+==12195== Profiling result:
+==12195== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         30                                       ipc                              Executed IPC    1.726879    2.202534    1.930258
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036832    0.037634    0.037167
+==12195== Warning: One or more events or metrics overflowed. Rerun with "--print-gpu-trace" for detail.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+==12430== NVPROF is profiling process 12430, command: ./tc-warp-nipc/tc /home/huyang/data/twitter_mpi/
+==12430== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/twitter_mpi/
+upper Edge Count= 1614106187
+total count 55428217664
+total time  177.808 seconds
+==12430== Profiling result:
+==12430== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         28                                       ipc                              Executed IPC    1.307300    2.214922    1.784362
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036881    0.037504    0.037133
+==12430== Warning: One or more events or metrics overflowed. Rerun with "--print-gpu-trace" for detail.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+==12600== NVPROF is profiling process 12600, command: ./tc-warp-nipc/tc /home/huyang/data/wikipedia_link_en/
+==12600== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/wikipedia_link_en/
+upper Edge Count= 258377892
+total count 10494607772
+total time  18.3564 seconds
+==12600== Profiling result:
+==12600== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    1.943610    2.320317    2.194919
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036709    0.037351    0.037106
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+==12628== NVPROF is profiling process 12628, command: ./tc-warp-nipc/tc /home/huyang/data/RMAT/
+==12628== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/RMAT/
+upper Edge Count= 253096135
+total count 2102949738
+total time  30.9078 seconds
+==12628== Profiling result:
+==12628== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    2.203757    2.495432    2.358376
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036395    0.037442    0.037048
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+==12663== NVPROF is profiling process 12663, command: ./tc-warp-nipc/tc /home/huyang/data/random/
+==12663== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/random/
+upper Edge Count= 255995920
+total count 349162
+total time  15.2145 seconds
+==12663== Profiling result:
+==12663== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    2.278030    2.457601    2.391036
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036832    0.037431    0.037163
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+==12693== NVPROF is profiling process 12693, command: ./tc-warp-nipc/tc /home/huyang/data/kron1/
+==12693== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/kron1/
+upper Edge Count= 242037623
+total count 37179588107
+total time  62.0345 seconds
+==12693== Profiling result:
+==12693== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    1.961231    2.221425    2.135298
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036678    0.037376    0.037116
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+==12726== NVPROF is profiling process 12726, command: ./tc-warp-nipc/tc /home/huyang/data/kron2/
+==12726== Profiling application: ./tc-warp-nipc/tc /home/huyang/data/kron2/
+upper Edge Count= 523611003
+total count 22535831016
+total time  86.3398 seconds
+==12726== Profiling result:
+==12726== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+         36                                       ipc                              Executed IPC    2.060354    2.241429    2.160573
+	Kernel: reduce_kernel2(long*)
+         36                                       ipc                              Executed IPC    0.036913    0.037588    0.037173

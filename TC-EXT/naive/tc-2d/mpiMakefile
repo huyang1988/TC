@@ -1,0 +1,18 @@
+exe=mpi_test
+
+cc="$(shell which mpicxx)"
+
+flags=-O3
+
+objs=$(patsubst %.cpp,%.o,$(wildcard *.cpp))
+
+deps = $(wildcard ./*.h)
+
+%.o:%.cpp $(deps)
+	$(cc) -c $< -o $@ $(flags)
+
+$(exe):$(objs)
+	$(cc) $(objs) -o $(exe) $(flags)
+
+clean:
+	rm -rf $(exe) *.o

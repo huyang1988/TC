@@ -1,0 +1,130 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+rank by degree
+upper Edge Count= 620502881
+calculate
+hybrid bs version tc = 3145181295
+total time = 6.61179 secondes
+hybrid bs version tc = 3145181295
+total time = 6.68685 secondes
+hybrid bs version tc = 3145181295
+total time = 6.46945 secondes
+average time of 3 round = 6.58936 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+rank by degree
+upper Edge Count= 327036486
+calculate
+hybrid bs version tc = 223127577
+total time = 6.06745 secondes
+hybrid bs version tc = 223127577
+total time = 5.94358 secondes
+hybrid bs version tc = 223127577
+total time = 5.77706 secondes
+average time of 3 round = 5.92936 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+rank by degree
+upper Edge Count= 1811849342
+calculate
+hybrid bs version tc = 4176922719
+total time = 50.1179 secondes
+hybrid bs version tc = 4176922719
+total time = 49.061 secondes
+hybrid bs version tc = 4176922719
+total time = 48.9876 secondes
+average time of 3 round = 49.3888 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+rank by degree
+upper Edge Count= 1202513046
+calculate
+hybrid bs version tc = 34824916864
+total time = 69.9237 secondes
+hybrid bs version tc = 34824916864
+total time = 69.3519 secondes
+hybrid bs version tc = 34824916864
+total time = 69.3421 secondes
+average time of 3 round = 69.5392 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+rank by degree
+upper Edge Count= 1614106187
+calculate
+hybrid bs version tc = 55428217664
+total time = 102.582 secondes
+hybrid bs version tc = 55428217664
+total time = 102.247 secondes
+hybrid bs version tc = 55428217664
+total time = 102.259 secondes
+average time of 3 round = 102.363 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+rank by degree
+upper Edge Count= 258377892
+calculate
+hybrid bs version tc = 10494607772
+total time = 5.38158 secondes
+hybrid bs version tc = 10494607772
+total time = 5.29458 secondes
+hybrid bs version tc = 10494607772
+total time = 5.3198 secondes
+average time of 3 round = 5.33199 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+rank by degree
+upper Edge Count= 253096135
+calculate
+hybrid bs version tc = 2102949738
+total time = 21.9556 secondes
+hybrid bs version tc = 2102949738
+total time = 21.7245 secondes
+hybrid bs version tc = 2102949738
+total time = 21.7227 secondes
+average time of 3 round = 21.8009 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+rank by degree
+upper Edge Count= 255995920
+calculate
+hybrid bs version tc = 349162
+total time = 4.61815 secondes
+hybrid bs version tc = 349162
+total time = 4.57046 secondes
+hybrid bs version tc = 349162
+total time = 4.47237 secondes
+average time of 3 round = 4.55366 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+rank by degree
+upper Edge Count= 242037623
+calculate
+hybrid bs version tc = 37179588107
+total time = 52.1733 secondes
+hybrid bs version tc = 37179588107
+total time = 51.9968 secondes
+hybrid bs version tc = 37179588107
+total time = 51.9922 secondes
+average time of 3 round = 52.0541 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+rank by degree
+upper Edge Count= 523611003
+calculate
+hybrid bs version tc = 22535831016
+total time = 67.7201 secondes
+hybrid bs version tc = 22535831016
+total time = 67.1977 secondes
+hybrid bs version tc = 22535831016
+total time = 67.2205 secondes
+average time of 3 round = 67.3794 secondes

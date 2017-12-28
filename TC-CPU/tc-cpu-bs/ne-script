@@ -1,0 +1,24 @@
+./tc-ne-bs ~/data/facebook/
+./tc-ne-bs ~/data/orkut/
+./tc-ne-bs ~/data/friendster/
+./tc-ne-bs ~/data/twitter/
+./tc-ne-merge ~/data/facebook/
+./tc-ne-merge ~/data/orkut/
+./tc-ne-merge ~/data/friendster/
+./tc-ne-merge ~/data/twitter/
+
+#./tc-ne-bs ~/data/twitter_mpi/
+#./tc-ne-bs ~/data/twitter_rv/
+#./tc-ne-bs ~/data/wikipedia_link_en/
+#./tc-ne-bs ~/data/RMAT/
+#./tc-ne-bs ~/data/random/
+#./tc-ne-bs ~/data/kron1/
+#./tc-ne-bs ~/data/kron2/
+
+#./tc-ne-merge ~/data/twitter_mpi/
+#./tc-ne-merge ~/data/twitter_rv/
+#./tc-ne-merge ~/data/wikipedia_link_en/
+#./tc-ne-merge ~/data/RMAT/
+#./tc-ne-merge ~/data/random/
+#./tc-ne-merge ~/data/kron1/
+#./tc-ne-merge ~/data/kron2/

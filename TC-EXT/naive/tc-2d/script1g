@@ -1,0 +1,6 @@
+#./tc ~/bigdata/orkut/1G/
+./tc ~/bigdata/twitter/1G/
+./tc ~/bigdata/twitter_mpi/1G/
+./tc ~/bigdata/friendster/1G/
+./tc ~/bigdata/RMAT-27/1G/
+./tc ~/bigdata/RMAT-28/1G/

@@ -1,0 +1,7 @@
+#nvprof --print-gpu-trace --metrics gld_transactions ./tc ~/data/facebook/
+#nvprof --print-gpu-trace --metrics gld_transactions ./tc ~/data/orkut/
+#nvprof --print-gpu-trace --metrics gld_transactions ./tc ~/data/wikipedia_link_en/
+nvprof --print-gpu-trace --metrics gld_transactions ./tc ~/data/RMAT/
+#nvprof --print-gpu-trace --metrics gld_transactions ./tc ~/data/random/
+nvprof --print-gpu-trace --metrics gld_transactions ./tc ~/data/kron1/
+nvprof --print-gpu-trace --metrics gld_transactions ./tc ~/data/kron2/

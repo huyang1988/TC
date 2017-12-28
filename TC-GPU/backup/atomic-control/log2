@@ -1,0 +1,220 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+GPU  NUMBER = 6
+PART NUMBER = 2
+rank by degree
+K=905924671
+upper Edge Count= 1811849342
+pre-processing time = 18.9799
+GPU 4 time = 14.3532
+GPU 3 time = 14.9624
+CPU  time = 16.0519
+GPU 1 time = 17.1344
+GPU 5 time = 17.138
+GPU 2 time = 17.3785
+GPU 0 time = 17.4571
+total count 4176922719
+total time  17.4571 seconds
+GPU 5 time = 9.47787
+GPU 3 time = 11.1459
+GPU 4 time = 12.5868
+GPU 1 time = 12.7425
+GPU 2 time = 12.8774
+GPU 0 time = 14.5277
+CPU  time = 15.5584
+total count 4176922719
+total time  15.5586 seconds
+GPU 4 time = 10.1253
+GPU 5 time = 10.6516
+GPU 3 time = 11.6296
+GPU 2 time = 12.5968
+GPU 1 time = 12.987
+GPU 0 time = 13.0396
+CPU  time = 15.4947
+total count 4176922719
+total time  15.4948 seconds
+GPU 4 time = 10.2089
+GPU 5 time = 10.3047
+GPU 3 time = 11.6033
+GPU 2 time = 12.8758
+GPU 0 time = 12.919
+GPU 1 time = 13.1471
+CPU  time = 15.4899
+total count 4176922719
+total time  15.49 seconds
+GPU 4 time = 10.2134
+GPU 5 time = 11.4055
+GPU 3 time = 11.5665
+GPU 2 time = 12.8223
+GPU 0 time = 13.0192
+GPU 1 time = 13.2137
+CPU  time = 15.5368
+total count 4176922719
+total time  15.5368 seconds
+merge average time of 5 round = 15.9075
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+GPU  NUMBER = 6
+PART NUMBER = 2
+rank by degree
+K=807053093
+upper Edge Count= 1614106187
+pre-processing time = 13.6591
+CPU  time = 19.6961
+GPU 5 time = 21.5813
+GPU 4 time = 23.9051
+GPU 3 time = 24.9681
+GPU 2 time = 30.1164
+GPU 1 time = 34.854
+GPU 0 time = 35.0476
+total count 55428217664
+total time  35.0476 seconds
+GPU 5 time = 15.7162
+GPU 4 time = 18.897
+GPU 3 time = 19.1803
+CPU  time = 19.7204
+GPU 2 time = 25.2867
+GPU 0 time = 28.6168
+GPU 1 time = 29.4834
+total count 55428217664
+total time  29.4836 seconds
+GPU 5 time = 16.027
+GPU 4 time = 18.4437
+GPU 3 time = 18.9452
+CPU  time = 19.7963
+GPU 2 time = 25.1795
+GPU 1 time = 28.9479
+GPU 0 time = 29.3823
+total count 55428217664
+total time  29.3824 seconds
+GPU 5 time = 17.7796
+GPU 4 time = 18.5976
+CPU  time = 19.6396
+GPU 3 time = 19.9348
+GPU 2 time = 24.94
+GPU 0 time = 28.5102
+GPU 1 time = 29.5187
+total count 55428217664
+total time  29.5189 seconds
+GPU 5 time = 17.3557
+GPU 4 time = 18.4288
+CPU  time = 19.599
+GPU 3 time = 20.1851
+GPU 2 time = 25.6078
+GPU 0 time = 27.5684
+GPU 1 time = 30.1661
+total count 55428217664
+total time  30.1663 seconds
+merge average time of 5 round = 30.7198
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+GPU  NUMBER = 6
+PART NUMBER = 2
+rank by degree
+K=905924671
+upper Edge Count= 1811849342
+pre-processing time = 19.1001
+CPU  time = 16.8896
+GPU 4 time = 18.4027
+GPU 0 time = 19.6676
+GPU 1 time = 22.7119
+GPU 5 time = 23.2088
+GPU 3 time = 23.4982
+GPU 2 time = 24.1225
+total count 4176922719
+total time  24.1227 seconds
+GPU 3 time = 15.2444
+GPU 2 time = 16.1249
+GPU 1 time = 16.7191
+GPU 0 time = 16.9295
+CPU  time = 16.9663
+GPU 5 time = 21.0308
+GPU 4 time = 22.7035
+total count 4176922719
+total time  22.7036 seconds
+GPU 2 time = 15.6153
+GPU 5 time = 15.6156
+CPU  time = 16.4716
+GPU 4 time = 20.1212
+GPU 0 time = 22.7084
+GPU 1 time = 23.2175
+GPU 3 time = 23.9225
+total count 4176922719
+total time  23.9226 seconds
+GPU 3 time = 14.54
+GPU 2 time = 15.2992
+GPU 5 time = 15.4577
+GPU 0 time = 16.1777
+CPU  time = 16.9913
+GPU 1 time = 21.8826
+GPU 4 time = 22.9718
+total count 4176922719
+total time  22.9719 seconds
+GPU 3 time = 15.3861
+GPU 2 time = 15.9387
+GPU 5 time = 16.116
+CPU  time = 17.0498
+GPU 0 time = 17.0937
+GPU 1 time = 17.4633
+GPU 4 time = 22.3219
+total count 4176922719
+total time  22.3221 seconds
+merge average time of 5 round = 23.2086
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+GPU  NUMBER = 6
+PART NUMBER = 2
+rank by degree
+K=807053093
+upper Edge Count= 1614106187
+pre-processing time = 13.3502
+CPU  time = 20.0468
+GPU 1 time = 29.691
+GPU 5 time = 31.5478
+GPU 4 time = 31.819
+GPU 0 time = 31.8201
+GPU 2 time = 32.0067
+GPU 3 time = 32.9461
+total count 55428217664
+total time  32.9463 seconds
+CPU  time = 20.0039
+GPU 5 time = 26.8761
+GPU 0 time = 27.3049
+GPU 1 time = 27.5558
+GPU 4 time = 29.2257
+GPU 3 time = 29.4088
+GPU 2 time = 29.5392
+total count 55428217664
+total time  29.5393 seconds
+CPU  time = 20.4246
+GPU 5 time = 25.8869
+GPU 4 time = 26.4634
+GPU 0 time = 26.5832
+GPU 1 time = 27.1757
+GPU 2 time = 27.9766
+GPU 3 time = 28.2459
+total count 55428217664
+total time  28.246 seconds
+CPU  time = 20.3559
+GPU 5 time = 25.8361
+GPU 2 time = 26.4241
+GPU 1 time = 26.4935
+GPU 0 time = 26.7206
+GPU 4 time = 28.0554
+GPU 3 time = 28.6491
+total count 55428217664
+total time  28.6493 seconds
+CPU  time = 20.2212
+GPU 5 time = 25.5464
+GPU 0 time = 25.9202
+GPU 2 time = 26.0112
+GPU 4 time = 28.1744
+GPU 3 time = 29.5017
+GPU 1 time = 30.6275
+total count 55428217664
+total time  30.6276 seconds
+merge average time of 5 round = 30.0017

@@ -1,0 +1,70 @@
+1.663444797590000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.663441747030000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.655920117830000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.008580704090000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.663444797590000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.663441747030000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.655920117830000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.008580704090000e+11
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+GPU  NUMBER = 1
+PART NUMBER = 1
+rank by degree
+upper Edge Count= 523611003
+pre-processing time = 4.63712
+==12064== NVPROF is profiling process 12064, command: ./tc /home/huyang/data/kron2/
+GPU 0 time = 532.062
+total count 22535831016
+total time  532.062 seconds
+GPU 0 time = 527.196
+total count 22535831016
+total time  527.196 seconds
+merge average time of 5 round = 529.629
+==12064== Profiling application: ./tc /home/huyang/data/kron2/
+==12064== Profiling result:
+         Device          Context           Stream                Kernel  Instructions Executed
+                                                                                              
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.168280654490000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.172474346170000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.175052897700000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.168141176180000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.173464495100000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.156973336320000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.181941737630000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  9.322219787800000e+10
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.168280654490000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.172474346170000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.175052897700000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.168141176180000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.173464495100000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.156973336320000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  1.181941737630000e+11
+ Tesla K40c (2)                1                7     init_count(long*)                     56
+ Tesla K40c (2)                1                7  warp_merge_kernel(ED  9.322219787800000e+10

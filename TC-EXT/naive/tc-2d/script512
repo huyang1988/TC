@@ -1,0 +1,6 @@
+#./tc ~/bigdata/orkut/512M/
+./tc ~/bigdata/twitter/512M/
+./tc ~/bigdata/twitter_mpi/512M/
+./tc ~/bigdata/friendster/512M/
+./tc ~/bigdata/RMAT-27/512M/
+./tc ~/bigdata/RMAT-28/512M/

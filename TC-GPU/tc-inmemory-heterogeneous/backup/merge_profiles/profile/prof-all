@@ -1,0 +1,147 @@
+======== Warning: Metric "branch_efficiency" cannot be found on device 0.
+======== Warning: Metric "branch_efficiency" cannot be found on device 1.
+======== Warning: Metric "branch_efficiency" cannot be found on device 2.
+======== Warning: Metric "branch_efficiency" cannot be found on device 3.
+======== Warning: Metric "branch_efficiency" cannot be found on device 4.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 4.37821 secondes
+==11098== NVPROF is profiling process 11098, command: ./tc /home/huyang/data/facebook/
+==11098== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 3145181295
+GPU time = 1010.95 seconds
+total time = 1012.5 secondes
+==11098== Profiling application: ./tc /home/huyang/data/facebook/
+==11098== Profiling result:
+         Device          Context           Stream                Kernel  Achieved Occupancy  Global Memory Load Efficiency  L1 Global Hit Rate
+                                                                                                                         %                   %
+ Tesla K40c (1)                1                7  warp_merge_kernel(in          <OVERFLOW>                          23.10                0.00
+ Tesla K40c (1)                1                7  reduce_kernel2(long*            0.015625                           6.25               93.75
+======== Warning: Metric "branch_efficiency" cannot be found on device 0.
+======== Warning: Metric "branch_efficiency" cannot be found on device 1.
+======== Warning: Metric "branch_efficiency" cannot be found on device 2.
+======== Warning: Metric "branch_efficiency" cannot be found on device 3.
+======== Warning: Metric "branch_efficiency" cannot be found on device 4.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.684124 secondes
+==11560== NVPROF is profiling process 11560, command: ./tc /home/huyang/data/orkut/
+==11560== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 223127577
+GPU time = 599.771 seconds
+total time = 600.621 secondes
+==11560== Profiling application: ./tc /home/huyang/data/orkut/
+==11560== Profiling result:
+         Device          Context           Stream                Kernel  Achieved Occupancy  Global Memory Load Efficiency  L1 Global Hit Rate
+                                                                                                                         %                   %
+ Tesla K40c (1)                1                7  warp_merge_kernel(in          <OVERFLOW>                          16.13                0.00
+ Tesla K40c (1)                1                7  reduce_kernel2(long*            0.015626                           6.25               93.75
+======== Warning: Metric "branch_efficiency" cannot be found on device 0.
+======== Warning: Metric "branch_efficiency" cannot be found on device 1.
+======== Warning: Metric "branch_efficiency" cannot be found on device 2.
+======== Warning: Metric "branch_efficiency" cannot be found on device 3.
+======== Warning: Metric "branch_efficiency" cannot be found on device 4.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 0.875817 secondes
+==11802== NVPROF is profiling process 11802, command: ./tc /home/huyang/data/wikipedia_link_en/
+==11802== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 10494607772
+GPU time = 592.614 seconds
+total time = 593.462 secondes
+==11802== Profiling application: ./tc /home/huyang/data/wikipedia_link_en/
+==11802== Profiling result:
+         Device          Context           Stream                Kernel  Achieved Occupancy  Global Memory Load Efficiency  L1 Global Hit Rate
+                                                                                                                         %                   %
+ Tesla K40c (1)                1                7  warp_merge_kernel(in          <OVERFLOW>                          19.96                0.00
+ Tesla K40c (1)                1                7  reduce_kernel2(long*            0.015624                           6.25               93.75
+======== Warning: Metric "branch_efficiency" cannot be found on device 0.
+======== Warning: Metric "branch_efficiency" cannot be found on device 1.
+======== Warning: Metric "branch_efficiency" cannot be found on device 2.
+======== Warning: Metric "branch_efficiency" cannot be found on device 3.
+======== Warning: Metric "branch_efficiency" cannot be found on device 4.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.568227 secondes
+==12085== NVPROF is profiling process 12085, command: ./tc /home/huyang/data/RMAT/
+==12085== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 2102949738
+GPU time = 1325.53 seconds
+total time = 1326.52 secondes
+==12085== Profiling application: ./tc /home/huyang/data/RMAT/
+==12085== Profiling result:
+         Device          Context           Stream                Kernel  Achieved Occupancy  Global Memory Load Efficiency  L1 Global Hit Rate
+                                                                                                                         %                   %
+ Tesla K40c (1)                1                7  warp_merge_kernel(in          <OVERFLOW>                     <OVERFLOW>                0.00
+ Tesla K40c (1)                1                7  reduce_kernel2(long*            0.015624                           6.25               93.75
+======== Warning: Metric "branch_efficiency" cannot be found on device 0.
+======== Warning: Metric "branch_efficiency" cannot be found on device 1.
+======== Warning: Metric "branch_efficiency" cannot be found on device 2.
+======== Warning: Metric "branch_efficiency" cannot be found on device 3.
+======== Warning: Metric "branch_efficiency" cannot be found on device 4.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 0.808028 secondes
+==12345== NVPROF is profiling process 12345, command: ./tc /home/huyang/data/random/
+==12345== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 349162
+GPU time = 560.768 seconds
+total time = 561.582 secondes
+==12345== Profiling application: ./tc /home/huyang/data/random/
+==12345== Profiling result:
+         Device          Context           Stream                Kernel  Achieved Occupancy  Global Memory Load Efficiency  L1 Global Hit Rate
+                                                                                                                         %                   %
+ Tesla K40c (1)                1                7  warp_merge_kernel(in          <OVERFLOW>                          28.06                0.00
+ Tesla K40c (1)                1                7  reduce_kernel2(long*            0.015625                           6.25               93.75
+======== Warning: Metric "branch_efficiency" cannot be found on device 0.
+======== Warning: Metric "branch_efficiency" cannot be found on device 1.
+======== Warning: Metric "branch_efficiency" cannot be found on device 2.
+======== Warning: Metric "branch_efficiency" cannot be found on device 3.
+======== Warning: Metric "branch_efficiency" cannot be found on device 4.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+upper Edge Count= 242037623
+pre-processing time = 0.485001 secondes
+==12562== NVPROF is profiling process 12562, command: ./tc /home/huyang/data/kron1/
+==12562== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 37179588107
+GPU time = 3109.66 seconds
+total time = 3110.43 secondes
+==12562== Profiling application: ./tc /home/huyang/data/kron1/
+==12562== Profiling result:
+         Device          Context           Stream                Kernel  Achieved Occupancy  Global Memory Load Efficiency  L1 Global Hit Rate
+                                                                                                                         %                   %
+ Tesla K40c (1)                1                7  warp_merge_kernel(in          <OVERFLOW>                     <OVERFLOW>                0.00
+ Tesla K40c (1)                1                7  reduce_kernel2(long*            0.015626                           6.25               93.75
+======== Warning: Metric "branch_efficiency" cannot be found on device 0.
+======== Warning: Metric "branch_efficiency" cannot be found on device 1.
+======== Warning: Metric "branch_efficiency" cannot be found on device 2.
+======== Warning: Metric "branch_efficiency" cannot be found on device 3.
+======== Warning: Metric "branch_efficiency" cannot be found on device 4.
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+upper Edge Count= 523611003
+pre-processing time = 2.99407 secondes
+==13142== NVPROF is profiling process 13142, command: ./tc /home/huyang/data/kron2/
+==13142== Some kernel(s) will be replayed on device 1 in order to collect all events/metrics.
+total count = 22535831016
+GPU time = 4110.84 seconds
+total time = 4112.04 secondes
+==13142== Profiling application: ./tc /home/huyang/data/kron2/
+==13142== Profiling result:
+         Device          Context           Stream                Kernel  Achieved Occupancy  Global Memory Load Efficiency  L1 Global Hit Rate
+                                                                                                                         %                   %
+ Tesla K40c (1)                1                7  warp_merge_kernel(in          <OVERFLOW>                     <OVERFLOW>                0.00
+ Tesla K40c (1)                1                7  reduce_kernel2(long*            0.015625                           6.25               93.75

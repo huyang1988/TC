@@ -1,0 +1,30 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_directed/
+vert:52579682  edge: 1963263821
+no edge reduction
+total count 40129839711
+total time  252.974 seconds
+total count 40129839711
+total time  250.795 seconds
+total count 40129839711
+total time  250.814 seconds
+total count 40129839711
+total time  250.853 seconds
+total count 40129839711
+total time  250.685 seconds
+average time of 5 round = 251.224
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_directed/
+vert:52579682  edge: 1963263821
+no edge reduction
+total count 40129839711
+total time  245.054 seconds
+total count 40129839711
+total time  254.85 seconds
+total count 40129839711
+total time  260.093 seconds
+total count 40129839711
+total time  247.126 seconds
+total count 40129839711
+total time  258.532 seconds
+average time of 5 round = 253.131

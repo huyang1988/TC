@@ -1,0 +1,31 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/huge_graph/friendster/
+vert:68349466  edge: 2586147869
+upper Edge Count= 1885
+k=628
+part 1 cut at 98
+k=1256
+part 2 cut at 109
+part 0 edge 658
+part 1 edge 606
+part 2 edge 621
+GPU 1 part 0
+GPU 1 part 1
+GPU 1 part 2
+gpu binary count=0
+GPU 2 part 0
+GPU 2 part 1
+GPU 0 part 0
+GPU 2 part 2
+gpu binary count=0
+GPU 0 part 1
+GPU 0 part 2
+gpu binary count=0
+total count 0
+total time  7.4889 seconds
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter
+vert:41652230  edge: 1468365182
+upper Edge Count= 750980662
+validation version tc = -1958390228
+total time  347975 seconds

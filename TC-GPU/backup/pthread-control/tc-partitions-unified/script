@@ -1,0 +1,12 @@
+./tc-warp ~/data/facebook/
+./tc-warp ~/data/orkut/
+./tc-warp ~/data/friendster/
+./tc-warp ~/data/twitter/
+./tc-warp ~/data/twitter_mpi/
+./tc-warp ~/data/wikipedia_link_en/
+./tc-warp ~/data/RMAT/
+./tc-warp ~/data/random/
+./tc-warp ~/data/kron1/
+./tc-warp ~/data/kron2/
+
+./block-script

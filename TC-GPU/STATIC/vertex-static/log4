@@ -1,0 +1,491 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 6.14428 secondes
+total count = 3145181295
+GPU time = 9.02012 seconds
+total time = 10.4497 secondes
+total count = 3145181295
+GPU time = 9.12512 seconds
+total time = 9.83871 secondes
+total count = 3145181295
+GPU time = 9.19488 seconds
+total time = 9.91456 secondes
+total count = 3145181295
+GPU time = 9.12904 seconds
+total time = 9.8482 secondes
+total count = 3145181295
+GPU time = 9.09789 seconds
+total time = 9.81438 secondes
+average total time = 9.97312 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.848527 secondes
+total count = 223127577
+GPU time = 9.76574 seconds
+total time = 10.5713 secondes
+total count = 223127577
+GPU time = 9.77741 seconds
+total time = 10.1058 secondes
+total count = 223127577
+GPU time = 9.79707 seconds
+total time = 10.1247 secondes
+total count = 223127577
+GPU time = 9.7843 seconds
+total time = 10.1112 secondes
+total count = 223127577
+GPU time = 9.77526 seconds
+total time = 10.1016 secondes
+average total time = 10.2029 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 1.34395 secondes
+total count = 10494607772
+GPU time = 7.73975 seconds
+total time = 8.43578 secondes
+total count = 10494607772
+GPU time = 7.7918 seconds
+total time = 8.22865 secondes
+total count = 10494607772
+GPU time = 7.86871 seconds
+total time = 8.12434 secondes
+total count = 10494607772
+GPU time = 7.77153 seconds
+total time = 8.02916 secondes
+total count = 10494607772
+GPU time = 7.81692 seconds
+total time = 8.07211 secondes
+average total time = 8.17801 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.641781 secondes
+total count = 2102949738
+GPU time = 23.2601 seconds
+total time = 23.9373 secondes
+total count = 2102949738
+GPU time = 23.564 seconds
+total time = 23.8241 secondes
+total count = 2102949738
+GPU time = 23.3708 seconds
+total time = 23.6299 secondes
+total count = 2102949738
+GPU time = 23.5459 seconds
+total time = 23.8046 secondes
+total count = 2102949738
+GPU time = 23.419 seconds
+total time = 23.6781 secondes
+average total time = 23.7748 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 0.850417 secondes
+total count = 349162
+GPU time = 5.02653 seconds
+total time = 5.71808 secondes
+total count = 349162
+GPU time = 5.02698 seconds
+total time = 5.4464 secondes
+total count = 349162
+GPU time = 5.07097 seconds
+total time = 5.51528 secondes
+total count = 349162
+GPU time = 5.03659 seconds
+total time = 5.45706 secondes
+total count = 349162
+GPU time = 5.04507 seconds
+total time = 5.49374 secondes
+average total time = 5.52611 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+upper Edge Count= 242037623
+pre-processing time = 0.698247 secondes
+total count = 37179588107
+GPU time = 58.3001 seconds
+total time = 58.9663 secondes
+total count = 37179588107
+GPU time = 58.2683 seconds
+total time = 58.6675 secondes
+total count = 37179588107
+GPU time = 58.2826 seconds
+total time = 58.6833 secondes
+total count = 37179588107
+GPU time = 58.2794 seconds
+total time = 58.5207 secondes
+total count = 37179588107
+GPU time = 58.2649 seconds
+total time = 58.508 secondes
+average total time = 58.6692 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+upper Edge Count= 523611003
+pre-processing time = 3.63892 secondes
+total count = 22535831016
+GPU time = 68.601 seconds
+total time = 69.7962 secondes
+total count = 22535831016
+GPU time = 68.828 seconds
+total time = 69.3831 secondes
+total count = 22535831016
+GPU time = 68.5586 seconds
+total time = 69.1127 secondes
+total count = 22535831016
+GPU time = 68.8812 seconds
+total time = 69.4193 secondes
+total count = 22535831016
+GPU time = 68.8099 seconds
+total time = 69.3476 secondes
+average total time = 69.4118 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.623476 secondes
+==6196== NVPROF is profiling process 6196, command: ./tc /home/huyang/data/orkut/
+==6196== Some kernel(s) will be replayed on device 2 in order to collect all events/metrics.
+total count = 223127577
+GPU time = 19.7806 seconds
+total time = 20.648 secondes
+average total time = 20.648 secondes
+==6196== Profiling application: ./tc /home/huyang/data/orkut/
+==6196== Profiling result:
+==6196== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          1                    dram_read_transactions           Device Memory Read Transactions  6039133080  6039133080  6039133080
+	Kernel: reduce_kernel2(long*)
+          1                    dram_read_transactions           Device Memory Read Transactions         215         215         215
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 4.32488 secondes
+==6344== NVPROF is profiling process 6344, command: ./tc /home/huyang/data/facebook/
+==6344== Some kernel(s) will be replayed on device 2 in order to collect all events/metrics.
+total count = 3145181295
+GPU time = 18.5558 seconds
+total time = 19.7875 secondes
+average total time = 19.7875 secondes
+==6344== Profiling application: ./tc /home/huyang/data/facebook/
+==6344== Profiling result:
+==6344== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          1                    dram_read_transactions           Device Memory Read Transactions  4713471249  4713471249  4713471249
+	Kernel: reduce_kernel2(long*)
+          1                    dram_read_transactions           Device Memory Read Transactions         243         243         243
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 0.921989 secondes
+==6426== NVPROF is profiling process 6426, command: ./tc /home/huyang/data/wikipedia_link_en/
+==6426== Some kernel(s) will be replayed on device 2 in order to collect all events/metrics.
+total count = 10494607772
+GPU time = 15.8067 seconds
+total time = 16.6689 secondes
+average total time = 16.6689 secondes
+==6426== Profiling application: ./tc /home/huyang/data/wikipedia_link_en/
+==6426== Profiling result:
+==6426== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          1                    dram_read_transactions           Device Memory Read Transactions  4064218003  4064218003  4064218003
+	Kernel: reduce_kernel2(long*)
+          1                    dram_read_transactions           Device Memory Read Transactions         215         215         215
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 0.919877 secondes
+==6957== NVPROF is profiling process 6957, command: ./tc /home/huyang/data/wikipedia_link_en/
+total count = 10494607772
+GPU time = 7.87419 seconds
+total time = 8.65526 secondes
+average total time = 8.65526 secondes
+==6957== Profiling application: ./tc /home/huyang/data/wikipedia_link_en/
+==6957== Profiling result:
+         Device          Context           Stream                Kernel  Global Load Transactions
+                                                                                                 
+ Tesla K40c (2)                1                7  warp_binary_kernel(i                9970349590
+ Tesla K40c (2)                1                7  reduce_kernel2(long*                       256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 4.38077 secondes
+==7038== NVPROF is profiling process 7038, command: ./tc /home/huyang/data/facebook/
+total count = 3145181295
+GPU time = 9.15624 seconds
+total time = 10.4209 secondes
+average total time = 10.4209 secondes
+==7038== Profiling application: ./tc /home/huyang/data/facebook/
+==7038== Profiling result:
+         Device          Context           Stream                Kernel  Global Load Transactions
+                                                                                                 
+ Tesla K40c (2)                1                7  warp_binary_kernel(i  1.196783602900000000e+10
+ Tesla K40c (2)                1                7  reduce_kernel2(long*                       256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.614712 secondes
+==7186== NVPROF is profiling process 7186, command: ./tc /home/huyang/data/orkut/
+total count = 223127577
+GPU time = 9.86406 seconds
+total time = 10.6885 secondes
+average total time = 10.6885 secondes
+==7186== Profiling application: ./tc /home/huyang/data/orkut/
+==7186== Profiling result:
+         Device          Context           Stream                Kernel  Global Load Transactions
+                                                                                                 
+ Tesla K40c (2)                1                7  warp_binary_kernel(i  1.363786143400000000e+10
+ Tesla K40c (2)                1                7  reduce_kernel2(long*                       256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 0.689886 secondes
+==7332== NVPROF is profiling process 7332, command: ./tc /home/huyang/data/random/
+total count = 349162
+GPU time = 5.12997 seconds
+total time = 5.90388 secondes
+average total time = 5.90388 secondes
+==7332== Profiling application: ./tc /home/huyang/data/random/
+==7332== Profiling result:
+         Device          Context           Stream                Kernel  Global Load Transactions
+                                                                                                 
+ Tesla K40c (2)                1                7  warp_binary_kernel(i                5996831730
+ Tesla K40c (2)                1                7  reduce_kernel2(long*                       256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.431894 secondes
+==7487== NVPROF is profiling process 7487, command: ./tc /home/huyang/data/RMAT/
+total count = 2102949738
+GPU time = 23.4878 seconds
+total time = 24.2393 secondes
+average total time = 24.2393 secondes
+==7487== Profiling application: ./tc /home/huyang/data/RMAT/
+==7487== Profiling result:
+         Device          Context           Stream                Kernel  Global Load Transactions
+                                                                                                 
+ Tesla K40c (2)                1                7  warp_binary_kernel(i  3.826386827500000000e+10
+ Tesla K40c (2)                1                7  reduce_kernel2(long*                       256
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 0.687068 secondes
+==7724== NVPROF is profiling process 7724, command: ./tc /home/huyang/data/random/
+==7724== Some kernel(s) will be replayed on device 2 in order to collect all events/metrics.
+total count = 349162
+GPU time = 10.3522 seconds
+total time = 11.1372 secondes
+average total time = 11.1372 secondes
+==7724== Profiling application: ./tc /home/huyang/data/random/
+==7724== Profiling result:
+==7724== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          1                      dram_read_throughput             Device Memory Read Throughput  13.587GB/s  13.587GB/s  13.587GB/s
+	Kernel: reduce_kernel2(long*)
+          1                      dram_read_throughput             Device Memory Read Throughput  358.46MB/s  358.46MB/s  358.46MB/s
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.425197 secondes
+==7892== NVPROF is profiling process 7892, command: ./tc /home/huyang/data/RMAT
+==7892== Some kernel(s) will be replayed on device 2 in order to collect all events/metrics.
+total count = 2102949738
+GPU time = 46.9846 seconds
+total time = 47.7591 secondes
+average total time = 47.7591 secondes
+==7892== Profiling application: ./tc /home/huyang/data/RMAT
+==7892== Profiling result:
+==7892== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          1                      dram_read_throughput             Device Memory Read Throughput  21.567GB/s  21.567GB/s  21.567GB/s
+	Kernel: reduce_kernel2(long*)
+          1                      dram_read_throughput             Device Memory Read Throughput  371.15MB/s  371.15MB/s  371.15MB/s
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.431766 secondes
+==8096== NVPROF is profiling process 8096, command: ./tc /home/huyang/data/RMAT
+==8096== Some kernel(s) will be replayed on device 2 in order to collect all events/metrics.
+total count = 2102949738
+GPU time = 46.9781 seconds
+total time = 47.7483 secondes
+average total time = 47.7483 secondes
+==8096== Profiling application: ./tc /home/huyang/data/RMAT
+==8096== Profiling result:
+==8096== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla K40c (2)"
+	Kernel: warp_binary_kernel(int*, int*, int*, long*, long, long, long*)
+          1                    dram_read_transactions           Device Memory Read Transactions  1.6960e+10  1.6960e+10  1.6960e+10
+	Kernel: reduce_kernel2(long*)
+          1                    dram_read_transactions           Device Memory Read Transactions         231         231         231
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+upper Edge Count= 620502881
+pre-processing time = 5.85688 secondes
+GPU 3 time = 0.292925 seconds
+GPU 2 time = 0.582867 seconds
+GPU 1 time = 1.26639 seconds
+GPU 0 time = 6.71689 seconds
+total count = 3145181295
+total time = 9.24655 secondes
+GPU 3 time = 0.301214 seconds
+GPU 2 time = 0.589619 seconds
+GPU 1 time = 1.28276 seconds
+GPU 0 time = 6.73894 seconds
+total count = 3145181295
+total time = 7.83678 secondes
+average total time = 8.54167 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+upper Edge Count= 327036486
+pre-processing time = 0.606259 secondes
+GPU 3 time = 0.049196 seconds
+GPU 2 time = 0.11825 seconds
+GPU 1 time = 1.17159 seconds
+GPU 0 time = 8.29885 seconds
+total count = 223127577
+total time = 9.76122 secondes
+GPU 3 time = 0.0500531 seconds
+GPU 2 time = 0.119522 seconds
+GPU 1 time = 1.17248 seconds
+GPU 0 time = 8.2658 seconds
+total count = 223127577
+total time = 8.91496 secondes
+average total time = 9.33809 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+upper Edge Count= 1202513046
+pre-processing time = 10.7947 secondes
+GPU 3 time = 0.701574 seconds
+GPU 2 time = 1.68826 seconds
+GPU 1 time = 8.07756 seconds
+GPU 0 time = 77.1146 seconds
+total count = 34824916864
+total time = 80.232 secondes
+GPU 3 time = 0.707046 seconds
+GPU 2 time = 1.70245 seconds
+GPU 1 time = 8.07318 seconds
+GPU 0 time = 76.9806 seconds
+total count = 34824916864
+total time = 79.1062 secondes
+average total time = 79.6691 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+upper Edge Count= 258377892
+pre-processing time = 0.893973 secondes
+GPU 3 time = 0.000221968 seconds
+GPU 2 time = 1.40392 seconds
+GPU 1 time = 2.09634 seconds
+GPU 0 time = 2.55819 seconds
+total count = 7933963834
+total time = 4.30411 secondes
+GPU 3 time = 0.000265837 seconds
+GPU 2 time = 1.40951 seconds
+GPU 1 time = 2.09781 seconds
+GPU 0 time = 2.57182 seconds
+total count = 7933963834
+total time = 3.04003 secondes
+average total time = 3.67207 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+upper Edge Count= 253096135
+pre-processing time = 0.414739 secondes
+GPU 3 time = 0.000203133 seconds
+GPU 2 time = 5.15426 seconds
+GPU 1 time = 5.16181 seconds
+GPU 0 time = 10.4022 seconds
+total count = 1966120012
+total time = 12.2814 secondes
+GPU 3 time = 0.000274897 seconds
+GPU 2 time = 5.14924 seconds
+GPU 1 time = 5.25289 seconds
+GPU 0 time = 10.5152 seconds
+total count = 1966120012
+total time = 11.0557 secondes
+average total time = 11.6686 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+upper Edge Count= 255995920
+pre-processing time = 0.682868 secondes
+GPU 3 time = 1.21079 seconds
+GPU 2 time = 1.21957 seconds
+GPU 1 time = 1.23972 seconds
+GPU 0 time = 1.26368 seconds
+total count = 349162
+total time = 2.89085 secondes
+GPU 3 time = 1.21966 seconds
+GPU 2 time = 1.22916 seconds
+GPU 0 time = 1.27535 seconds
+GPU 1 time = 1.24102 seconds
+total count = 349162
+total time = 1.64409 secondes
+average total time = 2.26747 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+upper Edge Count= 242037623
+pre-processing time = 0.470986 secondes
+GPU 3 time = 0.00032115 seconds
+GPU 1 time = 14.3548 seconds
+GPU 2 time = 14.2065 seconds
+GPU 0 time = 14.5196 seconds
+total count = 27895611235
+total time = 16.2439 secondes
+GPU 3 time = 0.00027585 seconds
+GPU 2 time = 14.2293 seconds
+GPU 1 time = 14.3733 seconds
+GPU 0 time = 14.5128 seconds
+total count = 27895611235
+total time = 14.9105 secondes
+average total time = 15.5772 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+upper Edge Count= 523611003
+pre-processing time = 3.04639 secondes
+GPU 2 time = 16.6368 seconds
+GPU 3 time = 16.9331 seconds
+GPU 0 time = 17.0376 seconds
+GPU 1 time = 17.1141 seconds
+total count = 22535831016
+total time = 19.1419 secondes
+GPU 2 time = 16.6955 seconds
+GPU 3 time = 17.0182 seconds
+GPU 0 time = 17.1207 seconds
+GPU 1 time = 17.1956 seconds
+total count = 22535831016
+total time = 18.0308 secondes
+average total time = 18.5863 secondes

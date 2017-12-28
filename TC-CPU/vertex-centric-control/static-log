@@ -1,0 +1,110 @@
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/facebook/
+vert:96079681  edge: 1241005762
+K=155125720
+K=310251440
+K=465377160
+upper Edge Count= 620502881
+pre-processing time = 9.83888 secondes
+vertex number: 96079681
+node-iterator version tc = 3145181295
+total time = 6.52647 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/orkut/
+vert:8730857  edge: 654072972
+K=81759121
+K=163518243
+K=245277364
+upper Edge Count= 327036486
+pre-processing time = 1.18268 secondes
+vertex number: 8730857
+node-iterator version tc = 223127577
+total time = 6.23762 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/friendster/
+vert:68349466  edge: 3623698684
+K=452962335
+K=905924671
+K=1358887006
+upper Edge Count= 1811849342
+pre-processing time = 51.7767 secondes
+vertex number: 68349466
+node-iterator version tc = 4176922719
+total time = 50.3526 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter/
+vert:41652230  edge: 2405026092
+K=300628261
+K=601256523
+K=901884784
+upper Edge Count= 1202513046
+pre-processing time = 9.59023 secondes
+vertex number: 41652230
+node-iterator version tc = 34824916864
+total time = 71.5996 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/twitter_mpi/
+vert:52579682  edge: 3228212374
+K=403526546
+K=807053093
+K=1210579640
+upper Edge Count= 1614106187
+pre-processing time = 19.2213 secondes
+vertex number: 52579682
+node-iterator version tc = 55428217664
+total time = 105.483 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/wikipedia_link_en/
+vert:11196007  edge: 516755784
+K=64594473
+K=129188946
+K=193783419
+upper Edge Count= 258377892
+pre-processing time = 1.7793 secondes
+vertex number: 11196007
+node-iterator version tc = 10494607772
+total time = 5.61798 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/RMAT/
+vert:3999983  edge: 506192270
+K=63274033
+K=126548067
+K=189822101
+upper Edge Count= 253096135
+pre-processing time = 0.823364 secondes
+vertex number: 3999983
+node-iterator version tc = 2102949738
+total time = 22.2804 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/random/
+vert:4000000  edge: 511991840
+K=63998980
+K=127997960
+K=191996940
+upper Edge Count= 255995920
+pre-processing time = 1.07122 secondes
+vertex number: 4000000
+node-iterator version tc = 349162
+total time = 4.5614 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron1/
+vert:4194303  edge: 484075246
+K=60509405
+K=121018811
+K=181528217
+upper Edge Count= 242037623
+pre-processing time = 0.836248 secondes
+vertex number: 4194303
+node-iterator version tc = 37179588107
+total time = 53.4506 secondes
+Input format: ./exe graph-file-name (json formated file)
+read from folder /home/huyang/data/kron2/
+vert:33554432  edge: 1047222006
+K=130902750
+K=261805501
+K=392708252
+upper Edge Count= 523611003
+pre-processing time = 5.62513 secondes
+vertex number: 33554432
+node-iterator version tc = 22535831016
+total time = 67.4616 secondes

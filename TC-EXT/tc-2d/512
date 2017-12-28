@@ -1,0 +1,270 @@
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/facebook/2d
+N1 4 N2 3
+0 14316924 42660929 85465675 96079681 
+total number = 3145181295
+edge error = 0
+time = 23.5685
+time of io = 13.9833
+time of tc = 9.48402
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/orkut/2d
+N1 2 N2 2
+0 1949533 8730857 
+total number = 223127577
+edge error = 0
+time = 9.86861
+time of io = 3.17013
+time of tc = 6.68014
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/friendster/2d
+N1 7 N2 4
+0 4619621 9787698 16440526 24287275 32894079 45759975 68349466 
+total number = 4176922719
+edge error = 0
+time = 114.798
+time of io = 44.121
+time of tc = 70.2978
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/twitter/2d
+N1 5 N2 3
+0 3633408 6480535 14405821 27696506 41652230 
+total number = 34824916864
+edge error = 0
+time = 98.9741
+time of io = 21.5177
+time of tc = 77.3044
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/twitter_mpi/2d
+N1 6 N2 4
+0 751341 3855820 12208955 25077757 39904398 52579682 
+total number = 55428217664
+edge error = 0
+time = 151.053
+time of io = 35.2489
+time of tc = 115.545
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/wikipedia_link_en/2d
+N1 2 N2 2
+0 9238636 11196007 
+total number = 10494607772
+edge error = 0
+time = 9.07362
+time of io = 2.53252
+time of tc = 6.52353
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/RMAT/2d
+N1 2 N2 2
+0 3918456 3999983 
+total number = 2102949738
+edge error = 0
+time = 25.7652
+time of io = 2.52967
+time of tc = 23.2227
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/random/2d
+N1 2 N2 2
+0 3946228 4000000 
+total number = 349162
+edge error = 0
+time = 8.28581
+time of io = 2.38866
+time of tc = 5.88369
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/kron1/2d
+N1 1 N2 2
+0 4194303 
+total number = 37179588107
+edge error = 0
+time = 55.9247
+time of io = 2.03044
+time of tc = 53.8862
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/kron2/2d
+N1 3 N2 2
+0 13626979 27396130 33554432 
+total number = 22535831016
+edge error = 0
+time = 76.7871
+time of io = 6.24727
+time of tc = 70.4921
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/facebook/2d
+N1 4 N2 3
+0 14316924 42660929 85465675 96079681 
+total number = 3145181295
+edge error = 0
+time = 22.4169
+time of io = 12.8539
+time of tc = 9.46103
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/orkut/2d
+N1 2 N2 2
+0 1949533 8730857 
+total number = 223127577
+edge error = 0
+time = 9.88548
+time of io = 3.19279
+time of tc = 6.67401
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/friendster/2d
+N1 7 N2 4
+0 4619621 9787698 16440526 24287275 32894079 45759975 68349466 
+total number = 4176922719
+edge error = 0
+time = 116.752
+time of io = 45.6854
+time of tc = 70.6942
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/twitter/2d
+N1 5 N2 3
+0 3633408 6480535 14405821 27696506 41652230 
+total number = 34824916864
+edge error = 0
+time = 98.2666
+time of io = 20.9344
+time of tc = 77.1826
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/twitter_mpi/2d
+N1 6 N2 4
+0 751341 3855820 12208955 25077757 39904398 52579682 
+total number = 55428217664
+edge error = 0
+time = 151.143
+time of io = 35.0187
+time of tc = 115.864
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/wikipedia_link_en/2d
+N1 2 N2 2
+0 9238636 11196007 
+total number = 10494607772
+edge error = 0
+time = 9.20799
+time of io = 2.69149
+time of tc = 6.4988
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/RMAT/2d
+N1 2 N2 2
+0 3918456 3999983 
+total number = 2102949738
+edge error = 0
+time = 25.5496
+time of io = 2.32703
+time of tc = 23.2082
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/random/2d
+N1 2 N2 2
+0 3946228 4000000 
+total number = 349162
+edge error = 0
+time = 8.32486
+time of io = 2.42127
+time of tc = 5.88947
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/kron1/2d
+N1 1 N2 2
+0 4194303 
+total number = 37179588107
+edge error = 0
+time = 55.7435
+time of io = 1.85393
+time of tc = 53.8811
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/kron2/2d
+N1 3 N2 2
+0 13626979 27396130 33554432 
+total number = 22535831016
+edge error = 0
+time = 77.205
+time of io = 6.54822
+time of tc = 70.6087
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/facebook/2d
+N1 4 N2 3
+0 14316924 42660929 85465675 96079681 
+total number = 3145181295
+edge error = 0
+time = 23.4022
+time of io = 13.7482
+time of tc = 9.54972
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/orkut/2d
+N1 2 N2 2
+0 1949533 8730857 
+total number = 223127577
+edge error = 0
+time = 10.1231
+time of io = 3.38988
+time of tc = 6.71303
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/friendster/2d
+N1 7 N2 4
+0 4619621 9787698 16440526 24287275 32894079 45759975 68349466 
+total number = 4176922719
+edge error = 0
+time = 114.006
+time of io = 43.3901
+time of tc = 70.2429
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/twitter/2d
+N1 5 N2 3
+0 3633408 6480535 14405821 27696506 41652230 
+total number = 34824916864
+edge error = 0
+time = 98.9259
+time of io = 21.6091
+time of tc = 77.1634
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/twitter_mpi/2d
+N1 6 N2 4
+0 751341 3855820 12208955 25077757 39904398 52579682 
+total number = 55428217664
+edge error = 0
+time = 151.74
+time of io = 35.8271
+time of tc = 115.653
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/wikipedia_link_en/2d
+N1 2 N2 2
+0 9238636 11196007 
+total number = 10494607772
+edge error = 0
+time = 9.13998
+time of io = 2.6249
+time of tc = 6.49704
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/RMAT/2d
+N1 2 N2 2
+0 3918456 3999983 
+total number = 2102949738
+edge error = 0
+time = 25.719
+time of io = 2.46875
+time of tc = 23.2368
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/random/2d
+N1 2 N2 2
+0 3946228 4000000 
+total number = 349162
+edge error = 0
+time = 8.21672
+time of io = 2.33251
+time of tc = 5.87042
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/kron1/2d
+N1 1 N2 2
+0 4194303 
+total number = 37179588107
+edge error = 0
+time = 55.8695
+time of io = 1.97419
+time of tc = 53.8873
+Input format: ./exe graph-file-name (json formated file)
+/home/huyang/data/kron2/2d
+N1 3 N2 2
+0 13626979 27396130 33554432 
+total number = 22535831016
+edge error = 0
+time = 76.6463
+time of io = 6.13724
+time of tc = 70.4601
