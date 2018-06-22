@@ -1,4 +1,4 @@
-EXE=tc
+EXE=cleaner
 
 #COMMFLAGS= -O3 -compiler-options -Wall -Xptxas -v -lpthread
 CUFLAGS+=-O3 --compiler-options -Wall -Xptxas -v -lpthread
