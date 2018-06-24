@@ -1,5 +1,5 @@
-# TC
-
+TC
+===========================
 
 ## Preprocess from SNAP data
 
@@ -54,9 +54,13 @@ It only keeps the edges from lower degree vertex to higher degree vertex. After 
 
 ## Triangle counting
 
-### GPU
+### GPU in-memory
+The path of in-memory GPU triangle counting is ```TC/TC-GPU/work-steal/```.
+Run the code with ```./tc <input_path>```.
 
-### CPU
+### CPU in-memory
+The path of in-memory CPU triangle counting is ```TC/TC-CPU/tc-ne-cpu/```.
+Run the code with ```./tc <input_path>```.
 
 ### GPU on 2d partitioned data
 
