@@ -62,4 +62,7 @@ It only keeps the edges from lower degree vertex to higher degree vertex. After 
 
 ### CPU on 2d partitioned data
 
+## Graph Challenge Example Dataset and Toolkit
+
+The dataset path is ```TC/example_dataset/amazon0302/```, the _\_adj.mmio_ is the original data format downloaded from https://graphchallenge.mit.edu/data-sets .
 
