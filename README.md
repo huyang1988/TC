@@ -3,6 +3,14 @@ TC
 
 ## Preprocess from SNAP data
 
+### Data Formats
+
+#### SNAP
+A SNAP dataset http://snap.stanford.edu/ is a text file that each line is an edge with source and destination vertex IDs, such as 
+  ```11  25```
+
+#### CSR
+
 ### converter
 
 The codes are in the folder below.
