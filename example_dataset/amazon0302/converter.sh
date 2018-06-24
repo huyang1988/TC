@@ -1,6 +1,6 @@
 #!/bin/bash
 inputfile=$1
-../../miniTri.exe $inputfile 
+#../../miniTri.exe $inputfile 
 awk 'NF{NF-=1};1' < $inputfile > delete.tuple
 sed '3s/.*/%&/' delete.tuple > $inputfile".tuple"
 rm delete.tuple
@@ -12,4 +12,4 @@ rm delete.tuple
 mv csr.adj_rankbydegree adjacent.bin
 mv csr.beg_pos_rankbydegree begin.bin
 mv $inputfile".edge" edge
-../../tc-ne-cpu ./
+#../../tc-ne-cpu ./
