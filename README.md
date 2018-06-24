@@ -10,6 +10,12 @@ A SNAP dataset http://snap.stanford.edu/ is a text file that each line is an edg
   ```11  25```
 
 #### CSR
+A CSR data generally contains two lists, the begin position array which represents the offsets of the neighbor lists by source vertex ID, and the adjacency list which stores destination vertices of all edges.
+
+  **adjacent.bin**
+  **begin.bin**
+  **head.bin**
+  **edge**
 
 ### converter
 
