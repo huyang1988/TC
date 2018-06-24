@@ -6,16 +6,16 @@ TC
 ### Data Formats
 
 #### SNAP
-A SNAP dataset http://snap.stanford.edu/ is a text file that each line is an edge with source and destination vertex IDs, such as 
+A SNAP dataset http://snap.stanford.edu/ is a text file that each line is an edge with source and destination vertex IDs, such as  
   ```11  25```
 
 #### CSR
 A CSR data generally contains two lists, the begin position array which represents the offsets of the neighbor lists by source vertex ID, and the adjacency list which stores destination vertices of all edges.
 
-  **adjacent.bin**
-  **begin.bin**
-  **head.bin**
-  **edge**
+  **adjacent.bin**  
+  **begin.bin**  
+  **head.bin**  
+  **edge**  
 
 ### converter
 
