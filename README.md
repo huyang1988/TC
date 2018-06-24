@@ -56,11 +56,11 @@ It only keeps the edges from lower degree vertex to higher degree vertex. After 
 
 ### GPU in-memory
 The path of in-memory GPU triangle counting is ```TC/TC-GPU/work-steal/```.
-Run the code with ```./tc <input_path>```.
+Run the code with command ```./tc <input_path>```.
 
 ### CPU in-memory
 The path of in-memory CPU triangle counting is ```TC/TC-CPU/tc-ne-cpu/```.
-Run the code with ```./tc <input_path>```.
+Run the code with command ```./tc <input_path>```.
 
 ### GPU on 2d partitioned data
 
@@ -68,5 +68,5 @@ Run the code with ```./tc <input_path>```.
 
 ## Graph Challenge Example Dataset and Toolkit
 
-The dataset path is ```TC/example_dataset/amazon0302/```, the _\_adj.mmio_ is the original data format downloaded from https://graphchallenge.mit.edu/data-sets. Converter tool source code is in ```TC/gConv/```, copy the executable to dataset path, line 8 of the bash script ```converter.sh``` needs to be modified (set the number to (#vertex+1), the vertex count can be found by ```less <input>_adj.mmio```). Run the bash script ```./converter.sh <input>_adj.mmio``` (replace the input name, for example, amazon0302).
+The dataset path is ```TC/example_dataset/amazon0302/```, the _\_adj.mmio_ is the original data format downloaded from https://graphchallenge.mit.edu/data-sets. Converter tool source code is in ```TC/gConv/```, copy the executable to dataset path, line 8 of the bash script ```converter.sh``` needs to be modified (set the number to (#vertex+1), the vertex count can be found by ```less <input>_adj.mmio```). Run the bash script with command ```./converter.sh <input>_adj.mmio``` (replace the input name, for example, amazon0302).
 
