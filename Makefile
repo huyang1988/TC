@@ -15,6 +15,7 @@ clean: $(SUBDIRS)
 	for dir in $(SUBDIRS); do \
 		$(MAKE) -C $$dir clean; \
 		done
+	rm toolkit/*
 
 .PHONY: all $(SUBDIRS)
 
