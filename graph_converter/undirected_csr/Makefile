@@ -1,4 +1,4 @@
-exe = text_to_bin
+exe = tuple_to_undirected_csr.bin
 
 cc = "$(shell which g++)" 
 flags = -O3 #-I../../lib/ -I. -laio -fopenmp 

@@ -1,4 +1,4 @@
-EXE=cleaner
+EXE=graph_cleaner.bin
 
 #COMMFLAGS= -O3 -compiler-options -Wall -Xptxas -v -lpthread
 CUFLAGS+=-O3 --compiler-options -Wall -Xptxas -v -lpthread

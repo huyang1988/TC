@@ -1,4 +1,4 @@
-EXE=tc
+EXE=rank_by_degree.bin
 
 
 COMMFLAGS= -O3 --compiler-options -Wall -Xptxas -v -lpthread

@@ -7,9 +7,9 @@ all: $(SUBDIRS)
 	for dir in $(SUBDIRS); do \
 		$(MAKE) -C $$dir; \
 		done
-	mv graph_converter/undirected_csr/text_to_bin toolkit/
-	mv rank_by_degree/tc toolkit
-	mv graph_cleaner/cleaner toolkit
+	mv graph_converter/undirected_csr/tuple_to_undirected_csr.bin toolkit/
+	mv rank_by_degree/rank_by_degree.bin toolkit
+	mv graph_cleaner/graph_cleaner.bin toolkit
 
 clean: $(SUBDIRS)
 	for dir in $(SUBDIRS); do \
