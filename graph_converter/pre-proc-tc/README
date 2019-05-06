@@ -1,0 +1,10 @@
+text tuple list to csr with int as vertex type and long int as index type.
+
+In this proc, we need to transfer the directed graph to an undirected one.
+Thus when we read each edge, we write 2 directed edge both directions.
+
+
+
+ignore the first lines start with '%'.
+
+print first 64 line as verification.
